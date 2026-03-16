@@ -7,7 +7,7 @@ import { componentTagger } from "lovable-tagger";
 export default defineConfig(({ mode }) => ({
   // For GitHub Pages: set base to repo name (update after connecting)
   // e.g. base: "/awesome-mges/"
-  base: mode === "production" ? "/" : "/",
+  base: mode === "production" ? "/mobile-gene-finder/" : "/",
   server: {
     host: "::",
     port: 8080,
