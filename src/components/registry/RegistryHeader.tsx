@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Search, LayoutGrid, Table, ArrowUpDown, HelpCircle, X } from "lucide-react";
+import { formatTimeSince } from "@/lib/scraped-data";
 
 interface RegistryHeaderProps {
   search: string;
@@ -9,6 +10,7 @@ interface RegistryHeaderProps {
   sortBy: "name" | "updated";
   onSortChange: (sort: "name" | "updated") => void;
   totalTools: number;
+  lastScraped: string | null;
 }
 
 const STATUS_LEGEND = [
@@ -26,6 +28,7 @@ export const RegistryHeader = ({
   sortBy,
   onSortChange,
   totalTools,
+  lastScraped,
 }: RegistryHeaderProps) => {
   const [showLegend, setShowLegend] = useState(false);
 
@@ -124,7 +127,7 @@ export const RegistryHeader = ({
           </div>
 
           <span className="text-xs font-mono text-muted-foreground ml-2">
-            Last scrape: <span className="text-primary">14m ago</span>
+            Last scrape: <span className="text-primary">{formatTimeSince(lastScraped)}</span>
           </span>
         </div>
       </div>
