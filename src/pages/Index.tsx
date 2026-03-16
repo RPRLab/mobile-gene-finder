@@ -1,16 +1,22 @@
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { tools, categories, type MGECategory } from "@/data/tools";
 import { RegistryHeader } from "@/components/registry/RegistryHeader";
 import { CategorySidebar } from "@/components/registry/CategorySidebar";
 import { ToolGrid } from "@/components/registry/ToolGrid";
 import { ToolTable } from "@/components/registry/ToolTable";
 import { LiveFeed } from "@/components/registry/LiveFeed";
+import { loadScrapedData, type ScrapedData } from "@/lib/scraped-data";
 
 const Index = () => {
   const [search, setSearch] = useState("");
   const [selectedCategories, setSelectedCategories] = useState<MGECategory[]>([]);
   const [viewMode, setViewMode] = useState<"grid" | "table">("grid");
   const [sortBy, setSortBy] = useState<"name" | "updated">("updated");
+  const [scrapedData, setScrapedData] = useState<ScrapedData | null>(null);
+
+  useEffect(() => {
+    loadScrapedData().then(setScrapedData);
+  }, []);
 
   const filteredTools = useMemo(() => {
     let result = tools;
@@ -62,6 +68,7 @@ const Index = () => {
         sortBy={sortBy}
         onSortChange={setSortBy}
         totalTools={tools.length}
+        lastScraped={scrapedData?.lastScraped ?? null}
       />
 
       <div className="flex">
@@ -79,9 +86,9 @@ const Index = () => {
               <p className="text-sm mt-1">Try adjusting your search or filters</p>
             </div>
           ) : viewMode === "grid" ? (
-            <ToolGrid tools={filteredTools} />
+            <ToolGrid tools={filteredTools} scrapedData={scrapedData} />
           ) : (
-            <ToolTable tools={filteredTools} />
+            <ToolTable tools={filteredTools} scrapedData={scrapedData} />
           )}
         </main>
 
