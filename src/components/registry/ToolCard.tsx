@@ -1,13 +1,15 @@
-import { Terminal, FileText, ExternalLink } from "lucide-react";
+import { Terminal, FileText, ExternalLink, Star, GitFork } from "lucide-react";
 import type { MGETool } from "@/data/tools";
 import { CATEGORY_COLORS } from "@/data/tools";
+import type { ScrapedToolData } from "@/lib/scraped-data";
 import { StatusBadge } from "./StatusBadge";
 
 interface ToolCardProps {
   tool: MGETool;
+  scraped?: ScrapedToolData;
 }
 
-export const ToolCard = ({ tool }: ToolCardProps) => {
+export const ToolCard = ({ tool, scraped }: ToolCardProps) => {
   const categoryColor = CATEGORY_COLORS[tool.category];
 
   return (
@@ -41,6 +43,24 @@ export const ToolCard = ({ tool }: ToolCardProps) => {
         </span>
         <span>·</span>
         <span>{tool.lastUpdated !== "None" ? tool.lastUpdated : "N/A"}</span>
+        {scraped?.stars != null && (
+          <>
+            <span>·</span>
+            <span className="flex items-center gap-0.5">
+              <Star className="h-3 w-3" />
+              {scraped.stars}
+            </span>
+          </>
+        )}
+        {scraped?.forks != null && (
+          <>
+            <span>·</span>
+            <span className="flex items-center gap-0.5">
+              <GitFork className="h-3 w-3" />
+              {scraped.forks}
+            </span>
+          </>
+        )}
       </div>
 
       {/* Notes */}
