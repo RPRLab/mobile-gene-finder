@@ -1,9 +1,11 @@
 import { Terminal, FileText, ExternalLink } from "lucide-react";
 import type { MGETool } from "@/data/tools";
+import type { ScrapedData } from "@/lib/scraped-data";
 import { StatusBadge } from "./StatusBadge";
 
 interface ToolTableProps {
   tools: MGETool[];
+  scrapedData?: ScrapedData | null;
 }
 
 export const ToolTable = ({ tools }: ToolTableProps) => {
