@@ -8,7 +8,7 @@ interface ToolTableProps {
   scrapedData?: ScrapedData | null;
 }
 
-export const ToolTable = ({ tools }: ToolTableProps) => {
+export const ToolTable = ({ tools, scrapedData }: ToolTableProps) => {
   return (
     <div className="overflow-x-auto rounded-lg border border-border">
       <table className="w-full text-xs">
