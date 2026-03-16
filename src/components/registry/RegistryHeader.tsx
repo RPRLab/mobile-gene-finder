@@ -1,4 +1,5 @@
-import { Search, LayoutGrid, Table, ArrowUpDown } from "lucide-react";
+import { useState } from "react";
+import { Search, LayoutGrid, Table, ArrowUpDown, HelpCircle, X } from "lucide-react";
 
 interface RegistryHeaderProps {
   search: string;
@@ -10,6 +11,13 @@ interface RegistryHeaderProps {
   totalTools: number;
 }
 
+const STATUS_LEGEND = [
+  { label: "Maintained", desc: "Updated in 2024 or later", className: "bg-status-maintained" },
+  { label: "Stale", desc: "Last updated 2022–2023", className: "bg-status-stale" },
+  { label: "Deprecated", desc: "Last updated before 2022", className: "bg-status-deprecated" },
+  { label: "Unavailable", desc: "No update date available", className: "bg-status-unavailable" },
+];
+
 export const RegistryHeader = ({
   search,
   onSearchChange,
@@ -19,6 +27,8 @@ export const RegistryHeader = ({
   onSortChange,
   totalTools,
 }: RegistryHeaderProps) => {
+  const [showLegend, setShowLegend] = useState(false);
+
   return (
     <header className="sticky top-0 z-50 bg-card border-b border-border">
       {/* Scrape progress bar */}
@@ -72,6 +82,45 @@ export const RegistryHeader = ({
             >
               <Table className="h-4 w-4" />
             </button>
+          </div>
+
+          {/* Help button */}
+          <div className="relative">
+            <button
+              onClick={() => setShowLegend((v) => !v)}
+              className="p-2 text-muted-foreground hover:text-foreground bg-background border border-border rounded-lg transition-colors"
+              aria-label="Status legend"
+            >
+              <HelpCircle className="h-4 w-4" />
+            </button>
+
+            {showLegend && (
+              <>
+                <div className="fixed inset-0 z-40" onClick={() => setShowLegend(false)} />
+                <div className="absolute right-0 top-full mt-2 z-50 w-72 bg-card border border-border rounded-xl shadow-lg p-4">
+                  <div className="flex items-center justify-between mb-3">
+                    <h3 className="text-sm font-semibold text-foreground">Status Legend</h3>
+                    <button onClick={() => setShowLegend(false)} className="text-muted-foreground hover:text-foreground">
+                      <X className="h-3.5 w-3.5" />
+                    </button>
+                  </div>
+                  <div className="space-y-2.5">
+                    {STATUS_LEGEND.map((s) => (
+                      <div key={s.label} className="flex items-start gap-2.5">
+                        <span className={`mt-1 w-2 h-2 rounded-full shrink-0 ${s.className}`} />
+                        <div>
+                          <span className="text-xs font-medium text-foreground">{s.label}</span>
+                          <p className="text-[11px] text-muted-foreground leading-snug">{s.desc}</p>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                  <p className="text-[10px] text-muted-foreground mt-3 pt-3 border-t border-border leading-relaxed">
+                    Status is auto-determined from each tool's last commit or release date on GitHub/GitLab.
+                  </p>
+                </div>
+              </>
+            )}
           </div>
 
           <span className="text-xs font-mono text-muted-foreground ml-2">
