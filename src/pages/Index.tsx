@@ -1,16 +1,94 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import { useState, useMemo } from "react";
+import { tools, categories, type MGECategory } from "@/data/tools";
+import { RegistryHeader } from "@/components/registry/RegistryHeader";
+import { CategorySidebar } from "@/components/registry/CategorySidebar";
+import { ToolGrid } from "@/components/registry/ToolGrid";
+import { ToolTable } from "@/components/registry/ToolTable";
+import { LiveFeed } from "@/components/registry/LiveFeed";
 
-// IMPORTANT: Fully REPLACE this with your own code
-const PlaceholderIndex = () => {
-  // PLACEHOLDER: Replace this entire return statement with the user's app.
-  // The inline background color is intentionally not part of the design system.
+const Index = () => {
+  const [search, setSearch] = useState("");
+  const [selectedCategories, setSelectedCategories] = useState<MGECategory[]>([]);
+  const [viewMode, setViewMode] = useState<"grid" | "table">("grid");
+  const [sortBy, setSortBy] = useState<"name" | "updated">("updated");
+
+  const filteredTools = useMemo(() => {
+    let result = tools;
+
+    if (search) {
+      const q = search.toLowerCase();
+      result = result.filter(
+        (t) =>
+          t.name.toLowerCase().includes(q) ||
+          t.method.toLowerCase().includes(q) ||
+          t.target.toLowerCase().includes(q) ||
+          t.category.toLowerCase().includes(q)
+      );
+    }
+
+    if (selectedCategories.length > 0) {
+      result = result.filter((t) => selectedCategories.includes(t.category));
+    }
+
+    result = [...result].sort((a, b) => {
+      if (sortBy === "name") return a.name.localeCompare(b.name);
+      return b.lastUpdated.localeCompare(a.lastUpdated);
+    });
+
+    return result;
+  }, [search, selectedCategories, sortBy]);
+
+  const toggleCategory = (cat: MGECategory) => {
+    setSelectedCategories((prev) =>
+      prev.includes(cat) ? prev.filter((c) => c !== cat) : [...prev, cat]
+    );
+  };
+
+  const categoryCounts = useMemo(() => {
+    const counts: Record<string, number> = {};
+    tools.forEach((t) => {
+      counts[t.category] = (counts[t.category] || 0) + 1;
+    });
+    return counts;
+  }, []);
+
   return (
-    <div className="flex min-h-screen items-center justify-center" style={{ backgroundColor: '#fcfbf8' }}>
-      <img data-lovable-blank-page-placeholder="REMOVE_THIS" src="/placeholder.svg" alt="Your app will live here!" />
+    <div className="min-h-screen bg-background text-foreground">
+      <RegistryHeader
+        search={search}
+        onSearchChange={setSearch}
+        viewMode={viewMode}
+        onViewModeChange={setViewMode}
+        sortBy={sortBy}
+        onSortChange={setSortBy}
+        totalTools={tools.length}
+      />
+
+      <div className="flex">
+        <CategorySidebar
+          categories={categories}
+          selectedCategories={selectedCategories}
+          onToggleCategory={toggleCategory}
+          counts={categoryCounts}
+        />
+
+        <main className="flex-1 min-w-0 p-6">
+          {filteredTools.length === 0 ? (
+            <div className="flex flex-col items-center justify-center py-24 text-muted-foreground">
+              <p className="text-lg font-medium">No tools found</p>
+              <p className="text-sm mt-1">Try adjusting your search or filters</p>
+            </div>
+          ) : viewMode === "grid" ? (
+            <ToolGrid tools={filteredTools} />
+          ) : (
+            <ToolTable tools={filteredTools} />
+          )}
+        </main>
+
+        <LiveFeed />
+      </div>
     </div>
   );
 };
-
-const Index = PlaceholderIndex;
 
 export default Index;
