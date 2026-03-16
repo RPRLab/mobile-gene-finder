@@ -30,7 +30,7 @@ export const RegistryHeader = ({
         {/* Logo */}
         <div className="flex items-center gap-3 shrink-0">
           <h1 className="text-lg font-semibold tracking-tight text-foreground">
-            Mobilome<span className="text-primary">.Index</span>
+            awesome<span className="text-primary">MGEs</span>
           </h1>
           <span className="text-xs font-mono text-muted-foreground tabular-nums">
             {totalTools}+ tools
