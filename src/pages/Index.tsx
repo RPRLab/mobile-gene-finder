@@ -56,11 +56,11 @@ const Index = () => {
 
   const categoryCounts = useMemo(() => {
     const counts: Record<string, number> = {};
-    tools.forEach((t) => {
+    enrichedTools.forEach((t) => {
       counts[t.category] = (counts[t.category] || 0) + 1;
     });
     return counts;
-  }, []);
+  }, [enrichedTools]);
 
   return (
     <div className="min-h-screen bg-background text-foreground">
