@@ -1,11 +1,10 @@
 import { useState, useMemo, useEffect } from "react";
 import { tools, categories, type MGECategory, getToolsWithScrapedStatus } from "@/data/tools";
 import { RegistryHeader } from "@/components/registry/RegistryHeader";
-import { CategorySidebar } from "@/components/registry/CategorySidebar";
+import { CategorySidebar, EMPTY_FILTERS, type Filters } from "@/components/registry/CategorySidebar";
 import { ToolGrid } from "@/components/registry/ToolGrid";
 import { ToolTable } from "@/components/registry/ToolTable";
 import { LiveFeed } from "@/components/registry/LiveFeed";
-import { FilterBar, EMPTY_FILTERS, type Filters } from "@/components/registry/FilterBar";
 import { loadScrapedData, type ScrapedData } from "@/lib/scraped-data";
 
 const Index = () => {
@@ -24,7 +23,6 @@ const Index = () => {
     return scrapedData ? getToolsWithScrapedStatus(scrapedData.data) : tools;
   }, [scrapedData]);
 
-  // Derive available filter values
   const availableTargets = useMemo(() => {
     const set = new Set(enrichedTools.map((t) => t.target));
     return [...set].sort();
@@ -65,7 +63,6 @@ const Index = () => {
       result = result.filter((t) => selectedCategories.includes(t.category));
     }
 
-    // Advanced filters
     if (filters.targets.length > 0) {
       result = result.filter((t) => filters.targets.includes(t.target));
     }
@@ -99,6 +96,11 @@ const Index = () => {
     );
   };
 
+  const clearAll = () => {
+    setSelectedCategories([]);
+    setFilters(EMPTY_FILTERS);
+  };
+
   const categoryCounts = useMemo(() => {
     const counts: Record<string, number> = {};
     enrichedTools.forEach((t) => {
@@ -120,20 +122,18 @@ const Index = () => {
         lastScraped={scrapedData?.lastScraped ?? null}
       />
 
-      <FilterBar
-        filters={filters}
-        onChange={setFilters}
-        availableTargets={availableTargets}
-        availableLanguages={availableLanguages}
-        availableAvailability={availableAvailability}
-      />
-
       <div className="flex">
         <CategorySidebar
           categories={categories}
           selectedCategories={selectedCategories}
           onToggleCategory={toggleCategory}
           counts={categoryCounts}
+          filters={filters}
+          onFiltersChange={setFilters}
+          availableTargets={availableTargets}
+          availableLanguages={availableLanguages}
+          availableAvailability={availableAvailability}
+          onClearAll={clearAll}
         />
 
         <main className="flex-1 min-w-0 p-6">
