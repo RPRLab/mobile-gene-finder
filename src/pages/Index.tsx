@@ -18,8 +18,12 @@ const Index = () => {
     loadScrapedData().then(setScrapedData);
   }, []);
 
+  const enrichedTools = useMemo(() => {
+    return scrapedData ? getToolsWithScrapedStatus(scrapedData.data) : tools;
+  }, [scrapedData]);
+
   const filteredTools = useMemo(() => {
-    let result = tools;
+    let result = enrichedTools;
 
     if (search) {
       const q = search.toLowerCase();
@@ -42,7 +46,7 @@ const Index = () => {
     });
 
     return result;
-  }, [search, selectedCategories, sortBy]);
+  }, [search, selectedCategories, sortBy, enrichedTools]);
 
   const toggleCategory = (cat: MGECategory) => {
     setSelectedCategories((prev) =>
