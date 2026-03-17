@@ -92,7 +92,7 @@ const Index = () => {
           )}
         </main>
 
-        <LiveFeed />
+        <LiveFeed scrapedData={scrapedData} totalTools={tools.length} />
       </div>
     </div>
   );
