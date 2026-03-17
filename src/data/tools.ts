@@ -36,10 +36,18 @@ export interface MGETool {
   status: ToolStatus;
 }
 
-function getStatus(lastUpdated: string, availability: string): ToolStatus {
+function getStatus(lastUpdated: string, availability: string, lastPush?: string | null): ToolStatus {
   if (availability.toLowerCase().includes("unavailable") || availability === "Unavailable") return "unavailable";
   if (lastUpdated === "None" || !lastUpdated) return "unavailable";
-  const year = parseInt(lastUpdated.split("/")[0]);
+  
+  // Prefer scraped lastPush date (more accurate) over manual lastUpdated
+  let year: number;
+  if (lastPush) {
+    year = new Date(lastPush).getFullYear();
+  } else {
+    year = parseInt(lastUpdated.split("/")[0]);
+  }
+  
   if (isNaN(year)) return "stale";
   if (year >= 2024) return "maintained";
   if (year >= 2022) return "stale";
@@ -227,6 +235,13 @@ export const tools: MGETool[] = rawTools.map(t => ({
   ...t,
   status: getStatus(t.lastUpdated, t.availability),
 }));
+
+export function getToolsWithScrapedStatus(scrapedData?: Record<string, { lastPush?: string }> | null): MGETool[] {
+  return rawTools.map(t => ({
+    ...t,
+    status: getStatus(t.lastUpdated, t.availability, scrapedData?.[t.name]?.lastPush),
+  }));
+}
 
 export const categories: MGECategory[] = [
   "Anti-phage Defence Systems",

@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from "react";
-import { tools, categories, type MGECategory } from "@/data/tools";
+import { tools, categories, type MGECategory, getToolsWithScrapedStatus } from "@/data/tools";
 import { RegistryHeader } from "@/components/registry/RegistryHeader";
 import { CategorySidebar } from "@/components/registry/CategorySidebar";
 import { ToolGrid } from "@/components/registry/ToolGrid";
@@ -18,8 +18,12 @@ const Index = () => {
     loadScrapedData().then(setScrapedData);
   }, []);
 
+  const enrichedTools = useMemo(() => {
+    return scrapedData ? getToolsWithScrapedStatus(scrapedData.data) : tools;
+  }, [scrapedData]);
+
   const filteredTools = useMemo(() => {
-    let result = tools;
+    let result = enrichedTools;
 
     if (search) {
       const q = search.toLowerCase();
@@ -42,7 +46,7 @@ const Index = () => {
     });
 
     return result;
-  }, [search, selectedCategories, sortBy]);
+  }, [search, selectedCategories, sortBy, enrichedTools]);
 
   const toggleCategory = (cat: MGECategory) => {
     setSelectedCategories((prev) =>
@@ -52,11 +56,11 @@ const Index = () => {
 
   const categoryCounts = useMemo(() => {
     const counts: Record<string, number> = {};
-    tools.forEach((t) => {
+    enrichedTools.forEach((t) => {
       counts[t.category] = (counts[t.category] || 0) + 1;
     });
     return counts;
-  }, []);
+  }, [enrichedTools]);
 
   return (
     <div className="min-h-screen bg-background text-foreground">
@@ -67,7 +71,7 @@ const Index = () => {
         onViewModeChange={setViewMode}
         sortBy={sortBy}
         onSortChange={setSortBy}
-        totalTools={tools.length}
+        totalTools={enrichedTools.length}
         lastScraped={scrapedData?.lastScraped ?? null}
       />
 
