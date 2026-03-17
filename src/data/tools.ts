@@ -64,7 +64,7 @@ export const CATEGORY_COLORS: Record<string, string> = {
   "Integrated Pipelines": "#B4C7E7",
   "Lifestyle Prediction": "#FFF2CC",
   "Mobile Genetic Elements": "#FCE5CD",
-  "Other / Experimental": "#EFEFEF",
+  
   "Phage Comparative Genomics": "#D5A6BD",
   "Prophage Identification": "#C6EFCE",
   "RNA Virus Analysis": "#B6D7A8",
