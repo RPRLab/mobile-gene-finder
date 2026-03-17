@@ -100,8 +100,10 @@ async function main() {
 
   // Extract tool entries using regex (name + codeUrl pairs)
   const toolEntries = [];
-  const toolRegex =
-    /\{\s*name:\s*"([^"]+)"[^}]*?(?:codeUrl:\s*"([^"]*)")?[^}]*\}/g;
+  const nameRegex = /name:\s*"([^"]+)"/g;
+  const codeUrlRegex = /codeUrl:\s*"([^"]*)"/;
+  // Split by tool object boundaries and extract name + codeUrl
+  const lineRegex = /\{[^}]+\}/g;
   let match;
   while ((match = toolRegex.exec(toolsSrc)) !== null) {
     toolEntries.push({ name: match[1], codeUrl: match[2] || null });
