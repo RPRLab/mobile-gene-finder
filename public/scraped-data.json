@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-03-17T07:10:49.010Z",
+  "lastScraped": "2026-03-17T10:36:22.891Z",
   "toolCount": 117,
   "data": {
     "Bacant": {
@@ -166,7 +166,7 @@
       "source": "github",
       "stars": 295,
       "forks": 25,
-      "openIssues": 65,
+      "openIssues": 64,
       "lastPush": "2025-11-10T12:11:45Z",
       "archived": false,
       "description": "geNomad: Identification of mobile genetic elements",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 282,
+      "stars": 283,
       "forks": 33,
       "openIssues": 120,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -613,7 +613,7 @@
       "stars": 104,
       "forks": 15,
       "openIssues": 21,
-      "lastPush": "2026-03-13T13:26:01Z",
+      "lastPush": "2026-03-17T08:45:12Z",
       "archived": false,
       "description": "WtP: Phage identification via nextflow and docker or singularity",
       "license": "GPL-3.0",
