@@ -104,11 +104,14 @@ async function main() {
   const codeUrlRegex = /codeUrl:\s*"([^"]*)"/;
   // Split by tool object boundaries and extract name + codeUrl
   const lineRegex = /\{[^}]+\}/g;
-  let match;
-  while ((match = toolRegex.exec(toolsSrc)) !== null) {
-    toolEntries.push({ name: match[1], codeUrl: match[2] || null });
+  let objMatch;
+  while ((objMatch = lineRegex.exec(toolsSrc)) !== null) {
+    const block = objMatch[0];
+    const nameMatch = block.match(/name:\s*"([^"]+)"/);
+    if (!nameMatch) continue;
+    const codeMatch = block.match(codeUrlRegex);
+    toolEntries.push({ name: nameMatch[1], codeUrl: codeMatch ? codeMatch[1] : null });
   }
-
   console.log(`Found ${toolEntries.length} tools to scrape\n`);
 
   const results = {};
