@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Search, LayoutGrid, Table, ArrowUpDown, HelpCircle, X } from "lucide-react";
 import { formatTimeSince } from "@/lib/scraped-data";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 interface RegistryHeaderProps {
   search: string;
@@ -125,6 +126,8 @@ export const RegistryHeader = ({
               </>
             )}
           </div>
+
+          <ThemeToggle />
 
           <span className="text-xs font-mono text-muted-foreground ml-2">
             Last scrape: <span className="text-primary">{formatTimeSince(lastScraped)}</span>

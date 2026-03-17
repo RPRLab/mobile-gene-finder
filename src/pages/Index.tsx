@@ -5,6 +5,7 @@ import { CategorySidebar } from "@/components/registry/CategorySidebar";
 import { ToolGrid } from "@/components/registry/ToolGrid";
 import { ToolTable } from "@/components/registry/ToolTable";
 import { LiveFeed } from "@/components/registry/LiveFeed";
+import { FilterBar, EMPTY_FILTERS, type Filters } from "@/components/registry/FilterBar";
 import { loadScrapedData, type ScrapedData } from "@/lib/scraped-data";
 
 const Index = () => {
@@ -13,6 +14,7 @@ const Index = () => {
   const [viewMode, setViewMode] = useState<"grid" | "table">("grid");
   const [sortBy, setSortBy] = useState<"name" | "updated">("updated");
   const [scrapedData, setScrapedData] = useState<ScrapedData | null>(null);
+  const [filters, setFilters] = useState<Filters>(EMPTY_FILTERS);
 
   useEffect(() => {
     loadScrapedData().then(setScrapedData);
@@ -21,6 +23,29 @@ const Index = () => {
   const enrichedTools = useMemo(() => {
     return scrapedData ? getToolsWithScrapedStatus(scrapedData.data) : tools;
   }, [scrapedData]);
+
+  // Derive available filter values
+  const availableTargets = useMemo(() => {
+    const set = new Set(enrichedTools.map((t) => t.target));
+    return [...set].sort();
+  }, [enrichedTools]);
+
+  const availableLanguages = useMemo(() => {
+    if (!scrapedData) return [];
+    const set = new Set<string>();
+    Object.values(scrapedData.data).forEach((d) => {
+      if (d.language) set.add(d.language);
+    });
+    return [...set].sort();
+  }, [scrapedData]);
+
+  const availableAvailability = useMemo(() => {
+    const set = new Set<string>();
+    enrichedTools.forEach((t) => {
+      t.availability.split(" / ").forEach((a) => set.add(a.trim()));
+    });
+    return [...set].sort();
+  }, [enrichedTools]);
 
   const filteredTools = useMemo(() => {
     let result = enrichedTools;
@@ -40,13 +65,33 @@ const Index = () => {
       result = result.filter((t) => selectedCategories.includes(t.category));
     }
 
+    // Advanced filters
+    if (filters.targets.length > 0) {
+      result = result.filter((t) => filters.targets.includes(t.target));
+    }
+    if (filters.statuses.length > 0) {
+      result = result.filter((t) => filters.statuses.includes(t.status));
+    }
+    if (filters.languages.length > 0 && scrapedData) {
+      result = result.filter((t) => {
+        const lang = scrapedData.data[t.name]?.language;
+        return lang && filters.languages.includes(lang);
+      });
+    }
+    if (filters.availability.length > 0) {
+      result = result.filter((t) => {
+        const parts = t.availability.split(" / ").map((a) => a.trim());
+        return parts.some((p) => filters.availability.includes(p));
+      });
+    }
+
     result = [...result].sort((a, b) => {
       if (sortBy === "name") return a.name.localeCompare(b.name);
       return b.lastUpdated.localeCompare(a.lastUpdated);
     });
 
     return result;
-  }, [search, selectedCategories, sortBy, enrichedTools]);
+  }, [search, selectedCategories, sortBy, enrichedTools, filters, scrapedData]);
 
   const toggleCategory = (cat: MGECategory) => {
     setSelectedCategories((prev) =>
@@ -73,6 +118,14 @@ const Index = () => {
         onSortChange={setSortBy}
         totalTools={enrichedTools.length}
         lastScraped={scrapedData?.lastScraped ?? null}
+      />
+
+      <FilterBar
+        filters={filters}
+        onChange={setFilters}
+        availableTargets={availableTargets}
+        availableLanguages={availableLanguages}
+        availableAvailability={availableAvailability}
       />
 
       <div className="flex">
