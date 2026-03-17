@@ -236,6 +236,13 @@ export const tools: MGETool[] = rawTools.map(t => ({
   status: getStatus(t.lastUpdated, t.availability),
 }));
 
+export function getToolsWithScrapedStatus(scrapedData?: Record<string, { lastPush?: string }> | null): MGETool[] {
+  return rawTools.map(t => ({
+    ...t,
+    status: getStatus(t.lastUpdated, t.availability, scrapedData?.[t.name]?.lastPush),
+  }));
+}
+
 export const categories: MGECategory[] = [
   "Anti-phage Defence Systems",
   "CRISPR Analysis",
