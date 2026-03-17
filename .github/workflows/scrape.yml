@@ -1,6 +1,10 @@
 name: Scrape Tool Repos
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "src/data/tools.ts"
   schedule:
     # Run daily at 06:00 UTC
     - cron: "0 6 * * *"
