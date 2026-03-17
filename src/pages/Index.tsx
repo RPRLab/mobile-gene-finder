@@ -71,7 +71,7 @@ const Index = () => {
         onViewModeChange={setViewMode}
         sortBy={sortBy}
         onSortChange={setSortBy}
-        totalTools={tools.length}
+        totalTools={enrichedTools.length}
         lastScraped={scrapedData?.lastScraped ?? null}
       />
 
