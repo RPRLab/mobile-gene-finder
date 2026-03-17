@@ -127,6 +127,8 @@ export const RegistryHeader = ({
             )}
           </div>
 
+          <ThemeToggle />
+
           <span className="text-xs font-mono text-muted-foreground ml-2">
             Last scrape: <span className="text-primary">{formatTimeSince(lastScraped)}</span>
           </span>
