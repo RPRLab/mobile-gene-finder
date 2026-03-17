@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from "react";
-import { tools, categories, type MGECategory } from "@/data/tools";
+import { tools, categories, type MGECategory, getToolsWithScrapedStatus } from "@/data/tools";
 import { RegistryHeader } from "@/components/registry/RegistryHeader";
 import { CategorySidebar } from "@/components/registry/CategorySidebar";
 import { ToolGrid } from "@/components/registry/ToolGrid";
