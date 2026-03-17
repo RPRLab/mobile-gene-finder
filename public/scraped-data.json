@@ -1,6 +1,6 @@
 {
-  "lastScraped": "2026-03-17T13:16:02.074Z",
-  "toolCount": 117,
+  "lastScraped": "2026-03-17T17:17:02.142Z",
+  "toolCount": 123,
   "data": {
     "Bacant": {
       "source": "github",
@@ -56,8 +56,8 @@
       "source": "github",
       "stars": 917,
       "forks": 159,
-      "openIssues": 294,
-      "lastPush": "2026-03-17T01:13:52Z",
+      "openIssues": 293,
+      "lastPush": "2026-03-17T15:46:26Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -293,8 +293,8 @@
       "source": "github",
       "stars": 917,
       "forks": 159,
-      "openIssues": 294,
-      "lastPush": "2026-03-17T01:13:52Z",
+      "openIssues": 293,
+      "lastPush": "2026-03-17T15:46:26Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -613,7 +613,7 @@
       "stars": 104,
       "forks": 15,
       "openIssues": 21,
-      "lastPush": "2026-03-17T08:45:12Z",
+      "lastPush": "2026-03-17T15:20:18Z",
       "archived": false,
       "description": "WtP: Phage identification via nextflow and docker or singularity",
       "license": "GPL-3.0",
@@ -1058,7 +1058,7 @@
       "source": "github",
       "stars": 80,
       "forks": 9,
-      "openIssues": 2,
+      "openIssues": 3,
       "lastPush": "2025-04-16T10:25:16Z",
       "archived": false,
       "description": "Providing up-to-date phage genome databases, metrics and useful input files for a number of bioinformatic pipelines.",
@@ -1081,7 +1081,7 @@
       "stars": 20,
       "forks": 8,
       "openIssues": 2,
-      "lastPush": "2026-03-17T12:58:25Z",
+      "lastPush": "2026-03-17T16:10:30Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1273,6 +1273,72 @@
       "description": "Detect S. aureus RBPs and determine binding specificity.",
       "license": null,
       "language": "Jupyter Notebook"
+    },
+    "PlasMAAG": {
+      "source": "github",
+      "stars": 22,
+      "forks": 2,
+      "openIssues": 4,
+      "lastPush": "2026-03-16T08:46:29Z",
+      "archived": false,
+      "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
+      "license": "MIT",
+      "language": "Python"
+    },
+    "COPLA": {
+      "source": "github",
+      "stars": 28,
+      "forks": 6,
+      "openIssues": 18,
+      "lastPush": "2021-07-07T12:19:34Z",
+      "archived": false,
+      "description": "A taxonomic classifier of plasmids",
+      "license": "GPL-3.0",
+      "language": "Python"
+    },
+    "PLASMe": {
+      "source": "github",
+      "stars": 33,
+      "forks": 6,
+      "openIssues": 17,
+      "lastPush": "2024-04-15T08:21:01Z",
+      "archived": false,
+      "description": null,
+      "license": null,
+      "language": "Python"
+    },
+    "TXSScan": {
+      "source": "github",
+      "stars": 4,
+      "forks": 2,
+      "openIssues": 0,
+      "lastPush": "2025-12-05T14:21:33Z",
+      "archived": false,
+      "description": "Bacterial secretion systems and Type IV-filament models for MacsyFinder",
+      "license": "NOASSERTION",
+      "language": null
+    },
+    "PlasmidHunter": {
+      "source": "github",
+      "stars": 7,
+      "forks": 0,
+      "openIssues": 0,
+      "lastPush": "2024-05-17T20:53:10Z",
+      "archived": false,
+      "description": "This tool predicts plasmid sequences from genomic and metagenomic assemblies using machine learning.  ",
+      "license": "NOASSERTION",
+      "language": "Python"
+    },
+    "PlasX": {
+      "source": "github",
+      "stars": 40,
+      "forks": 1,
+      "openIssues": 9,
+      "lastPush": "2022-02-09T05:40:26Z",
+      "archived": false,
+      "description": "PlasX, a machine learning classifier for identifying plasmid sequences based on genetic architecture",
+      "license": "GPL-3.0",
+      "language": "Python"
     }
   }
 }
