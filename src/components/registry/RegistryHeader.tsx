@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Search, LayoutGrid, Table, ArrowUpDown, HelpCircle, X } from "lucide-react";
 import { formatTimeSince } from "@/lib/scraped-data";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 interface RegistryHeaderProps {
   search: string;
