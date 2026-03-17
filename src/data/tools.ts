@@ -253,7 +253,7 @@ export const categories: MGECategory[] = [
   "Integrated Pipelines",
   "Lifestyle Prediction",
   "Mobile Genetic Elements",
-  "Other / Experimental",
+  
   "Phage Comparative Genomics",
   "Prophage Identification",
   "RNA Virus Analysis",
