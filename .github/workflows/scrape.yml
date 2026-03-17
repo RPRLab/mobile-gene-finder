@@ -29,7 +29,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           BRANCH="${GITHUB_REF_NAME:-main}"
-          git pull --rebase origin "$BRANCH"
           git add public/scraped-data.json
           git diff --cached --quiet || git commit -m "chore: update scraped tool data [skip ci]"
+          git pull --rebase origin "$BRANCH"
           git push origin "HEAD:$BRANCH"
