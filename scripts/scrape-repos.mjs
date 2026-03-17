@@ -98,20 +98,32 @@ async function main() {
   // Read tools from the TypeScript source to extract codeUrls
   const toolsSrc = readFileSync(join(ROOT, "src/data/tools.ts"), "utf-8");
 
-  // Extract tool entries using regex (name + codeUrl pairs)
+  // Extract rawTools array only, then parse each tool object
+  const rawToolsMatch = toolsSrc.match(
+    /const\s+rawTools\s*:\s*Omit<MGETool,\s*"status">\[\]\s*=\s*\[([\s\S]*?)\]\s*;/
+  );
+
+  if (!rawToolsMatch) {
+    throw new Error("Could not locate rawTools array in src/data/tools.ts");
+  }
+
+  const rawToolsBlock = rawToolsMatch[1];
   const toolEntries = [];
-  const nameRegex = /name:\s*"([^"]+)"/g;
-  const codeUrlRegex = /codeUrl:\s*"([^"]*)"/;
-  // Split by tool object boundaries and extract name + codeUrl
-  const lineRegex = /\{[^}]+\}/g;
+  const objectRegex = /\{([\s\S]*?)\},?/g;
   let objMatch;
-  while ((objMatch = lineRegex.exec(toolsSrc)) !== null) {
-    const block = objMatch[0];
+
+  while ((objMatch = objectRegex.exec(rawToolsBlock)) !== null) {
+    const block = objMatch[1];
     const nameMatch = block.match(/name:\s*"([^"]+)"/);
     if (!nameMatch) continue;
-    const codeMatch = block.match(codeUrlRegex);
-    toolEntries.push({ name: nameMatch[1], codeUrl: codeMatch ? codeMatch[1] : null });
+
+    const codeMatch = block.match(/codeUrl:\s*"([^"]*)"/);
+    toolEntries.push({
+      name: nameMatch[1],
+      codeUrl: codeMatch ? codeMatch[1] : null,
+    });
   }
+
   console.log(`Found ${toolEntries.length} tools to scrape\n`);
 
   const results = {};
