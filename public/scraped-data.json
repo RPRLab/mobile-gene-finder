@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-03-17T17:17:02.142Z",
+  "lastScraped": "2026-03-18T07:06:35.259Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -134,7 +134,7 @@
       "stars": 323,
       "forks": 59,
       "openIssues": 122,
-      "lastPush": "2026-03-09T17:38:22Z",
+      "lastPush": "2026-03-18T04:29:41Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
