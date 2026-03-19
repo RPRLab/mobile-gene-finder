@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-03-18T07:06:35.259Z",
+  "lastScraped": "2026-03-19T07:03:32.748Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -7,7 +7,7 @@
       "stars": 21,
       "forks": 7,
       "openIssues": 4,
-      "lastPush": "2026-03-01T13:14:11Z",
+      "lastPush": "2026-03-18T10:55:41Z",
       "archived": false,
       "description": "This program is designed for annotation of antimicrobal resistance(AMR), transposon(Tn) and integron(In) in bacteria.",
       "license": "GPL-3.0",
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 917,
+      "stars": 918,
       "forks": 159,
       "openIssues": 293,
       "lastPush": "2026-03-17T15:46:26Z",
@@ -167,7 +167,7 @@
       "stars": 295,
       "forks": 25,
       "openIssues": 64,
-      "lastPush": "2025-11-10T12:11:45Z",
+      "lastPush": "2026-03-18T22:49:32Z",
       "archived": false,
       "description": "geNomad: Identification of mobile genetic elements",
       "license": "NOASSERTION",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 917,
+      "stars": 918,
       "forks": 159,
       "openIssues": 293,
       "lastPush": "2026-03-17T15:46:26Z",
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 84,
+      "stars": 85,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 98,
+      "stars": 99,
       "forks": 6,
       "openIssues": 28,
       "lastPush": "2026-02-05T08:57:27Z",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 153,
+      "stars": 154,
       "forks": 14,
       "openIssues": 7,
       "lastPush": "2026-02-09T12:17:26Z",
@@ -871,7 +871,7 @@
       "source": "github",
       "stars": 146,
       "forks": 19,
-      "openIssues": 5,
+      "openIssues": 7,
       "lastPush": "2026-01-22T13:49:54Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
@@ -1058,7 +1058,7 @@
       "source": "github",
       "stars": 80,
       "forks": 9,
-      "openIssues": 3,
+      "openIssues": 4,
       "lastPush": "2025-04-16T10:25:16Z",
       "archived": false,
       "description": "Providing up-to-date phage genome databases, metrics and useful input files for a number of bioinformatic pipelines.",
@@ -1081,7 +1081,7 @@
       "stars": 20,
       "forks": 8,
       "openIssues": 2,
-      "lastPush": "2026-03-17T16:10:30Z",
+      "lastPush": "2026-03-18T19:41:17Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 98,
+      "stars": 99,
       "forks": 6,
       "openIssues": 28,
       "lastPush": "2026-02-05T08:57:27Z",
