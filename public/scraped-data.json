@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-03-19T07:03:32.748Z",
+  "lastScraped": "2026-03-20T07:01:23.388Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 918,
+      "stars": 919,
       "forks": 159,
       "openIssues": 293,
       "lastPush": "2026-03-17T15:46:26Z",
@@ -131,7 +131,7 @@
     },
     "DRAMv": {
       "source": "github",
-      "stars": 323,
+      "stars": 324,
       "forks": 59,
       "openIssues": 122,
       "lastPush": "2026-03-18T04:29:41Z",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 295,
+      "stars": 296,
       "forks": 25,
       "openIssues": 64,
       "lastPush": "2026-03-18T22:49:32Z",
@@ -208,7 +208,7 @@
     },
     "HostPhinder": {
       "source": "github",
-      "stars": 8,
+      "stars": 9,
       "forks": 5,
       "openIssues": 1,
       "lastPush": "2020-09-02T08:15:42Z",
@@ -231,7 +231,7 @@
     "IntegronFinder": {
       "source": "github",
       "stars": 86,
-      "forks": 26,
+      "forks": 27,
       "openIssues": 7,
       "lastPush": "2025-05-07T14:34:58Z",
       "archived": false,
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 918,
+      "stars": 919,
       "forks": 159,
       "openIssues": 293,
       "lastPush": "2026-03-17T15:46:26Z",
@@ -568,7 +568,7 @@
       "source": "github",
       "stars": 37,
       "forks": 13,
-      "openIssues": 21,
+      "openIssues": 22,
       "lastPush": "2024-08-04T11:07:05Z",
       "archived": false,
       "description": "A containerized bioinformatics pipeline for viral metagenomic data analysis",
@@ -612,8 +612,8 @@
       "source": "github",
       "stars": 104,
       "forks": 15,
-      "openIssues": 21,
-      "lastPush": "2026-03-17T15:20:18Z",
+      "openIssues": 22,
+      "lastPush": "2026-03-19T12:06:55Z",
       "archived": false,
       "description": "WtP: Phage identification via nextflow and docker or singularity",
       "license": "GPL-3.0",
@@ -1081,7 +1081,7 @@
       "stars": 20,
       "forks": 8,
       "openIssues": 2,
-      "lastPush": "2026-03-18T19:41:17Z",
+      "lastPush": "2026-03-19T13:25:21Z",
       "archived": false,
       "description": null,
       "license": "MIT",
