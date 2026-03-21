@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-03-20T07:01:23.388Z",
+  "lastScraped": "2026-03-21T06:51:40.664Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -590,7 +590,7 @@
       "source": "github",
       "stars": 283,
       "forks": 33,
-      "openIssues": 120,
+      "openIssues": 116,
       "lastPush": "2024-11-28T08:00:09Z",
       "archived": false,
       "description": "customizable pipeline to identify viral sequences from (meta)genomic data",
@@ -622,7 +622,7 @@
     "Cenote-Taker 3": {
       "source": "github",
       "stars": 59,
-      "forks": 2,
+      "forks": 3,
       "openIssues": 5,
       "lastPush": "2026-02-11T00:34:29Z",
       "archived": false,
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 146,
+      "stars": 147,
       "forks": 19,
       "openIssues": 7,
       "lastPush": "2026-01-22T13:49:54Z",
@@ -1081,7 +1081,7 @@
       "stars": 20,
       "forks": 8,
       "openIssues": 2,
-      "lastPush": "2026-03-19T13:25:21Z",
+      "lastPush": "2026-03-20T14:23:25Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1287,7 +1287,7 @@
     },
     "COPLA": {
       "source": "github",
-      "stars": 28,
+      "stars": 29,
       "forks": 6,
       "openIssues": 18,
       "lastPush": "2021-07-07T12:19:34Z",
