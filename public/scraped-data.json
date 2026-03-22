@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-03-21T06:51:40.664Z",
+  "lastScraped": "2026-03-22T06:57:27.695Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -676,7 +676,7 @@
     },
     "MOB-suite": {
       "source": "github",
-      "stars": 171,
+      "stars": 172,
       "forks": 33,
       "openIssues": 29,
       "lastPush": "2025-04-16T21:11:00Z",
