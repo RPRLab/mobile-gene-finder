@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-03-26T07:15:28.550Z",
+  "lastScraped": "2026-03-27T07:14:32.276Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 199,
+      "stars": 200,
       "forks": 27,
       "openIssues": 7,
       "lastPush": "2026-02-01T11:21:45Z",
@@ -590,7 +590,7 @@
       "source": "github",
       "stars": 284,
       "forks": 33,
-      "openIssues": 116,
+      "openIssues": 117,
       "lastPush": "2024-11-28T08:00:09Z",
       "archived": false,
       "description": "customizable pipeline to identify viral sequences from (meta)genomic data",
@@ -701,7 +701,7 @@
       "stars": 99,
       "forks": 11,
       "openIssues": 26,
-      "lastPush": "2026-03-25T16:15:05Z",
+      "lastPush": "2026-03-26T21:25:11Z",
       "archived": false,
       "description": "A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes ",
       "license": "AGPL-3.0",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 155,
+      "stars": 156,
       "forks": 14,
       "openIssues": 7,
       "lastPush": "2026-02-09T12:17:26Z",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 149,
+      "stars": 150,
       "forks": 19,
       "openIssues": 8,
       "lastPush": "2026-01-22T13:49:54Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 396,
+      "stars": 397,
       "forks": 92,
       "openIssues": 1,
       "lastPush": "2026-03-16T15:55:55Z",
@@ -1278,8 +1278,8 @@
       "source": "github",
       "stars": 23,
       "forks": 2,
-      "openIssues": 4,
-      "lastPush": "2026-03-25T16:40:51Z",
+      "openIssues": 2,
+      "lastPush": "2026-03-26T09:12:14Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
@@ -1300,7 +1300,7 @@
       "source": "github",
       "stars": 33,
       "forks": 6,
-      "openIssues": 17,
+      "openIssues": 18,
       "lastPush": "2024-04-15T08:21:01Z",
       "archived": false,
       "description": null,
