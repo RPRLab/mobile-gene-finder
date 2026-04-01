@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-03-31T07:21:44.700Z",
+  "lastScraped": "2026-04-01T07:26:55.712Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -423,7 +423,7 @@
     },
     "PhiSpy": {
       "source": "github",
-      "stars": 81,
+      "stars": 82,
       "forks": 22,
       "openIssues": 0,
       "lastPush": "2026-03-17T01:07:16Z",
@@ -590,7 +590,7 @@
       "source": "github",
       "stars": 284,
       "forks": 33,
-      "openIssues": 117,
+      "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
       "archived": false,
       "description": "customizable pipeline to identify viral sequences from (meta)genomic data",
@@ -701,7 +701,7 @@
       "stars": 99,
       "forks": 11,
       "openIssues": 22,
-      "lastPush": "2026-03-31T00:34:25Z",
+      "lastPush": "2026-03-31T21:29:19Z",
       "archived": false,
       "description": "A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes ",
       "license": "AGPL-3.0",
@@ -709,7 +709,7 @@
     },
     "VIPtree": {
       "source": "github",
-      "stars": 35,
+      "stars": 36,
       "forks": 7,
       "openIssues": 4,
       "lastPush": "2022-09-20T08:54:42Z",
@@ -990,10 +990,10 @@
     },
     "V-pipe": {
       "source": "github",
-      "stars": 145,
+      "stars": 146,
       "forks": 46,
       "openIssues": 42,
-      "lastPush": "2025-11-19T13:50:37Z",
+      "lastPush": "2026-03-31T23:59:17Z",
       "archived": false,
       "description": "V-pipe is a pipeline designed for analysing NGS data of short viral genomes",
       "license": "Apache-2.0",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 397,
+      "stars": 398,
       "forks": 92,
       "openIssues": 1,
       "lastPush": "2026-03-16T15:55:55Z",
@@ -1279,7 +1279,7 @@
       "stars": 23,
       "forks": 3,
       "openIssues": 2,
-      "lastPush": "2026-03-30T13:24:18Z",
+      "lastPush": "2026-03-31T12:05:06Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
