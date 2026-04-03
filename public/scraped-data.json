@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-02T07:18:53.713Z",
+  "lastScraped": "2026-04-03T07:15:15.066Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -249,7 +249,7 @@
       "source": "github",
       "stars": 106,
       "forks": 17,
-      "openIssues": 5,
+      "openIssues": 6,
       "lastPush": "2025-12-05T22:07:25Z",
       "archived": false,
       "description": "A python pipeline to identify IS (Insertion Sequence) elements in genome and metagenome ",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 284,
+      "stars": 285,
       "forks": 33,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -621,7 +621,7 @@
     },
     "Cenote-Taker 3": {
       "source": "github",
-      "stars": 59,
+      "stars": 60,
       "forks": 3,
       "openIssues": 5,
       "lastPush": "2026-02-11T00:34:29Z",
@@ -698,10 +698,10 @@
     },
     "VEBA": {
       "source": "github",
-      "stars": 99,
+      "stars": 100,
       "forks": 11,
-      "openIssues": 22,
-      "lastPush": "2026-03-31T21:29:19Z",
+      "openIssues": 19,
+      "lastPush": "2026-04-03T04:31:57Z",
       "archived": false,
       "description": "A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes ",
       "license": "AGPL-3.0",
@@ -872,7 +872,7 @@
       "stars": 151,
       "forks": 20,
       "openIssues": 9,
-      "lastPush": "2026-01-22T13:49:54Z",
+      "lastPush": "2026-04-02T15:53:26Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
       "license": "GPL-3.0",
@@ -880,7 +880,7 @@
     },
     "PADLOC": {
       "source": "github",
-      "stars": 70,
+      "stars": 71,
       "forks": 13,
       "openIssues": 2,
       "lastPush": "2024-10-22T10:34:08Z",
