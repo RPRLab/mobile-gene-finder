@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-07T07:23:58.536Z",
+  "lastScraped": "2026-04-08T07:27:03.827Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -132,7 +132,7 @@
     "DRAMv": {
       "source": "github",
       "stars": 327,
-      "forks": 60,
+      "forks": 61,
       "openIssues": 122,
       "lastPush": "2026-03-30T22:33:47Z",
       "archived": false,
@@ -164,8 +164,8 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 298,
-      "forks": 27,
+      "stars": 299,
+      "forks": 28,
       "openIssues": 65,
       "lastPush": "2026-03-29T03:27:06Z",
       "archived": false,
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 285,
+      "stars": 286,
       "forks": 33,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -610,7 +610,7 @@
     },
     "What the Phage": {
       "source": "github",
-      "stars": 104,
+      "stars": 105,
       "forks": 15,
       "openIssues": 22,
       "lastPush": "2026-03-19T12:06:55Z",
@@ -621,7 +621,7 @@
     },
     "Cenote-Taker 3": {
       "source": "github",
-      "stars": 60,
+      "stars": 61,
       "forks": 3,
       "openIssues": 5,
       "lastPush": "2026-02-11T00:34:29Z",
@@ -814,7 +814,7 @@
     },
     "Jaeger": {
       "source": "github",
-      "stars": 35,
+      "stars": 36,
       "forks": 1,
       "openIssues": 3,
       "lastPush": "2026-01-22T22:16:01Z",
@@ -871,7 +871,7 @@
       "source": "github",
       "stars": 151,
       "forks": 20,
-      "openIssues": 9,
+      "openIssues": 10,
       "lastPush": "2026-04-02T15:53:26Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
@@ -902,7 +902,7 @@
     },
     "Phables": {
       "source": "github",
-      "stars": 81,
+      "stars": 82,
       "forks": 6,
       "openIssues": 9,
       "lastPush": "2025-12-04T23:31:36Z",
@@ -1014,8 +1014,8 @@
       "source": "github",
       "stars": 51,
       "forks": 13,
-      "openIssues": 15,
-      "lastPush": "2026-03-26T03:46:30Z",
+      "openIssues": 17,
+      "lastPush": "2026-04-08T01:49:22Z",
       "archived": false,
       "description": "Portable WDL workflows for CZ ID production pipelines",
       "license": "MIT",
@@ -1081,7 +1081,7 @@
       "stars": 20,
       "forks": 8,
       "openIssues": 2,
-      "lastPush": "2026-04-01T12:07:24Z",
+      "lastPush": "2026-04-08T06:29:50Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1279,7 +1279,7 @@
       "stars": 24,
       "forks": 3,
       "openIssues": 1,
-      "lastPush": "2026-03-31T12:05:06Z",
+      "lastPush": "2026-04-07T13:56:26Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
