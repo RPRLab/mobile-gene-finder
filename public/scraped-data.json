@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-10T07:47:47.583Z",
+  "lastScraped": "2026-04-11T07:05:24.751Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 925,
+      "stars": 926,
       "forks": 159,
       "openIssues": 294,
       "lastPush": "2026-03-17T15:46:26Z",
@@ -134,7 +134,7 @@
       "stars": 330,
       "forks": 61,
       "openIssues": 122,
-      "lastPush": "2026-03-30T22:33:47Z",
+      "lastPush": "2026-04-10T19:31:25Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 300,
+      "stars": 301,
       "forks": 28,
       "openIssues": 65,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 925,
+      "stars": 926,
       "forks": 159,
       "openIssues": 294,
       "lastPush": "2026-03-17T15:46:26Z",
@@ -861,7 +861,7 @@
       "stars": 156,
       "forks": 14,
       "openIssues": 8,
-      "lastPush": "2026-04-10T07:23:37Z",
+      "lastPush": "2026-04-10T13:05:15Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 151,
+      "stars": 152,
       "forks": 20,
       "openIssues": 10,
       "lastPush": "2026-04-02T15:53:26Z",
@@ -1080,8 +1080,8 @@
       "source": "github",
       "stars": 20,
       "forks": 8,
-      "openIssues": 2,
-      "lastPush": "2026-04-08T13:22:39Z",
+      "openIssues": 3,
+      "lastPush": "2026-04-10T14:45:55Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1279,7 +1279,7 @@
       "stars": 24,
       "forks": 3,
       "openIssues": 2,
-      "lastPush": "2026-04-09T11:06:19Z",
+      "lastPush": "2026-04-10T09:20:26Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
