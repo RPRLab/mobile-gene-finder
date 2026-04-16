@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-15T07:53:39.125Z",
+  "lastScraped": "2026-04-16T07:53:56.691Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 928,
+      "stars": 929,
       "forks": 159,
       "openIssues": 295,
       "lastPush": "2026-04-13T13:49:16Z",
@@ -247,7 +247,7 @@
     },
     "ISEScan": {
       "source": "github",
-      "stars": 106,
+      "stars": 107,
       "forks": 17,
       "openIssues": 6,
       "lastPush": "2025-12-05T22:07:25Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 928,
+      "stars": 929,
       "forks": 159,
       "openIssues": 295,
       "lastPush": "2026-04-13T13:49:16Z",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 286,
+      "stars": 287,
       "forks": 33,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -775,7 +775,7 @@
     },
     "ViWrap": {
       "source": "github",
-      "stars": 87,
+      "stars": 88,
       "forks": 23,
       "openIssues": 37,
       "lastPush": "2024-12-27T07:30:20Z",
@@ -860,7 +860,7 @@
       "source": "github",
       "stars": 156,
       "forks": 14,
-      "openIssues": 8,
+      "openIssues": 7,
       "lastPush": "2026-04-10T13:05:15Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
@@ -870,7 +870,7 @@
     "DefenseFinder": {
       "source": "github",
       "stars": 152,
-      "forks": 21,
+      "forks": 22,
       "openIssues": 9,
       "lastPush": "2026-04-02T15:53:26Z",
       "archived": false,
@@ -880,7 +880,7 @@
     },
     "PADLOC": {
       "source": "github",
-      "stars": 71,
+      "stars": 72,
       "forks": 13,
       "openIssues": 2,
       "lastPush": "2024-10-22T10:34:08Z",
@@ -914,7 +914,7 @@
     "RdRp-scan": {
       "source": "github",
       "stars": 37,
-      "forks": 6,
+      "forks": 7,
       "openIssues": 6,
       "lastPush": "2022-03-25T03:27:38Z",
       "archived": false,
@@ -1279,7 +1279,7 @@
       "stars": 24,
       "forks": 4,
       "openIssues": 2,
-      "lastPush": "2026-04-14T09:57:32Z",
+      "lastPush": "2026-04-15T10:24:09Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
