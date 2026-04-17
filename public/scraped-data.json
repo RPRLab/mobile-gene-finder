@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-16T07:53:56.691Z",
+  "lastScraped": "2026-04-17T07:54:00.890Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -43,7 +43,7 @@
     },
     "CoCoNet": {
       "source": "github",
-      "stars": 17,
+      "stars": 18,
       "forks": 1,
       "openIssues": 4,
       "lastPush": "2021-10-22T10:48:07Z",
@@ -131,9 +131,9 @@
     },
     "DRAMv": {
       "source": "github",
-      "stars": 330,
+      "stars": 331,
       "forks": 61,
-      "openIssues": 124,
+      "openIssues": 125,
       "lastPush": "2026-04-15T05:40:55Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 302,
+      "stars": 303,
       "forks": 28,
       "openIssues": 65,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 85,
+      "stars": 86,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -599,7 +599,7 @@
     },
     "vRhyme": {
       "source": "github",
-      "stars": 72,
+      "stars": 73,
       "forks": 11,
       "openIssues": 33,
       "lastPush": "2022-07-13T00:13:53Z",
@@ -621,7 +621,7 @@
     },
     "Cenote-Taker 3": {
       "source": "github",
-      "stars": 61,
+      "stars": 62,
       "forks": 3,
       "openIssues": 5,
       "lastPush": "2026-02-11T00:34:29Z",
@@ -654,7 +654,7 @@
     },
     "ISMapper": {
       "source": "github",
-      "stars": 57,
+      "stars": 58,
       "forks": 16,
       "openIssues": 8,
       "lastPush": "2021-12-03T02:31:00Z",
@@ -676,7 +676,7 @@
     },
     "MOB-suite": {
       "source": "github",
-      "stars": 173,
+      "stars": 174,
       "forks": 33,
       "openIssues": 29,
       "lastPush": "2025-04-16T21:11:00Z",
@@ -698,9 +698,9 @@
     },
     "VEBA": {
       "source": "github",
-      "stars": 100,
+      "stars": 101,
       "forks": 11,
-      "openIssues": 19,
+      "openIssues": 20,
       "lastPush": "2026-04-03T20:19:55Z",
       "archived": false,
       "description": "A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes ",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 156,
+      "stars": 157,
       "forks": 14,
       "openIssues": 7,
       "lastPush": "2026-04-10T13:05:15Z",
@@ -1080,8 +1080,8 @@
       "source": "github",
       "stars": 20,
       "forks": 8,
-      "openIssues": 3,
-      "lastPush": "2026-04-10T14:45:55Z",
+      "openIssues": 2,
+      "lastPush": "2026-04-17T06:59:04Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 399,
+      "stars": 400,
       "forks": 92,
       "openIssues": 1,
       "lastPush": "2026-03-16T15:55:55Z",
@@ -1213,7 +1213,7 @@
       "stars": 43,
       "forks": 6,
       "openIssues": 13,
-      "lastPush": "2026-02-05T10:03:56Z",
+      "lastPush": "2026-04-16T10:41:07Z",
       "archived": false,
       "description": "The viral taxonomic assignment pipeline",
       "license": "GPL-3.0",
@@ -1276,7 +1276,7 @@
     },
     "PlasMAAG": {
       "source": "github",
-      "stars": 24,
+      "stars": 25,
       "forks": 4,
       "openIssues": 2,
       "lastPush": "2026-04-15T10:24:09Z",
