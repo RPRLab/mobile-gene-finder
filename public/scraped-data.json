@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-17T07:54:00.890Z",
+  "lastScraped": "2026-04-18T07:14:22.921Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 202,
+      "stars": 203,
       "forks": 27,
       "openIssues": 7,
       "lastPush": "2026-02-01T11:21:45Z",
@@ -666,8 +666,8 @@
     "mobileOG-db": {
       "source": "github",
       "stars": 46,
-      "forks": 5,
-      "openIssues": 1,
+      "forks": 6,
+      "openIssues": 2,
       "lastPush": "2025-11-06T11:40:47Z",
       "archived": false,
       "description": "code repo for mobileOG-db",
@@ -687,7 +687,7 @@
     },
     "SpacePHARER": {
       "source": "github",
-      "stars": 46,
+      "stars": 47,
       "forks": 4,
       "openIssues": 7,
       "lastPush": "2024-05-08T13:45:17Z",
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 148,
       "forks": 21,
-      "openIssues": 14,
-      "lastPush": "2026-04-14T02:33:51Z",
+      "openIssues": 15,
+      "lastPush": "2026-04-17T11:08:16Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 157,
+      "stars": 158,
       "forks": 14,
       "openIssues": 7,
       "lastPush": "2026-04-10T13:05:15Z",
@@ -869,8 +869,8 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 152,
-      "forks": 22,
+      "stars": 155,
+      "forks": 23,
       "openIssues": 9,
       "lastPush": "2026-04-02T15:53:26Z",
       "archived": false,
@@ -1189,7 +1189,7 @@
     "pdm_utils": {
       "source": "github",
       "stars": 3,
-      "forks": 5,
+      "forks": 6,
       "openIssues": 6,
       "lastPush": "2024-06-15T17:49:00Z",
       "archived": false,
