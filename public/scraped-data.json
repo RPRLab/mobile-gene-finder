@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-18T07:14:22.921Z",
+  "lastScraped": "2026-04-19T07:25:00.931Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 929,
+      "stars": 930,
       "forks": 159,
       "openIssues": 295,
       "lastPush": "2026-04-13T13:49:16Z",
@@ -109,7 +109,7 @@
     },
     "DeepVirFinder": {
       "source": "github",
-      "stars": 150,
+      "stars": 151,
       "forks": 30,
       "openIssues": 39,
       "lastPush": "2025-06-01T04:30:50Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 929,
+      "stars": 930,
       "forks": 159,
       "openIssues": 295,
       "lastPush": "2026-04-13T13:49:16Z",
@@ -423,7 +423,7 @@
     },
     "PhiSpy": {
       "source": "github",
-      "stars": 82,
+      "stars": 83,
       "forks": 22,
       "openIssues": 0,
       "lastPush": "2026-03-17T01:07:16Z",
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 192,
+      "stars": 193,
       "forks": 39,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -1276,7 +1276,7 @@
     },
     "PlasMAAG": {
       "source": "github",
-      "stars": 25,
+      "stars": 26,
       "forks": 4,
       "openIssues": 2,
       "lastPush": "2026-04-15T10:24:09Z",
