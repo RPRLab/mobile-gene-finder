@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-19T07:25:00.931Z",
+  "lastScraped": "2026-04-20T08:15:04.728Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -56,7 +56,7 @@
       "source": "github",
       "stars": 930,
       "forks": 159,
-      "openIssues": 295,
+      "openIssues": 296,
       "lastPush": "2026-04-13T13:49:16Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -293,7 +293,7 @@
       "source": "github",
       "stars": 930,
       "forks": 159,
-      "openIssues": 295,
+      "openIssues": 296,
       "lastPush": "2026-04-13T13:49:16Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -403,7 +403,7 @@
       "source": "github",
       "stars": 203,
       "forks": 27,
-      "openIssues": 7,
+      "openIssues": 8,
       "lastPush": "2026-02-01T11:21:45Z",
       "archived": false,
       "description": "fast phage annotation program",
@@ -871,7 +871,7 @@
       "source": "github",
       "stars": 155,
       "forks": 23,
-      "openIssues": 9,
+      "openIssues": 10,
       "lastPush": "2026-04-02T15:53:26Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
