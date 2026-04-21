@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-20T08:15:04.728Z",
+  "lastScraped": "2026-04-21T07:58:35.460Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 930,
+      "stars": 931,
       "forks": 159,
       "openIssues": 296,
       "lastPush": "2026-04-13T13:49:16Z",
@@ -109,7 +109,7 @@
     },
     "DeepVirFinder": {
       "source": "github",
-      "stars": 151,
+      "stars": 153,
       "forks": 30,
       "openIssues": 39,
       "lastPush": "2025-06-01T04:30:50Z",
@@ -133,8 +133,8 @@
       "source": "github",
       "stars": 331,
       "forks": 61,
-      "openIssues": 125,
-      "lastPush": "2026-04-15T05:40:55Z",
+      "openIssues": 126,
+      "lastPush": "2026-04-20T19:20:06Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 930,
+      "stars": 931,
       "forks": 159,
       "openIssues": 296,
       "lastPush": "2026-04-13T13:49:16Z",
@@ -404,7 +404,7 @@
       "stars": 203,
       "forks": 27,
       "openIssues": 8,
-      "lastPush": "2026-02-01T11:21:45Z",
+      "lastPush": "2026-04-21T07:23:08Z",
       "archived": false,
       "description": "fast phage annotation program",
       "license": "MIT",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 287,
+      "stars": 288,
       "forks": 33,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -723,7 +723,7 @@
       "stars": 148,
       "forks": 21,
       "openIssues": 15,
-      "lastPush": "2026-04-17T11:08:16Z",
+      "lastPush": "2026-04-20T10:33:42Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -850,7 +850,7 @@
       "stars": 38,
       "forks": 3,
       "openIssues": 5,
-      "lastPush": "2026-04-06T16:40:11Z",
+      "lastPush": "2026-04-20T20:37:12Z",
       "archived": false,
       "description": "Workflow to assign Taxonomy to a bacteriophage genome isolate",
       "license": "MIT",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 155,
+      "stars": 156,
       "forks": 23,
       "openIssues": 10,
       "lastPush": "2026-04-02T15:53:26Z",
@@ -880,7 +880,7 @@
     },
     "PADLOC": {
       "source": "github",
-      "stars": 72,
+      "stars": 73,
       "forks": 13,
       "openIssues": 2,
       "lastPush": "2024-10-22T10:34:08Z",
@@ -902,7 +902,7 @@
     },
     "Phables": {
       "source": "github",
-      "stars": 82,
+      "stars": 83,
       "forks": 6,
       "openIssues": 10,
       "lastPush": "2025-12-04T23:31:36Z",
@@ -957,7 +957,7 @@
     },
     "ViralVerify": {
       "source": "github",
-      "stars": 74,
+      "stars": 75,
       "forks": 13,
       "openIssues": 5,
       "lastPush": "2026-02-19T06:54:50Z",
@@ -1298,7 +1298,7 @@
     },
     "PLASMe": {
       "source": "github",
-      "stars": 33,
+      "stars": 34,
       "forks": 6,
       "openIssues": 18,
       "lastPush": "2024-04-15T08:21:01Z",
