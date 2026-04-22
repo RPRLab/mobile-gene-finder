@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-21T07:58:35.460Z",
+  "lastScraped": "2026-04-22T07:54:54.877Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -132,7 +132,7 @@
     "DRAMv": {
       "source": "github",
       "stars": 331,
-      "forks": 61,
+      "forks": 62,
       "openIssues": 126,
       "lastPush": "2026-04-20T19:20:06Z",
       "archived": false,
@@ -230,7 +230,7 @@
     },
     "IntegronFinder": {
       "source": "github",
-      "stars": 87,
+      "stars": 88,
       "forks": 27,
       "openIssues": 7,
       "lastPush": "2025-05-07T14:34:58Z",
@@ -643,7 +643,7 @@
     },
     "DeepMobilome": {
       "source": "github",
-      "stars": 6,
+      "stars": 7,
       "forks": 1,
       "openIssues": 0,
       "lastPush": "2025-06-12T11:03:24Z",
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 148,
       "forks": 21,
-      "openIssues": 15,
-      "lastPush": "2026-04-20T10:33:42Z",
+      "openIssues": 14,
+      "lastPush": "2026-04-21T12:09:10Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -775,7 +775,7 @@
     },
     "ViWrap": {
       "source": "github",
-      "stars": 88,
+      "stars": 89,
       "forks": 23,
       "openIssues": 37,
       "lastPush": "2024-12-27T07:30:20Z",
@@ -816,7 +816,7 @@
       "source": "github",
       "stars": 36,
       "forks": 1,
-      "openIssues": 3,
+      "openIssues": 4,
       "lastPush": "2026-01-22T22:16:01Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
@@ -861,7 +861,7 @@
       "stars": 158,
       "forks": 14,
       "openIssues": 7,
-      "lastPush": "2026-04-10T13:05:15Z",
+      "lastPush": "2026-04-22T05:55:01Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -1014,8 +1014,8 @@
       "source": "github",
       "stars": 51,
       "forks": 13,
-      "openIssues": 19,
-      "lastPush": "2026-04-14T02:16:27Z",
+      "openIssues": 20,
+      "lastPush": "2026-04-21T21:17:57Z",
       "archived": false,
       "description": "Portable WDL workflows for CZ ID production pipelines",
       "license": "MIT",
