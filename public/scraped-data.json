@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-23T08:01:37.784Z",
+  "lastScraped": "2026-04-24T08:10:33.505Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -861,7 +861,7 @@
       "stars": 158,
       "forks": 14,
       "openIssues": 7,
-      "lastPush": "2026-04-23T00:04:27Z",
+      "lastPush": "2026-04-24T04:53:08Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -1122,8 +1122,8 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 400,
-      "forks": 92,
+      "stars": 401,
+      "forks": 91,
       "openIssues": 1,
       "lastPush": "2026-03-16T15:55:55Z",
       "archived": false,
