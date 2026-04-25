@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-24T08:10:33.505Z",
+  "lastScraped": "2026-04-25T07:23:41.063Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -861,7 +861,7 @@
       "stars": 158,
       "forks": 14,
       "openIssues": 7,
-      "lastPush": "2026-04-24T04:53:08Z",
+      "lastPush": "2026-04-24T12:55:28Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -1078,7 +1078,7 @@
     },
     "ProkBERT PhaStyle": {
       "source": "github",
-      "stars": 20,
+      "stars": 21,
       "forks": 8,
       "openIssues": 2,
       "lastPush": "2026-04-17T06:59:04Z",
@@ -1279,7 +1279,7 @@
       "stars": 26,
       "forks": 4,
       "openIssues": 0,
-      "lastPush": "2026-04-23T06:56:43Z",
+      "lastPush": "2026-04-24T14:39:00Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
