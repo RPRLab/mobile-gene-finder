@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-25T07:23:41.063Z",
+  "lastScraped": "2026-04-26T07:45:15.042Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -166,7 +166,7 @@
       "source": "github",
       "stars": 303,
       "forks": 28,
-      "openIssues": 66,
+      "openIssues": 67,
       "lastPush": "2026-03-29T03:27:06Z",
       "archived": false,
       "description": "geNomad: Identification of mobile genetic elements",
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 86,
+      "stars": 87,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -979,7 +979,7 @@
     },
     "PhaTYP": {
       "source": "github",
-      "stars": 16,
+      "stars": 17,
       "forks": 6,
       "openIssues": 3,
       "lastPush": "2024-11-06T10:18:00Z",
@@ -992,7 +992,7 @@
       "source": "github",
       "stars": 146,
       "forks": 46,
-      "openIssues": 42,
+      "openIssues": 41,
       "lastPush": "2026-03-31T23:59:17Z",
       "archived": false,
       "description": "V-pipe is a pipeline designed for analysing NGS data of short viral genomes",
