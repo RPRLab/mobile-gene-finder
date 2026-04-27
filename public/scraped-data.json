@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-26T07:45:15.042Z",
+  "lastScraped": "2026-04-27T08:32:07.256Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -56,7 +56,7 @@
       "source": "github",
       "stars": 931,
       "forks": 159,
-      "openIssues": 296,
+      "openIssues": 297,
       "lastPush": "2026-04-13T13:49:16Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -293,7 +293,7 @@
       "source": "github",
       "stars": 931,
       "forks": 159,
-      "openIssues": 296,
+      "openIssues": 297,
       "lastPush": "2026-04-13T13:49:16Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -424,7 +424,7 @@
     "PhiSpy": {
       "source": "github",
       "stars": 83,
-      "forks": 22,
+      "forks": 23,
       "openIssues": 0,
       "lastPush": "2026-03-17T01:07:16Z",
       "archived": false,
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 193,
+      "stars": 194,
       "forks": 39,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -589,7 +589,7 @@
     "VirSorter2": {
       "source": "github",
       "stars": 288,
-      "forks": 33,
+      "forks": 34,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
       "archived": false,
@@ -742,8 +742,8 @@
     },
     "ViralMSA": {
       "source": "github",
-      "stars": 71,
-      "forks": 10,
+      "stars": 72,
+      "forks": 11,
       "openIssues": 1,
       "lastPush": "2025-11-06T17:24:44Z",
       "archived": false,
@@ -847,7 +847,7 @@
     },
     "taxMyPhage": {
       "source": "github",
-      "stars": 38,
+      "stars": 39,
       "forks": 3,
       "openIssues": 5,
       "lastPush": "2026-04-20T20:37:12Z",
@@ -861,7 +861,7 @@
       "stars": 158,
       "forks": 14,
       "openIssues": 7,
-      "lastPush": "2026-04-24T12:55:28Z",
+      "lastPush": "2026-04-27T02:18:35Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -1243,7 +1243,7 @@
     },
     "WIsH": {
       "source": "github",
-      "stars": 55,
+      "stars": 56,
       "forks": 10,
       "openIssues": 3,
       "lastPush": "2024-09-17T13:13:20Z",
@@ -1298,7 +1298,7 @@
     },
     "PLASMe": {
       "source": "github",
-      "stars": 34,
+      "stars": 35,
       "forks": 6,
       "openIssues": 18,
       "lastPush": "2024-04-15T08:21:01Z",
