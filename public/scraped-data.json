@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-27T08:32:07.256Z",
+  "lastScraped": "2026-04-28T08:30:27.210Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 931,
+      "stars": 932,
       "forks": 159,
       "openIssues": 297,
       "lastPush": "2026-04-13T13:49:16Z",
@@ -247,7 +247,7 @@
     },
     "ISEScan": {
       "source": "github",
-      "stars": 107,
+      "stars": 108,
       "forks": 17,
       "openIssues": 6,
       "lastPush": "2025-12-05T22:07:25Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 931,
+      "stars": 932,
       "forks": 159,
       "openIssues": 297,
       "lastPush": "2026-04-13T13:49:16Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 203,
+      "stars": 204,
       "forks": 27,
       "openIssues": 8,
       "lastPush": "2026-04-21T07:23:08Z",
@@ -699,9 +699,9 @@
     "VEBA": {
       "source": "github",
       "stars": 101,
-      "forks": 11,
-      "openIssues": 20,
-      "lastPush": "2026-04-03T20:19:55Z",
+      "forks": 10,
+      "openIssues": 21,
+      "lastPush": "2026-04-27T16:34:46Z",
       "archived": false,
       "description": "A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes ",
       "license": "AGPL-3.0",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 103,
+      "stars": 104,
       "forks": 6,
       "openIssues": 28,
       "lastPush": "2026-04-12T09:03:51Z",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 157,
+      "stars": 159,
       "forks": 23,
       "openIssues": 11,
       "lastPush": "2026-04-02T15:53:26Z",
@@ -1056,7 +1056,7 @@
     },
     "INPHARED": {
       "source": "github",
-      "stars": 80,
+      "stars": 81,
       "forks": 9,
       "openIssues": 4,
       "lastPush": "2025-04-16T10:25:16Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 401,
+      "stars": 402,
       "forks": 91,
       "openIssues": 1,
       "lastPush": "2026-03-16T15:55:55Z",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 103,
+      "stars": 104,
       "forks": 6,
       "openIssues": 28,
       "lastPush": "2026-04-12T09:03:51Z",
@@ -1276,7 +1276,7 @@
     },
     "PlasMAAG": {
       "source": "github",
-      "stars": 26,
+      "stars": 27,
       "forks": 4,
       "openIssues": 0,
       "lastPush": "2026-04-24T14:39:00Z",
@@ -1331,7 +1331,7 @@
     },
     "PlasX": {
       "source": "github",
-      "stars": 40,
+      "stars": 41,
       "forks": 1,
       "openIssues": 9,
       "lastPush": "2022-02-09T05:40:26Z",
