@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-30T08:26:45.575Z",
+  "lastScraped": "2026-05-01T08:17:36.666Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -133,8 +133,8 @@
       "source": "github",
       "stars": 332,
       "forks": 62,
-      "openIssues": 125,
-      "lastPush": "2026-04-30T00:46:49Z",
+      "openIssues": 126,
+      "lastPush": "2026-04-30T19:13:49Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -426,7 +426,7 @@
       "stars": 83,
       "forks": 23,
       "openIssues": 0,
-      "lastPush": "2026-04-30T05:52:18Z",
+      "lastPush": "2026-05-01T01:51:58Z",
       "archived": false,
       "description": "Prediction of prophages from bacterial genomes",
       "license": "MIT",
@@ -599,7 +599,7 @@
     },
     "vRhyme": {
       "source": "github",
-      "stars": 73,
+      "stars": 74,
       "forks": 11,
       "openIssues": 33,
       "lastPush": "2022-07-13T00:13:53Z",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 106,
+      "stars": 107,
       "forks": 7,
       "openIssues": 28,
       "lastPush": "2026-04-12T09:03:51Z",
@@ -871,8 +871,8 @@
       "source": "github",
       "stars": 159,
       "forks": 23,
-      "openIssues": 12,
-      "lastPush": "2026-04-02T15:53:26Z",
+      "openIssues": 13,
+      "lastPush": "2026-05-01T01:10:37Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
       "license": "GPL-3.0",
@@ -913,7 +913,7 @@
     },
     "RdRp-scan": {
       "source": "github",
-      "stars": 37,
+      "stars": 38,
       "forks": 7,
       "openIssues": 6,
       "lastPush": "2022-03-25T03:27:38Z",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 106,
+      "stars": 107,
       "forks": 7,
       "openIssues": 28,
       "lastPush": "2026-04-12T09:03:51Z",
