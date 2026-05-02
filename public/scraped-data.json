@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-01T08:17:36.666Z",
+  "lastScraped": "2026-05-02T07:49:46.346Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -723,7 +723,7 @@
       "stars": 148,
       "forks": 21,
       "openIssues": 14,
-      "lastPush": "2026-04-21T12:09:10Z",
+      "lastPush": "2026-05-01T12:58:21Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -869,8 +869,8 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 159,
-      "forks": 23,
+      "stars": 160,
+      "forks": 24,
       "openIssues": 13,
       "lastPush": "2026-05-01T01:10:37Z",
       "archived": false,
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 403,
+      "stars": 404,
       "forks": 91,
       "openIssues": 1,
       "lastPush": "2026-04-29T13:49:34Z",
