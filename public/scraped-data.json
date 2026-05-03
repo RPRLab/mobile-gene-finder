@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-02T07:49:46.346Z",
+  "lastScraped": "2026-05-03T08:05:22.622Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -109,7 +109,7 @@
     },
     "DeepVirFinder": {
       "source": "github",
-      "stars": 154,
+      "stars": 155,
       "forks": 30,
       "openIssues": 39,
       "lastPush": "2025-06-01T04:30:50Z",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 107,
+      "stars": 108,
       "forks": 7,
       "openIssues": 28,
       "lastPush": "2026-04-12T09:03:51Z",
@@ -859,7 +859,7 @@
     "Phold": {
       "source": "github",
       "stars": 158,
-      "forks": 14,
+      "forks": 15,
       "openIssues": 7,
       "lastPush": "2026-04-27T02:18:35Z",
       "archived": false,
@@ -871,7 +871,7 @@
       "source": "github",
       "stars": 160,
       "forks": 24,
-      "openIssues": 13,
+      "openIssues": 12,
       "lastPush": "2026-05-01T01:10:37Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
@@ -902,7 +902,7 @@
     },
     "Phables": {
       "source": "github",
-      "stars": 83,
+      "stars": 84,
       "forks": 6,
       "openIssues": 10,
       "lastPush": "2025-12-04T23:31:36Z",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 107,
+      "stars": 108,
       "forks": 7,
       "openIssues": 28,
       "lastPush": "2026-04-12T09:03:51Z",
