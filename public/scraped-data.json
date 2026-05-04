@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-03T08:05:22.622Z",
+  "lastScraped": "2026-05-04T08:34:32.313Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -56,7 +56,7 @@
       "source": "github",
       "stars": 932,
       "forks": 159,
-      "openIssues": 298,
+      "openIssues": 299,
       "lastPush": "2026-04-28T19:55:15Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -293,7 +293,7 @@
       "source": "github",
       "stars": 932,
       "forks": 159,
-      "openIssues": 298,
+      "openIssues": 299,
       "lastPush": "2026-04-28T19:55:15Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -904,7 +904,7 @@
       "source": "github",
       "stars": 84,
       "forks": 6,
-      "openIssues": 10,
+      "openIssues": 9,
       "lastPush": "2025-12-04T23:31:36Z",
       "archived": false,
       "description": "🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes",
@@ -1056,7 +1056,7 @@
     },
     "INPHARED": {
       "source": "github",
-      "stars": 81,
+      "stars": 82,
       "forks": 9,
       "openIssues": 4,
       "lastPush": "2025-04-16T10:25:16Z",
@@ -1279,7 +1279,7 @@
       "stars": 27,
       "forks": 4,
       "openIssues": 0,
-      "lastPush": "2026-04-24T14:39:00Z",
+      "lastPush": "2026-05-04T08:26:05Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
