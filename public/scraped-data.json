@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-08T07:46:41.457Z",
+  "lastScraped": "2026-05-09T08:01:07.427Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -56,8 +56,8 @@
       "source": "github",
       "stars": 931,
       "forks": 159,
-      "openIssues": 299,
-      "lastPush": "2026-05-07T22:40:31Z",
+      "openIssues": 298,
+      "lastPush": "2026-05-08T08:16:49Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -109,7 +109,7 @@
     },
     "DeepVirFinder": {
       "source": "github",
-      "stars": 155,
+      "stars": 156,
       "forks": 30,
       "openIssues": 39,
       "lastPush": "2026-05-05T02:02:59Z",
@@ -133,7 +133,7 @@
       "source": "github",
       "stars": 332,
       "forks": 62,
-      "openIssues": 125,
+      "openIssues": 127,
       "lastPush": "2026-05-06T23:57:29Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 307,
+      "stars": 308,
       "forks": 28,
       "openIssues": 67,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -293,8 +293,8 @@
       "source": "github",
       "stars": 931,
       "forks": 159,
-      "openIssues": 299,
-      "lastPush": "2026-05-07T22:40:31Z",
+      "openIssues": 298,
+      "lastPush": "2026-05-08T08:16:49Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 289,
+      "stars": 290,
       "forks": 34,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -902,7 +902,7 @@
     },
     "Phables": {
       "source": "github",
-      "stars": 84,
+      "stars": 85,
       "forks": 6,
       "openIssues": 9,
       "lastPush": "2025-12-04T23:31:36Z",
