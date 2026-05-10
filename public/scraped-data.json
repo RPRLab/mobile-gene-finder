@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-09T08:01:07.427Z",
+  "lastScraped": "2026-05-10T08:12:17.642Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 931,
+      "stars": 932,
       "forks": 159,
       "openIssues": 298,
       "lastPush": "2026-05-08T08:16:49Z",
@@ -176,7 +176,7 @@
     "hafeZ": {
       "source": "github",
       "stars": 13,
-      "forks": 3,
+      "forks": 4,
       "openIssues": 9,
       "lastPush": "2023-10-09T03:43:34Z",
       "archived": false,
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 931,
+      "stars": 932,
       "forks": 159,
       "openIssues": 298,
       "lastPush": "2026-05-08T08:16:49Z",
@@ -599,8 +599,8 @@
     },
     "vRhyme": {
       "source": "github",
-      "stars": 74,
-      "forks": 11,
+      "stars": 75,
+      "forks": 12,
       "openIssues": 33,
       "lastPush": "2022-07-13T00:13:53Z",
       "archived": false,
@@ -745,7 +745,7 @@
       "stars": 72,
       "forks": 11,
       "openIssues": 1,
-      "lastPush": "2025-11-06T17:24:44Z",
+      "lastPush": "2026-05-10T00:31:19Z",
       "archived": false,
       "description": "Reference-guided multiple sequence alignment of viral genomes",
       "license": "GPL-3.0",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 166,
+      "stars": 167,
       "forks": 25,
       "openIssues": 3,
       "lastPush": "2026-05-05T09:53:05Z",
