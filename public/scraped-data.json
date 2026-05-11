@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-10T08:12:17.642Z",
+  "lastScraped": "2026-05-11T09:47:22.897Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -57,7 +57,7 @@
       "stars": 932,
       "forks": 159,
       "openIssues": 298,
-      "lastPush": "2026-05-08T08:16:49Z",
+      "lastPush": "2026-05-10T16:23:00Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -294,7 +294,7 @@
       "stars": 932,
       "forks": 159,
       "openIssues": 298,
-      "lastPush": "2026-05-08T08:16:49Z",
+      "lastPush": "2026-05-10T16:23:00Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -710,7 +710,7 @@
     "VIPtree": {
       "source": "github",
       "stars": 36,
-      "forks": 8,
+      "forks": 9,
       "openIssues": 4,
       "lastPush": "2022-09-20T08:54:42Z",
       "archived": false,
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 158,
+      "stars": 159,
       "forks": 15,
       "openIssues": 7,
       "lastPush": "2026-05-06T05:21:36Z",
