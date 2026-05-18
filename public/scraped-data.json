@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-17T08:25:32.590Z",
+  "lastScraped": "2026-05-18T10:11:45.990Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 934,
+      "stars": 935,
       "forks": 160,
       "openIssues": 298,
       "lastPush": "2026-05-10T16:23:00Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 934,
+      "stars": 935,
       "forks": 160,
       "openIssues": 298,
       "lastPush": "2026-05-10T16:23:00Z",
@@ -712,7 +712,7 @@
       "stars": 36,
       "forks": 9,
       "openIssues": 4,
-      "lastPush": "2026-05-16T07:00:11Z",
+      "lastPush": "2026-05-18T08:21:39Z",
       "archived": false,
       "description": "a command line tool for viral proteomic tree generation, part of the ViPTree project: http://www.genome.jp/viptree",
       "license": "MIT",
@@ -871,7 +871,7 @@
       "source": "github",
       "stars": 168,
       "forks": 25,
-      "openIssues": 3,
+      "openIssues": 4,
       "lastPush": "2026-05-05T09:53:05Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
