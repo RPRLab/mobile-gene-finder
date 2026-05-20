@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-19T09:52:19.942Z",
+  "lastScraped": "2026-05-20T09:40:19.446Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -37,7 +37,7 @@
     },
     "CheckV": {
       "source": "bitbucket",
-      "lastPush": "2024-12-11T19:49:32.038275+00:00",
+      "lastPush": "2026-05-19T20:26:43.523966+00:00",
       "language": "",
       "description": "Assessing the quality of metagenome-assembled viral genomes"
     },
@@ -55,7 +55,7 @@
     "coronaSPAdes": {
       "source": "github",
       "stars": 935,
-      "forks": 160,
+      "forks": 161,
       "openIssues": 298,
       "lastPush": "2026-05-10T16:23:00Z",
       "archived": false,
@@ -134,7 +134,7 @@
       "stars": 333,
       "forks": 62,
       "openIssues": 124,
-      "lastPush": "2026-05-18T21:12:46Z",
+      "lastPush": "2026-05-20T00:18:20Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -247,7 +247,7 @@
     },
     "ISEScan": {
       "source": "github",
-      "stars": 109,
+      "stars": 110,
       "forks": 17,
       "openIssues": 6,
       "lastPush": "2025-12-05T22:07:25Z",
@@ -292,7 +292,7 @@
     "metaviralSPAdes": {
       "source": "github",
       "stars": 935,
-      "forks": 160,
+      "forks": 161,
       "openIssues": 298,
       "lastPush": "2026-05-10T16:23:00Z",
       "archived": false,
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 87,
+      "stars": 88,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 209,
+      "stars": 210,
       "forks": 28,
       "openIssues": 9,
       "lastPush": "2026-04-21T07:23:08Z",
@@ -698,7 +698,7 @@
     },
     "VEBA": {
       "source": "github",
-      "stars": 101,
+      "stars": 102,
       "forks": 10,
       "openIssues": 21,
       "lastPush": "2026-04-27T16:34:46Z",
@@ -723,7 +723,7 @@
       "stars": 151,
       "forks": 21,
       "openIssues": 15,
-      "lastPush": "2026-05-14T15:07:24Z",
+      "lastPush": "2026-05-19T15:31:22Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 160,
+      "stars": 161,
       "forks": 15,
       "openIssues": 7,
       "lastPush": "2026-05-13T01:31:06Z",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 168,
+      "stars": 169,
       "forks": 25,
       "openIssues": 4,
       "lastPush": "2026-05-05T09:53:05Z",
@@ -990,7 +990,7 @@
     },
     "V-pipe": {
       "source": "github",
-      "stars": 146,
+      "stars": 147,
       "forks": 46,
       "openIssues": 41,
       "lastPush": "2026-05-15T15:18:49Z",
@@ -1276,7 +1276,7 @@
     },
     "PlasMAAG": {
       "source": "github",
-      "stars": 28,
+      "stars": 29,
       "forks": 4,
       "openIssues": 0,
       "lastPush": "2026-05-19T09:35:32Z",
