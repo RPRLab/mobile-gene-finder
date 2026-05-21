@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-20T09:40:19.446Z",
+  "lastScraped": "2026-05-21T09:49:00.427Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -131,7 +131,7 @@
     },
     "DRAMv": {
       "source": "github",
-      "stars": 333,
+      "stars": 334,
       "forks": 62,
       "openIssues": 124,
       "lastPush": "2026-05-20T00:18:20Z",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 312,
+      "stars": 313,
       "forks": 28,
       "openIssues": 68,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -249,7 +249,7 @@
       "source": "github",
       "stars": 110,
       "forks": 17,
-      "openIssues": 6,
+      "openIssues": 7,
       "lastPush": "2025-12-05T22:07:25Z",
       "archived": false,
       "description": "A python pipeline to identify IS (Insertion Sequence) elements in genome and metagenome ",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 210,
+      "stars": 209,
       "forks": 28,
       "openIssues": 9,
       "lastPush": "2026-04-21T07:23:08Z",
@@ -423,7 +423,7 @@
     },
     "PhiSpy": {
       "source": "github",
-      "stars": 84,
+      "stars": 85,
       "forks": 23,
       "openIssues": 0,
       "lastPush": "2026-05-01T01:51:58Z",
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 195,
+      "stars": 196,
       "forks": 40,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -665,7 +665,7 @@
     },
     "mobileOG-db": {
       "source": "github",
-      "stars": 48,
+      "stars": 49,
       "forks": 6,
       "openIssues": 2,
       "lastPush": "2025-11-06T11:40:47Z",
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 151,
       "forks": 21,
-      "openIssues": 15,
-      "lastPush": "2026-05-19T15:31:22Z",
+      "openIssues": 16,
+      "lastPush": "2026-05-20T21:25:41Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -847,7 +847,7 @@
     },
     "taxMyPhage": {
       "source": "github",
-      "stars": 39,
+      "stars": 40,
       "forks": 3,
       "openIssues": 5,
       "lastPush": "2026-04-20T20:37:12Z",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 161,
+      "stars": 162,
       "forks": 15,
       "openIssues": 7,
       "lastPush": "2026-05-13T01:31:06Z",
@@ -1279,7 +1279,7 @@
       "stars": 29,
       "forks": 4,
       "openIssues": 0,
-      "lastPush": "2026-05-19T09:35:32Z",
+      "lastPush": "2026-05-21T07:58:31Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
