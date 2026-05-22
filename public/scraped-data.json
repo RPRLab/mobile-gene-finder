@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-21T09:49:00.427Z",
+  "lastScraped": "2026-05-22T09:33:33.757Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 88,
+      "stars": 89,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -423,7 +423,7 @@
     },
     "PhiSpy": {
       "source": "github",
-      "stars": 85,
+      "stars": 86,
       "forks": 23,
       "openIssues": 0,
       "lastPush": "2026-05-01T01:51:58Z",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 290,
+      "stars": 291,
       "forks": 35,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -712,7 +712,7 @@
       "stars": 36,
       "forks": 9,
       "openIssues": 4,
-      "lastPush": "2026-05-18T08:21:39Z",
+      "lastPush": "2026-05-21T15:13:04Z",
       "archived": false,
       "description": "a command line tool for viral proteomic tree generation, part of the ViPTree project: http://www.genome.jp/viptree",
       "license": "MIT",
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 151,
       "forks": 21,
-      "openIssues": 16,
-      "lastPush": "2026-05-20T21:25:41Z",
+      "openIssues": 17,
+      "lastPush": "2026-05-21T21:08:53Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -805,7 +805,7 @@
       "source": "github",
       "stars": 42,
       "forks": 11,
-      "openIssues": 7,
+      "openIssues": 6,
       "lastPush": "2026-02-26T14:36:04Z",
       "archived": false,
       "description": "INSaFLU-TELEVIR: an free web-based (but also locally installable) bioinformatics suite for virus metagenomic detection and routine genomic surveillance",
@@ -826,7 +826,7 @@
     "PhaBox": {
       "source": "github",
       "stars": 110,
-      "forks": 8,
+      "forks": 9,
       "openIssues": 28,
       "lastPush": "2026-05-13T07:10:20Z",
       "archived": false,
@@ -948,7 +948,7 @@
       "source": "github",
       "stars": 86,
       "forks": 10,
-      "openIssues": 9,
+      "openIssues": 10,
       "lastPush": "2026-01-24T06:54:06Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
@@ -1134,7 +1134,7 @@
     "PhaBOX2": {
       "source": "github",
       "stars": 110,
-      "forks": 8,
+      "forks": 9,
       "openIssues": 28,
       "lastPush": "2026-05-13T07:10:20Z",
       "archived": false,
@@ -1279,7 +1279,7 @@
       "stars": 29,
       "forks": 4,
       "openIssues": 0,
-      "lastPush": "2026-05-21T07:58:31Z",
+      "lastPush": "2026-05-21T15:08:29Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
