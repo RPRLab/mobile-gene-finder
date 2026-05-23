@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-22T09:33:33.757Z",
+  "lastScraped": "2026-05-23T08:23:54.062Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 209,
+      "stars": 210,
       "forks": 28,
       "openIssues": 9,
       "lastPush": "2026-04-21T07:23:08Z",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 162,
+      "stars": 163,
       "forks": 15,
       "openIssues": 7,
       "lastPush": "2026-05-13T01:31:06Z",
@@ -1125,7 +1125,7 @@
       "stars": 406,
       "forks": 91,
       "openIssues": 1,
-      "lastPush": "2026-04-29T13:49:34Z",
+      "lastPush": "2026-05-22T12:56:39Z",
       "archived": false,
       "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
       "license": "MIT",
@@ -1309,7 +1309,7 @@
     },
     "TXSScan": {
       "source": "github",
-      "stars": 5,
+      "stars": 6,
       "forks": 2,
       "openIssues": 0,
       "lastPush": "2025-12-05T14:21:33Z",
