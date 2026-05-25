@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-24T08:33:51.138Z",
+  "lastScraped": "2026-05-25T10:15:26.354Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -37,7 +37,7 @@
     },
     "CheckV": {
       "source": "bitbucket",
-      "lastPush": "2026-05-23T14:06:54.817215+00:00",
+      "lastPush": "2026-05-24T21:34:07.894207+00:00",
       "language": "",
       "description": "Assessing the quality of metagenome-assembled viral genomes"
     },
@@ -109,7 +109,7 @@
     },
     "DeepVirFinder": {
       "source": "github",
-      "stars": 155,
+      "stars": 153,
       "forks": 30,
       "openIssues": 39,
       "lastPush": "2026-05-05T02:02:59Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 210,
+      "stars": 211,
       "forks": 28,
       "openIssues": 9,
       "lastPush": "2026-04-21T07:23:08Z",
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 196,
+      "stars": 195,
       "forks": 40,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -712,7 +712,7 @@
       "stars": 36,
       "forks": 9,
       "openIssues": 4,
-      "lastPush": "2026-05-21T15:13:04Z",
+      "lastPush": "2026-05-25T05:22:24Z",
       "archived": false,
       "description": "a command line tool for viral proteomic tree generation, part of the ViPTree project: http://www.genome.jp/viptree",
       "license": "MIT",
