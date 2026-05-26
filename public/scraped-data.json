@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-25T10:15:26.354Z",
+  "lastScraped": "2026-05-26T10:02:07.445Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,10 +54,10 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 935,
+      "stars": 936,
       "forks": 161,
       "openIssues": 298,
-      "lastPush": "2026-05-10T16:23:00Z",
+      "lastPush": "2026-05-26T06:08:06Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -291,10 +291,10 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 935,
+      "stars": 936,
       "forks": 161,
       "openIssues": 298,
-      "lastPush": "2026-05-10T16:23:00Z",
+      "lastPush": "2026-05-26T06:08:06Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -555,7 +555,7 @@
     },
     "VirFinder": {
       "source": "github",
-      "stars": 137,
+      "stars": 138,
       "forks": 25,
       "openIssues": 13,
       "lastPush": "2020-04-09T09:47:46Z",
@@ -599,7 +599,7 @@
     },
     "vRhyme": {
       "source": "github",
-      "stars": 75,
+      "stars": 74,
       "forks": 12,
       "openIssues": 33,
       "lastPush": "2022-07-13T00:13:53Z",
@@ -610,7 +610,7 @@
     },
     "What the Phage": {
       "source": "github",
-      "stars": 105,
+      "stars": 106,
       "forks": 15,
       "openIssues": 22,
       "lastPush": "2026-03-19T12:06:55Z",
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 151,
       "forks": 21,
-      "openIssues": 17,
-      "lastPush": "2026-05-21T21:08:53Z",
+      "openIssues": 16,
+      "lastPush": "2026-05-26T09:11:36Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -861,7 +861,7 @@
       "stars": 163,
       "forks": 15,
       "openIssues": 7,
-      "lastPush": "2026-05-13T01:31:06Z",
+      "lastPush": "2026-05-26T07:51:54Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 169,
+      "stars": 170,
       "forks": 25,
       "openIssues": 4,
       "lastPush": "2026-05-05T09:53:05Z",
@@ -1322,7 +1322,7 @@
       "source": "github",
       "stars": 7,
       "forks": 1,
-      "openIssues": 3,
+      "openIssues": 4,
       "lastPush": "2024-05-17T20:53:10Z",
       "archived": false,
       "description": "This tool predicts plasmid sequences from genomic and metagenomic assemblies using machine learning.  ",
