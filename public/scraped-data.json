@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-28T10:08:56.824Z",
+  "lastScraped": "2026-05-29T09:59:35.070Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -57,7 +57,7 @@
       "stars": 936,
       "forks": 161,
       "openIssues": 296,
-      "lastPush": "2026-05-27T21:38:55Z",
+      "lastPush": "2026-05-28T19:00:00Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -294,7 +294,7 @@
       "stars": 936,
       "forks": 161,
       "openIssues": 296,
-      "lastPush": "2026-05-27T21:38:55Z",
+      "lastPush": "2026-05-28T19:00:00Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -404,7 +404,7 @@
       "stars": 211,
       "forks": 28,
       "openIssues": 10,
-      "lastPush": "2026-04-21T07:23:08Z",
+      "lastPush": "2026-05-29T05:31:48Z",
       "archived": false,
       "description": "fast phage annotation program",
       "license": "MIT",
@@ -489,7 +489,7 @@
     },
     "Platon": {
       "source": "github",
-      "stars": 121,
+      "stars": 122,
       "forks": 15,
       "openIssues": 6,
       "lastPush": "2026-05-28T06:15:13Z",
@@ -676,7 +676,7 @@
     },
     "MOB-suite": {
       "source": "github",
-      "stars": 174,
+      "stars": 175,
       "forks": 33,
       "openIssues": 29,
       "lastPush": "2025-04-16T21:11:00Z",
