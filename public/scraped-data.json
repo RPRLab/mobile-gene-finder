@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-29T09:59:35.070Z",
+  "lastScraped": "2026-05-30T08:31:41.588Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -258,7 +258,7 @@
     },
     "Jovian": {
       "source": "github",
-      "stars": 5,
+      "stars": 6,
       "forks": 0,
       "openIssues": 1,
       "lastPush": "2025-11-03T11:17:44Z",
@@ -492,7 +492,7 @@
       "stars": 122,
       "forks": 15,
       "openIssues": 6,
-      "lastPush": "2026-05-28T06:15:13Z",
+      "lastPush": "2026-05-29T14:35:18Z",
       "archived": false,
       "description": "Identification & characterization of bacterial plasmid-borne contigs from short-read draft assemblies.",
       "license": "GPL-3.0",
@@ -720,7 +720,7 @@
     },
     "VIRify": {
       "source": "github",
-      "stars": 151,
+      "stars": 152,
       "forks": 21,
       "openIssues": 16,
       "lastPush": "2026-05-26T09:11:36Z",
@@ -744,7 +744,7 @@
       "source": "github",
       "stars": 72,
       "forks": 11,
-      "openIssues": 1,
+      "openIssues": 2,
       "lastPush": "2026-05-10T00:31:19Z",
       "archived": false,
       "description": "Reference-guided multiple sequence alignment of viral genomes",
