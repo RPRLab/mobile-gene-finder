@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-30T08:31:41.588Z",
+  "lastScraped": "2026-05-31T08:51:08.873Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -744,8 +744,8 @@
       "source": "github",
       "stars": 72,
       "forks": 11,
-      "openIssues": 2,
-      "lastPush": "2026-05-10T00:31:19Z",
+      "openIssues": 1,
+      "lastPush": "2026-05-30T17:12:22Z",
       "archived": false,
       "description": "Reference-guided multiple sequence alignment of viral genomes",
       "license": "GPL-3.0",
@@ -786,7 +786,7 @@
     },
     "vConTACT2": {
       "source": "bitbucket",
-      "lastPush": "2022-11-02T11:41:29.562759+00:00",
+      "lastPush": "2026-05-31T04:41:17.294891+00:00",
       "language": "python",
       "description": ""
     },
@@ -827,7 +827,7 @@
       "source": "github",
       "stars": 110,
       "forks": 9,
-      "openIssues": 28,
+      "openIssues": 29,
       "lastPush": "2026-05-13T07:10:20Z",
       "archived": false,
       "description": "Local version of the virus identification and analysis web server (tool set)  ",
@@ -861,7 +861,7 @@
       "stars": 163,
       "forks": 15,
       "openIssues": 7,
-      "lastPush": "2026-05-28T02:24:56Z",
+      "lastPush": "2026-05-31T00:55:32Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -979,7 +979,7 @@
     },
     "PhaTYP": {
       "source": "github",
-      "stars": 18,
+      "stars": 19,
       "forks": 6,
       "openIssues": 3,
       "lastPush": "2024-11-06T10:18:00Z",
@@ -1135,7 +1135,7 @@
       "source": "github",
       "stars": 110,
       "forks": 9,
-      "openIssues": 28,
+      "openIssues": 29,
       "lastPush": "2026-05-13T07:10:20Z",
       "archived": false,
       "description": "Local version of the virus identification and analysis web server (tool set)  ",
