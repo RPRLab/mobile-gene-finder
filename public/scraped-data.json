@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-31T08:51:08.873Z",
+  "lastScraped": "2026-06-01T11:41:37.457Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -404,7 +404,7 @@
       "stars": 211,
       "forks": 28,
       "openIssues": 10,
-      "lastPush": "2026-05-29T05:31:48Z",
+      "lastPush": "2026-06-01T04:54:55Z",
       "archived": false,
       "description": "fast phage annotation program",
       "license": "MIT",
@@ -412,7 +412,7 @@
     },
     "Phigaro": {
       "source": "github",
-      "stars": 52,
+      "stars": 53,
       "forks": 15,
       "openIssues": 3,
       "lastPush": "2024-01-08T18:29:37Z",
@@ -599,8 +599,8 @@
     },
     "vRhyme": {
       "source": "github",
-      "stars": 74,
-      "forks": 12,
+      "stars": 75,
+      "forks": 13,
       "openIssues": 33,
       "lastPush": "2022-07-13T00:13:53Z",
       "archived": false,
@@ -861,7 +861,7 @@
       "stars": 163,
       "forks": 15,
       "openIssues": 7,
-      "lastPush": "2026-05-31T00:55:32Z",
+      "lastPush": "2026-05-31T11:18:09Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -871,7 +871,7 @@
       "source": "github",
       "stars": 170,
       "forks": 25,
-      "openIssues": 4,
+      "openIssues": 3,
       "lastPush": "2026-05-05T09:53:05Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 406,
+      "stars": 407,
       "forks": 92,
       "openIssues": 1,
       "lastPush": "2026-05-22T12:56:39Z",
