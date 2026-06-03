@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-02T10:42:49.460Z",
+  "lastScraped": "2026-06-03T11:06:24.309Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 936,
+      "stars": 938,
       "forks": 161,
       "openIssues": 296,
       "lastPush": "2026-05-28T19:00:00Z",
@@ -164,8 +164,8 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 314,
-      "forks": 28,
+      "stars": 315,
+      "forks": 29,
       "openIssues": 68,
       "lastPush": "2026-03-29T03:27:06Z",
       "archived": false,
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 936,
+      "stars": 938,
       "forks": 161,
       "openIssues": 296,
       "lastPush": "2026-05-28T19:00:00Z",
@@ -404,7 +404,7 @@
       "stars": 211,
       "forks": 28,
       "openIssues": 10,
-      "lastPush": "2026-06-01T04:54:55Z",
+      "lastPush": "2026-06-03T00:38:46Z",
       "archived": false,
       "description": "fast phage annotation program",
       "license": "MIT",
@@ -423,7 +423,7 @@
     },
     "PhiSpy": {
       "source": "github",
-      "stars": 86,
+      "stars": 87,
       "forks": 23,
       "openIssues": 0,
       "lastPush": "2026-05-01T01:51:58Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 408,
+      "stars": 409,
       "forks": 92,
       "openIssues": 1,
       "lastPush": "2026-05-22T12:56:39Z",
@@ -1333,7 +1333,7 @@
       "source": "github",
       "stars": 41,
       "forks": 1,
-      "openIssues": 9,
+      "openIssues": 10,
       "lastPush": "2022-02-09T05:40:26Z",
       "archived": false,
       "description": "PlasX, a machine learning classifier for identifying plasmid sequences based on genetic architecture",
