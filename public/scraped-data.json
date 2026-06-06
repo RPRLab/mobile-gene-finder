@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-05T09:57:32.403Z",
+  "lastScraped": "2026-06-06T08:37:42.345Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 938,
+      "stars": 939,
       "forks": 161,
       "openIssues": 296,
       "lastPush": "2026-06-03T21:53:25Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 938,
+      "stars": 939,
       "forks": 161,
       "openIssues": 296,
       "lastPush": "2026-06-03T21:53:25Z",
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 89,
+      "stars": 90,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 211,
+      "stars": 212,
       "forks": 28,
       "openIssues": 10,
       "lastPush": "2026-06-04T13:50:51Z",
@@ -723,7 +723,7 @@
       "stars": 152,
       "forks": 21,
       "openIssues": 16,
-      "lastPush": "2026-06-03T21:52:12Z",
+      "lastPush": "2026-06-05T12:36:26Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -816,8 +816,8 @@
       "source": "github",
       "stars": 37,
       "forks": 1,
-      "openIssues": 5,
-      "lastPush": "2026-06-05T08:25:42Z",
+      "openIssues": 3,
+      "lastPush": "2026-06-05T22:29:04Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 163,
+      "stars": 165,
       "forks": 15,
       "openIssues": 8,
       "lastPush": "2026-06-05T07:18:05Z",
