@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-07T09:18:47.071Z",
+  "lastScraped": "2026-06-08T11:02:33.808Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -335,7 +335,7 @@
     },
     "PhageHostLearn": {
       "source": "github",
-      "stars": 21,
+      "stars": 22,
       "forks": 4,
       "openIssues": 1,
       "lastPush": "2024-06-23T03:45:22Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 212,
+      "stars": 213,
       "forks": 28,
       "openIssues": 10,
       "lastPush": "2026-06-04T13:50:51Z",
@@ -861,7 +861,7 @@
       "stars": 165,
       "forks": 15,
       "openIssues": 8,
-      "lastPush": "2026-06-06T14:22:38Z",
+      "lastPush": "2026-06-08T00:05:47Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 170,
+      "stars": 171,
       "forks": 25,
       "openIssues": 4,
       "lastPush": "2026-05-05T09:53:05Z",
