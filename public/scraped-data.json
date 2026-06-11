@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-10T10:08:16.729Z",
+  "lastScraped": "2026-06-11T10:41:56.517Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -109,7 +109,7 @@
     },
     "DeepVirFinder": {
       "source": "github",
-      "stars": 153,
+      "stars": 154,
       "forks": 30,
       "openIssues": 39,
       "lastPush": "2026-05-05T02:02:59Z",
@@ -230,7 +230,7 @@
     },
     "IntegronFinder": {
       "source": "github",
-      "stars": 87,
+      "stars": 88,
       "forks": 27,
       "openIssues": 7,
       "lastPush": "2025-05-07T14:34:58Z",
@@ -247,7 +247,7 @@
     },
     "ISEScan": {
       "source": "github",
-      "stars": 110,
+      "stars": 111,
       "forks": 17,
       "openIssues": 7,
       "lastPush": "2025-12-05T22:07:25Z",
@@ -436,7 +436,7 @@
       "source": "github",
       "stars": 31,
       "forks": 3,
-      "openIssues": 5,
+      "openIssues": 6,
       "lastPush": "2024-07-08T14:49:09Z",
       "archived": false,
       "description": "Phage-Host Interaction Search Tool",
@@ -590,7 +590,7 @@
       "source": "github",
       "stars": 291,
       "forks": 35,
-      "openIssues": 119,
+      "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
       "archived": false,
       "description": "customizable pipeline to identify viral sequences from (meta)genomic data",
@@ -624,7 +624,7 @@
       "stars": 63,
       "forks": 3,
       "openIssues": 5,
-      "lastPush": "2026-02-11T00:34:29Z",
+      "lastPush": "2026-06-10T17:38:21Z",
       "archived": false,
       "description": "Discover and annotate the virome",
       "license": "MIT",
@@ -861,7 +861,7 @@
       "stars": 166,
       "forks": 15,
       "openIssues": 9,
-      "lastPush": "2026-06-10T09:57:41Z",
+      "lastPush": "2026-06-10T23:45:42Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 171,
+      "stars": 172,
       "forks": 25,
       "openIssues": 3,
       "lastPush": "2026-05-05T09:53:05Z",
@@ -1025,7 +1025,7 @@
       "source": "github",
       "stars": 65,
       "forks": 14,
-      "openIssues": 0,
+      "openIssues": 1,
       "lastPush": "2026-04-22T17:00:50Z",
       "archived": false,
       "description": "Python code for versatile Functional Ontology Assignments for Metagenomes searching via Hidden Markov Model (HMM) with environmental focus of shotgun metaomics data",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 409,
+      "stars": 410,
       "forks": 92,
       "openIssues": 1,
       "lastPush": "2026-06-08T12:58:30Z",
