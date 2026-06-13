@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-12T10:19:16.403Z",
+  "lastScraped": "2026-06-13T09:21:12.406Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 941,
+      "stars": 942,
       "forks": 162,
       "openIssues": 298,
       "lastPush": "2026-06-11T19:52:16Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 941,
+      "stars": 942,
       "forks": 162,
       "openIssues": 298,
       "lastPush": "2026-06-11T19:52:16Z",
@@ -699,8 +699,8 @@
     "VEBA": {
       "source": "github",
       "stars": 102,
-      "forks": 10,
-      "openIssues": 22,
+      "forks": 11,
+      "openIssues": 23,
       "lastPush": "2026-04-27T16:34:46Z",
       "archived": false,
       "description": "A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes ",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 166,
+      "stars": 167,
       "forks": 15,
       "openIssues": 9,
       "lastPush": "2026-06-10T23:45:42Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 410,
+      "stars": 411,
       "forks": 92,
       "openIssues": 1,
       "lastPush": "2026-06-08T12:58:30Z",
@@ -1191,7 +1191,7 @@
       "stars": 4,
       "forks": 6,
       "openIssues": 6,
-      "lastPush": "2024-06-15T17:49:00Z",
+      "lastPush": "2026-06-12T18:25:57Z",
       "archived": false,
       "description": "MySQL phage genomics database management utilities",
       "license": "GPL-3.0",
