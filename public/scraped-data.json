@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-15T12:22:18.424Z",
+  "lastScraped": "2026-06-16T11:17:49.400Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,10 +54,10 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 942,
+      "stars": 943,
       "forks": 162,
-      "openIssues": 297,
-      "lastPush": "2026-06-14T09:21:04Z",
+      "openIssues": 298,
+      "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -120,7 +120,7 @@
     },
     "DEPhT": {
       "source": "github",
-      "stars": 22,
+      "stars": 23,
       "forks": 4,
       "openIssues": 7,
       "lastPush": "2024-12-16T14:46:02Z",
@@ -291,10 +291,10 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 942,
+      "stars": 943,
       "forks": 162,
-      "openIssues": 297,
-      "lastPush": "2026-06-14T09:21:04Z",
+      "openIssues": 298,
+      "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -434,7 +434,7 @@
     },
     "PHIST": {
       "source": "github",
-      "stars": 31,
+      "stars": 32,
       "forks": 3,
       "openIssues": 6,
       "lastPush": "2024-07-08T14:49:09Z",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 292,
+      "stars": 293,
       "forks": 35,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 4,
-      "lastPush": "2026-06-15T11:41:58Z",
+      "lastPush": "2026-06-16T09:25:33Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 172,
+      "stars": 173,
       "forks": 25,
       "openIssues": 3,
       "lastPush": "2026-05-05T09:53:05Z",
@@ -949,7 +949,7 @@
       "stars": 86,
       "forks": 10,
       "openIssues": 10,
-      "lastPush": "2026-01-24T06:54:06Z",
+      "lastPush": "2026-06-16T05:05:06Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
       "license": "MIT",
