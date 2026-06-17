@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-16T11:17:49.400Z",
+  "lastScraped": "2026-06-17T11:02:36.555Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -258,8 +258,8 @@
     },
     "Jovian": {
       "source": "github",
-      "stars": 6,
-      "forks": 0,
+      "stars": 7,
+      "forks": 1,
       "openIssues": 1,
       "lastPush": "2025-11-03T11:17:44Z",
       "archived": false,
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 90,
+      "stars": 91,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -404,7 +404,7 @@
       "stars": 213,
       "forks": 28,
       "openIssues": 10,
-      "lastPush": "2026-06-04T13:50:51Z",
+      "lastPush": "2026-06-17T05:05:19Z",
       "archived": false,
       "description": "fast phage annotation program",
       "license": "MIT",
@@ -600,7 +600,7 @@
     "vRhyme": {
       "source": "github",
       "stars": 75,
-      "forks": 13,
+      "forks": 14,
       "openIssues": 33,
       "lastPush": "2022-07-13T00:13:53Z",
       "archived": false,
@@ -816,8 +816,8 @@
       "source": "github",
       "stars": 37,
       "forks": 1,
-      "openIssues": 4,
-      "lastPush": "2026-06-16T09:25:33Z",
+      "openIssues": 2,
+      "lastPush": "2026-06-17T10:44:39Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 167,
+      "stars": 168,
       "forks": 15,
       "openIssues": 9,
       "lastPush": "2026-06-10T23:45:42Z",
@@ -947,8 +947,8 @@
     "Plassembler": {
       "source": "github",
       "stars": 86,
-      "forks": 10,
-      "openIssues": 10,
+      "forks": 11,
+      "openIssues": 11,
       "lastPush": "2026-06-16T05:05:06Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
@@ -1013,7 +1013,7 @@
     "CZ ID": {
       "source": "github",
       "stars": 51,
-      "forks": 13,
+      "forks": 14,
       "openIssues": 20,
       "lastPush": "2026-04-23T00:47:40Z",
       "archived": false,
@@ -1123,8 +1123,8 @@
     "MetaPhlAn 4": {
       "source": "github",
       "stars": 411,
-      "forks": 92,
-      "openIssues": 1,
+      "forks": 93,
+      "openIssues": 2,
       "lastPush": "2026-06-08T12:58:30Z",
       "archived": false,
       "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
@@ -1279,7 +1279,7 @@
       "stars": 30,
       "forks": 4,
       "openIssues": 0,
-      "lastPush": "2026-05-21T15:08:29Z",
+      "lastPush": "2026-06-17T10:58:44Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
