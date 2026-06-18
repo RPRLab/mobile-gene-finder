@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-17T11:02:36.555Z",
+  "lastScraped": "2026-06-18T10:24:59.592Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,8 +54,8 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 943,
-      "forks": 162,
+      "stars": 944,
+      "forks": 163,
       "openIssues": 298,
       "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
@@ -260,7 +260,7 @@
       "source": "github",
       "stars": 7,
       "forks": 1,
-      "openIssues": 1,
+      "openIssues": 2,
       "lastPush": "2025-11-03T11:17:44Z",
       "archived": false,
       "description": "Accessible Metagenomics/viromics for public health and clinical domains. Focuses on automation, accessibility and a clear audit trail.",
@@ -291,8 +291,8 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 943,
-      "forks": 162,
+      "stars": 944,
+      "forks": 163,
       "openIssues": 298,
       "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
@@ -380,7 +380,7 @@
     "PHANOTATE": {
       "source": "github",
       "stars": 91,
-      "forks": 13,
+      "forks": 14,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
       "archived": false,
@@ -404,7 +404,7 @@
       "stars": 213,
       "forks": 28,
       "openIssues": 10,
-      "lastPush": "2026-06-17T05:05:19Z",
+      "lastPush": "2026-06-17T13:52:38Z",
       "archived": false,
       "description": "fast phage annotation program",
       "license": "MIT",
@@ -742,7 +742,7 @@
     },
     "ViralMSA": {
       "source": "github",
-      "stars": 72,
+      "stars": 73,
       "forks": 11,
       "openIssues": 1,
       "lastPush": "2026-05-30T17:12:22Z",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-06-17T10:44:39Z",
+      "lastPush": "2026-06-18T09:16:43Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -847,7 +847,7 @@
     },
     "taxMyPhage": {
       "source": "github",
-      "stars": 40,
+      "stars": 41,
       "forks": 3,
       "openIssues": 5,
       "lastPush": "2026-04-20T20:37:12Z",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 168,
+      "stars": 167,
       "forks": 15,
       "openIssues": 9,
       "lastPush": "2026-06-10T23:45:42Z",
@@ -1279,7 +1279,7 @@
       "stars": 30,
       "forks": 4,
       "openIssues": 0,
-      "lastPush": "2026-06-17T10:58:44Z",
+      "lastPush": "2026-06-17T11:06:17Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
