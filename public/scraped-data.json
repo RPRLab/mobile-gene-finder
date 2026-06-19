@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-18T10:24:59.592Z",
+  "lastScraped": "2026-06-19T10:42:40.634Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 316,
+      "stars": 317,
       "forks": 29,
       "openIssues": 68,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -390,7 +390,7 @@
     },
     "Phanta": {
       "source": "github",
-      "stars": 74,
+      "stars": 75,
       "forks": 11,
       "openIssues": 1,
       "lastPush": "2025-12-01T19:33:32Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 213,
+      "stars": 214,
       "forks": 28,
       "openIssues": 10,
       "lastPush": "2026-06-17T13:52:38Z",
@@ -723,7 +723,7 @@
       "stars": 152,
       "forks": 21,
       "openIssues": 17,
-      "lastPush": "2026-06-09T09:58:56Z",
+      "lastPush": "2026-06-18T11:04:23Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-06-18T09:16:43Z",
+      "lastPush": "2026-06-19T01:41:14Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -992,8 +992,8 @@
       "source": "github",
       "stars": 147,
       "forks": 46,
-      "openIssues": 41,
-      "lastPush": "2026-05-15T15:18:49Z",
+      "openIssues": 42,
+      "lastPush": "2026-06-18T15:13:41Z",
       "archived": false,
       "description": "V-pipe is a pipeline designed for analysing NGS data of short viral genomes",
       "license": "Apache-2.0",
@@ -1013,7 +1013,7 @@
     "CZ ID": {
       "source": "github",
       "stars": 51,
-      "forks": 14,
+      "forks": 13,
       "openIssues": 20,
       "lastPush": "2026-04-23T00:47:40Z",
       "archived": false,
