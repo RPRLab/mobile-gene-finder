@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-19T10:42:40.634Z",
+  "lastScraped": "2026-06-20T09:21:46.377Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -55,7 +55,7 @@
     "coronaSPAdes": {
       "source": "github",
       "stars": 944,
-      "forks": 163,
+      "forks": 162,
       "openIssues": 298,
       "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
@@ -292,7 +292,7 @@
     "metaviralSPAdes": {
       "source": "github",
       "stars": 944,
-      "forks": 163,
+      "forks": 162,
       "openIssues": 298,
       "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-06-19T01:41:14Z",
+      "lastPush": "2026-06-19T19:25:53Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 411,
+      "stars": 412,
       "forks": 93,
       "openIssues": 2,
       "lastPush": "2026-06-08T12:58:30Z",
