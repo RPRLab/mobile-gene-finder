@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-22T12:10:31.311Z",
+  "lastScraped": "2026-06-23T09:47:12.595Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 152,
       "forks": 21,
-      "openIssues": 17,
-      "lastPush": "2026-06-18T11:04:23Z",
+      "openIssues": 16,
+      "lastPush": "2026-06-23T09:32:06Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -803,7 +803,7 @@
     },
     "INSaFLU-TELEVIR": {
       "source": "github",
-      "stars": 42,
+      "stars": 43,
       "forks": 12,
       "openIssues": 6,
       "lastPush": "2026-02-26T14:36:04Z",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-06-22T08:13:16Z",
+      "lastPush": "2026-06-23T07:00:43Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -902,7 +902,7 @@
     },
     "Phables": {
       "source": "github",
-      "stars": 85,
+      "stars": 84,
       "forks": 6,
       "openIssues": 9,
       "lastPush": "2025-12-04T23:31:36Z",
@@ -1279,7 +1279,7 @@
       "stars": 30,
       "forks": 4,
       "openIssues": 0,
-      "lastPush": "2026-06-17T11:06:17Z",
+      "lastPush": "2026-06-22T20:17:24Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
