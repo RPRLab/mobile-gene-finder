@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-25T09:31:54.949Z",
+  "lastScraped": "2026-06-26T09:33:28.098Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -305,7 +305,7 @@
       "stars": 18,
       "forks": 11,
       "openIssues": 2,
-      "lastPush": "2021-06-14T17:10:37Z",
+      "lastPush": "2026-06-26T03:34:10Z",
       "archived": false,
       "description": "multiPhATE with comparative genomics",
       "license": null,
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 152,
       "forks": 21,
-      "openIssues": 17,
-      "lastPush": "2026-06-24T15:19:04Z",
+      "openIssues": 16,
+      "lastPush": "2026-06-25T14:04:42Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-06-25T08:37:08Z",
+      "lastPush": "2026-06-26T08:54:39Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
