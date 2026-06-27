@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-26T09:33:28.098Z",
+  "lastScraped": "2026-06-27T08:40:29.685Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 317,
+      "stars": 318,
       "forks": 29,
       "openIssues": 68,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -241,7 +241,7 @@
     },
     "iPHoP": {
       "source": "bitbucket",
-      "lastPush": "2026-05-15T18:08:26.789055+00:00",
+      "lastPush": "2026-06-26T16:11:03.753901+00:00",
       "language": "python",
       "description": "iPHoP (Integrated Phage HOst Prediction) is a bioinformatic tool for computational prediction of host taxonomy from phage genomes."
     },
@@ -806,7 +806,7 @@
       "stars": 43,
       "forks": 12,
       "openIssues": 6,
-      "lastPush": "2026-02-26T14:36:04Z",
+      "lastPush": "2026-06-26T15:43:49Z",
       "archived": false,
       "description": "INSaFLU-TELEVIR: an free web-based (but also locally installable) bioinformatics suite for virus metagenomic detection and routine genomic surveillance",
       "license": "GPL-3.0",
