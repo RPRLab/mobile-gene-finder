@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-06-28T08:57:21.016Z",
+  "lastScraped": "2026-06-29T11:06:14.680Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -861,7 +861,7 @@
       "stars": 167,
       "forks": 15,
       "openIssues": 9,
-      "lastPush": "2026-06-24T23:48:34Z",
+      "lastPush": "2026-06-28T12:09:15Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
