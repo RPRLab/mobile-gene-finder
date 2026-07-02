@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-01T09:54:32.905Z",
+  "lastScraped": "2026-07-02T09:18:06.780Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -131,7 +131,7 @@
     },
     "DRAMv": {
       "source": "github",
-      "stars": 333,
+      "stars": 334,
       "forks": 62,
       "openIssues": 126,
       "lastPush": "2026-06-03T17:06:26Z",
@@ -230,7 +230,7 @@
     },
     "IntegronFinder": {
       "source": "github",
-      "stars": 89,
+      "stars": 90,
       "forks": 27,
       "openIssues": 7,
       "lastPush": "2025-05-07T14:34:58Z",
@@ -403,7 +403,7 @@
       "source": "github",
       "stars": 215,
       "forks": 28,
-      "openIssues": 10,
+      "openIssues": 11,
       "lastPush": "2026-06-17T13:52:38Z",
       "archived": false,
       "description": "fast phage annotation program",
@@ -806,7 +806,7 @@
       "stars": 43,
       "forks": 12,
       "openIssues": 6,
-      "lastPush": "2026-06-26T15:43:49Z",
+      "lastPush": "2026-07-02T09:13:38Z",
       "archived": false,
       "description": "INSaFLU-TELEVIR: an free web-based (but also locally installable) bioinformatics suite for virus metagenomic detection and routine genomic surveillance",
       "license": "GPL-3.0",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-06-26T08:54:39Z",
+      "lastPush": "2026-07-02T08:24:06Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 112,
+      "stars": 113,
       "forks": 9,
       "openIssues": 29,
       "lastPush": "2026-05-13T07:10:20Z",
@@ -861,7 +861,7 @@
       "stars": 167,
       "forks": 15,
       "openIssues": 10,
-      "lastPush": "2026-06-28T12:09:15Z",
+      "lastPush": "2026-07-02T01:40:22Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -871,7 +871,7 @@
       "source": "github",
       "stars": 174,
       "forks": 25,
-      "openIssues": 3,
+      "openIssues": 4,
       "lastPush": "2026-05-05T09:53:05Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
@@ -957,7 +957,7 @@
     },
     "ViralVerify": {
       "source": "github",
-      "stars": 75,
+      "stars": 76,
       "forks": 13,
       "openIssues": 5,
       "lastPush": "2026-02-19T06:54:50Z",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 112,
+      "stars": 113,
       "forks": 9,
       "openIssues": 29,
       "lastPush": "2026-05-13T07:10:20Z",
