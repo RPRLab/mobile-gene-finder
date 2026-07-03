@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-02T09:18:06.780Z",
+  "lastScraped": "2026-07-03T09:23:28.026Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 947,
+      "stars": 948,
       "forks": 162,
       "openIssues": 298,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 947,
+      "stars": 948,
       "forks": 162,
       "openIssues": 298,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -676,7 +676,7 @@
     },
     "MOB-suite": {
       "source": "github",
-      "stars": 178,
+      "stars": 179,
       "forks": 33,
       "openIssues": 29,
       "lastPush": "2025-04-16T21:11:00Z",
@@ -699,9 +699,9 @@
     "VEBA": {
       "source": "github",
       "stars": 102,
-      "forks": 11,
-      "openIssues": 23,
-      "lastPush": "2026-04-27T16:34:46Z",
+      "forks": 12,
+      "openIssues": 21,
+      "lastPush": "2026-07-03T02:54:27Z",
       "archived": false,
       "description": "A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes ",
       "license": "AGPL-3.0",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-07-02T08:24:06Z",
+      "lastPush": "2026-07-02T15:06:30Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 113,
+      "stars": 114,
       "forks": 9,
       "openIssues": 29,
       "lastPush": "2026-05-13T07:10:20Z",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 113,
+      "stars": 114,
       "forks": 9,
       "openIssues": 29,
       "lastPush": "2026-05-13T07:10:20Z",
