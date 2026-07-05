@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-04T08:41:46.002Z",
+  "lastScraped": "2026-07-05T08:57:05.894Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-07-03T17:15:28Z",
+      "lastPush": "2026-07-05T00:00:14Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
