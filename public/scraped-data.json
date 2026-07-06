@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-05T08:57:05.894Z",
+  "lastScraped": "2026-07-06T10:42:58.524Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -404,7 +404,7 @@
       "stars": 215,
       "forks": 28,
       "openIssues": 11,
-      "lastPush": "2026-06-17T13:52:38Z",
+      "lastPush": "2026-07-06T06:21:31Z",
       "archived": false,
       "description": "fast phage annotation program",
       "license": "MIT",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-07-05T00:00:14Z",
+      "lastPush": "2026-07-05T18:52:00Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 174,
+      "stars": 175,
       "forks": 25,
       "openIssues": 4,
       "lastPush": "2026-05-05T09:53:05Z",
@@ -949,7 +949,7 @@
       "stars": 87,
       "forks": 11,
       "openIssues": 11,
-      "lastPush": "2026-06-16T05:05:06Z",
+      "lastPush": "2026-07-06T10:38:39Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
       "license": "MIT",
