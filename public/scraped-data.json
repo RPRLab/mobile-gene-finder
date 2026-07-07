@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-06T10:42:58.524Z",
+  "lastScraped": "2026-07-07T09:48:08.535Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 948,
+      "stars": 949,
       "forks": 162,
       "openIssues": 298,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -131,7 +131,7 @@
     },
     "DRAMv": {
       "source": "github",
-      "stars": 334,
+      "stars": 335,
       "forks": 62,
       "openIssues": 126,
       "lastPush": "2026-06-03T17:06:26Z",
@@ -230,7 +230,7 @@
     },
     "IntegronFinder": {
       "source": "github",
-      "stars": 90,
+      "stars": 91,
       "forks": 27,
       "openIssues": 7,
       "lastPush": "2025-05-07T14:34:58Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 948,
+      "stars": 949,
       "forks": 162,
       "openIssues": 298,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -403,8 +403,8 @@
       "source": "github",
       "stars": 215,
       "forks": 28,
-      "openIssues": 11,
-      "lastPush": "2026-07-06T06:21:31Z",
+      "openIssues": 10,
+      "lastPush": "2026-07-07T02:33:10Z",
       "archived": false,
       "description": "fast phage annotation program",
       "license": "MIT",
@@ -701,7 +701,7 @@
       "stars": 102,
       "forks": 12,
       "openIssues": 21,
-      "lastPush": "2026-07-03T02:54:27Z",
+      "lastPush": "2026-07-06T18:34:36Z",
       "archived": false,
       "description": "A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes ",
       "license": "AGPL-3.0",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-07-05T18:52:00Z",
+      "lastPush": "2026-07-07T09:06:27Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 175,
+      "stars": 176,
       "forks": 25,
       "openIssues": 4,
       "lastPush": "2026-05-05T09:53:05Z",
@@ -948,8 +948,8 @@
       "source": "github",
       "stars": 87,
       "forks": 11,
-      "openIssues": 11,
-      "lastPush": "2026-07-06T10:38:39Z",
+      "openIssues": 10,
+      "lastPush": "2026-07-07T05:59:17Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
       "license": "MIT",
@@ -1331,7 +1331,7 @@
     },
     "PlasX": {
       "source": "github",
-      "stars": 41,
+      "stars": 42,
       "forks": 1,
       "openIssues": 10,
       "lastPush": "2022-02-09T05:40:26Z",
