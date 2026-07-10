@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-08T08:34:02.199Z",
+  "lastScraped": "2026-07-10T09:40:36.424Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -404,7 +404,7 @@
       "stars": 215,
       "forks": 28,
       "openIssues": 10,
-      "lastPush": "2026-07-08T01:08:49Z",
+      "lastPush": "2026-07-09T14:52:44Z",
       "archived": false,
       "description": "fast phage annotation program",
       "license": "MIT",
@@ -621,7 +621,7 @@
     },
     "Cenote-Taker 3": {
       "source": "github",
-      "stars": 63,
+      "stars": 64,
       "forks": 3,
       "openIssues": 5,
       "lastPush": "2026-06-10T17:38:21Z",
@@ -632,7 +632,7 @@
     },
     "CrisprOpenDB": {
       "source": "github",
-      "stars": 19,
+      "stars": 20,
       "forks": 8,
       "openIssues": 8,
       "lastPush": "2021-05-13T18:30:24Z",
@@ -701,7 +701,7 @@
       "stars": 102,
       "forks": 12,
       "openIssues": 21,
-      "lastPush": "2026-07-06T18:34:36Z",
+      "lastPush": "2026-07-08T20:47:42Z",
       "archived": false,
       "description": "A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes ",
       "license": "AGPL-3.0",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-07-08T08:31:58Z",
+      "lastPush": "2026-07-09T11:04:44Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -861,7 +861,7 @@
       "stars": 167,
       "forks": 15,
       "openIssues": 8,
-      "lastPush": "2026-07-08T08:33:32Z",
+      "lastPush": "2026-07-08T13:18:01Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -1023,7 +1023,7 @@
     },
     "MetaCerberus": {
       "source": "github",
-      "stars": 65,
+      "stars": 66,
       "forks": 14,
       "openIssues": 1,
       "lastPush": "2026-04-22T17:00:50Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 414,
+      "stars": 416,
       "forks": 93,
       "openIssues": 1,
       "lastPush": "2026-07-07T13:04:16Z",
@@ -1298,7 +1298,7 @@
     },
     "PLASMe": {
       "source": "github",
-      "stars": 35,
+      "stars": 36,
       "forks": 6,
       "openIssues": 18,
       "lastPush": "2024-04-15T08:21:01Z",
@@ -1320,7 +1320,7 @@
     },
     "PlasmidHunter": {
       "source": "github",
-      "stars": 7,
+      "stars": 8,
       "forks": 1,
       "openIssues": 4,
       "lastPush": "2024-05-17T20:53:10Z",
