@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-10T09:40:36.424Z",
+  "lastScraped": "2026-07-11T08:01:08.605Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 950,
+      "stars": 951,
       "forks": 162,
       "openIssues": 298,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -247,7 +247,7 @@
     },
     "ISEScan": {
       "source": "github",
-      "stars": 113,
+      "stars": 114,
       "forks": 17,
       "openIssues": 7,
       "lastPush": "2025-12-05T22:07:25Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 950,
+      "stars": 951,
       "forks": 162,
       "openIssues": 298,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -993,7 +993,7 @@
       "stars": 147,
       "forks": 46,
       "openIssues": 42,
-      "lastPush": "2026-06-18T15:13:41Z",
+      "lastPush": "2026-07-10T15:57:12Z",
       "archived": false,
       "description": "V-pipe is a pipeline designed for analysing NGS data of short viral genomes",
       "license": "Apache-2.0",
