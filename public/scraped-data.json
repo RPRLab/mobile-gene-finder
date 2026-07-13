@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-12T08:22:09.370Z",
+  "lastScraped": "2026-07-13T09:33:08.955Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-07-11T20:48:52Z",
+      "lastPush": "2026-07-12T18:56:06Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -871,7 +871,7 @@
       "source": "github",
       "stars": 176,
       "forks": 25,
-      "openIssues": 4,
+      "openIssues": 3,
       "lastPush": "2026-05-05T09:53:05Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
@@ -946,7 +946,7 @@
     },
     "Plassembler": {
       "source": "github",
-      "stars": 87,
+      "stars": 88,
       "forks": 11,
       "openIssues": 8,
       "lastPush": "2026-07-07T13:02:48Z",
