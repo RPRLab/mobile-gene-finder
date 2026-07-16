@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-15T08:18:48.146Z",
+  "lastScraped": "2026-07-16T08:19:02.116Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -15,7 +15,7 @@
     },
     "BACPHLIP": {
       "source": "github",
-      "stars": 41,
+      "stars": 42,
       "forks": 8,
       "openIssues": 6,
       "lastPush": "2023-08-09T11:16:56Z",
@@ -98,7 +98,7 @@
     },
     "DeepHost": {
       "source": "github",
-      "stars": 21,
+      "stars": 22,
       "forks": 0,
       "openIssues": 0,
       "lastPush": "2024-12-12T07:20:08Z",
@@ -132,7 +132,7 @@
     "DRAMv": {
       "source": "github",
       "stars": 335,
-      "forks": 62,
+      "forks": 63,
       "openIssues": 126,
       "lastPush": "2026-06-03T17:06:26Z",
       "archived": false,
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 320,
+      "stars": 321,
       "forks": 29,
       "openIssues": 68,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -489,7 +489,7 @@
     },
     "Platon": {
       "source": "github",
-      "stars": 123,
+      "stars": 124,
       "forks": 15,
       "openIssues": 6,
       "lastPush": "2026-05-29T14:35:18Z",
@@ -678,7 +678,7 @@
       "source": "github",
       "stars": 179,
       "forks": 33,
-      "openIssues": 29,
+      "openIssues": 30,
       "lastPush": "2025-04-16T21:11:00Z",
       "archived": false,
       "description": "MOB-suite: Software tools for clustering, reconstruction and typing of plasmids from draft assemblies",
@@ -723,7 +723,7 @@
       "stars": 152,
       "forks": 21,
       "openIssues": 17,
-      "lastPush": "2026-07-14T12:44:32Z",
+      "lastPush": "2026-07-15T21:30:33Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -806,7 +806,7 @@
       "stars": 43,
       "forks": 12,
       "openIssues": 6,
-      "lastPush": "2026-07-02T09:13:38Z",
+      "lastPush": "2026-07-15T09:45:56Z",
       "archived": false,
       "description": "INSaFLU-TELEVIR: an free web-based (but also locally installable) bioinformatics suite for virus metagenomic detection and routine genomic surveillance",
       "license": "GPL-3.0",
@@ -993,7 +993,7 @@
       "stars": 148,
       "forks": 46,
       "openIssues": 42,
-      "lastPush": "2026-07-10T15:57:12Z",
+      "lastPush": "2026-07-15T13:32:55Z",
       "archived": false,
       "description": "V-pipe is a pipeline designed for analysing NGS data of short viral genomes",
       "license": "Apache-2.0",
@@ -1125,7 +1125,7 @@
       "stars": 418,
       "forks": 93,
       "openIssues": 1,
-      "lastPush": "2026-07-07T13:04:16Z",
+      "lastPush": "2026-07-15T14:22:49Z",
       "archived": false,
       "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
       "license": "MIT",
