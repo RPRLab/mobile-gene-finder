@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-16T08:19:02.116Z",
+  "lastScraped": "2026-07-17T08:14:48.121Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -133,7 +133,7 @@
       "source": "github",
       "stars": 335,
       "forks": 63,
-      "openIssues": 126,
+      "openIssues": 127,
       "lastPush": "2026-06-03T17:06:26Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
@@ -247,7 +247,7 @@
     },
     "ISEScan": {
       "source": "github",
-      "stars": 114,
+      "stars": 115,
       "forks": 17,
       "openIssues": 7,
       "lastPush": "2025-12-05T22:07:25Z",
@@ -403,10 +403,10 @@
       "source": "github",
       "stars": 217,
       "forks": 29,
-      "openIssues": 14,
-      "lastPush": "2026-07-09T14:52:44Z",
+      "openIssues": 10,
+      "lastPush": "2026-07-17T05:19:52Z",
       "archived": false,
-      "description": "fast phage annotation program",
+      "description": "Pharokka is a rapid standardised annotation tool for bacteriophage genomes and metagenomes.",
       "license": "MIT",
       "language": "Python"
     },
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 294,
+      "stars": 295,
       "forks": 35,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 152,
       "forks": 21,
-      "openIssues": 17,
-      "lastPush": "2026-07-15T21:30:33Z",
+      "openIssues": 18,
+      "lastPush": "2026-07-16T13:43:28Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-07-12T18:56:06Z",
+      "lastPush": "2026-07-16T21:00:11Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -925,7 +925,7 @@
     "Phynteny": {
       "source": "github",
       "stars": 61,
-      "forks": 3,
+      "forks": 4,
       "openIssues": 5,
       "lastPush": "2025-06-04T06:56:07Z",
       "archived": false,
