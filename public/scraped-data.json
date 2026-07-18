@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-17T08:14:48.121Z",
+  "lastScraped": "2026-07-18T07:56:38.170Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -16,7 +16,7 @@
     "BACPHLIP": {
       "source": "github",
       "stars": 42,
-      "forks": 8,
+      "forks": 7,
       "openIssues": 6,
       "lastPush": "2023-08-09T11:16:56Z",
       "archived": false,
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 321,
+      "stars": 322,
       "forks": 29,
       "openIssues": 68,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -230,7 +230,7 @@
     },
     "IntegronFinder": {
       "source": "github",
-      "stars": 91,
+      "stars": 92,
       "forks": 27,
       "openIssues": 7,
       "lastPush": "2025-05-07T14:34:58Z",
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 91,
+      "stars": 92,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -401,8 +401,8 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 217,
-      "forks": 29,
+      "stars": 218,
+      "forks": 28,
       "openIssues": 10,
       "lastPush": "2026-07-17T05:19:52Z",
       "archived": false,
@@ -523,7 +523,7 @@
     "Seeker": {
       "source": "github",
       "stars": 33,
-      "forks": 8,
+      "forks": 7,
       "openIssues": 5,
       "lastPush": "2021-07-14T17:04:19Z",
       "archived": false,
@@ -698,7 +698,7 @@
     },
     "VEBA": {
       "source": "github",
-      "stars": 104,
+      "stars": 105,
       "forks": 12,
       "openIssues": 21,
       "lastPush": "2026-07-14T01:43:36Z",
@@ -723,7 +723,7 @@
       "stars": 152,
       "forks": 21,
       "openIssues": 18,
-      "lastPush": "2026-07-16T13:43:28Z",
+      "lastPush": "2026-07-17T15:22:24Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -805,7 +805,7 @@
       "source": "github",
       "stars": 43,
       "forks": 12,
-      "openIssues": 6,
+      "openIssues": 7,
       "lastPush": "2026-07-15T09:45:56Z",
       "archived": false,
       "description": "INSaFLU-TELEVIR: an free web-based (but also locally installable) bioinformatics suite for virus metagenomic detection and routine genomic surveillance",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-07-16T21:00:11Z",
+      "lastPush": "2026-07-17T14:31:31Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -827,7 +827,7 @@
       "source": "github",
       "stars": 114,
       "forks": 9,
-      "openIssues": 29,
+      "openIssues": 30,
       "lastPush": "2026-05-13T07:10:20Z",
       "archived": false,
       "description": "Local version of the virus identification and analysis web server (tool set)  ",
@@ -880,7 +880,7 @@
     },
     "PADLOC": {
       "source": "github",
-      "stars": 74,
+      "stars": 75,
       "forks": 13,
       "openIssues": 2,
       "lastPush": "2024-10-22T10:34:08Z",
@@ -1135,7 +1135,7 @@
       "source": "github",
       "stars": 114,
       "forks": 9,
-      "openIssues": 29,
+      "openIssues": 30,
       "lastPush": "2026-05-13T07:10:20Z",
       "archived": false,
       "description": "Local version of the virus identification and analysis web server (tool set)  ",
