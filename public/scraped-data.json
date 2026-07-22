@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-21T08:33:41.333Z",
+  "lastScraped": "2026-07-22T08:33:17.086Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,9 +54,9 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 952,
+      "stars": 953,
       "forks": 162,
-      "openIssues": 298,
+      "openIssues": 299,
       "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 323,
+      "stars": 324,
       "forks": 29,
       "openIssues": 68,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -291,9 +291,9 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 952,
+      "stars": 953,
       "forks": 162,
-      "openIssues": 298,
+      "openIssues": 299,
       "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 218,
+      "stars": 219,
       "forks": 28,
       "openIssues": 11,
       "lastPush": "2026-07-20T06:30:47Z",
@@ -722,7 +722,7 @@
       "source": "github",
       "stars": 152,
       "forks": 21,
-      "openIssues": 18,
+      "openIssues": 19,
       "lastPush": "2026-07-20T14:53:20Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-07-19T21:47:51Z",
+      "lastPush": "2026-07-21T16:25:43Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 167,
+      "stars": 168,
       "forks": 15,
       "openIssues": 9,
       "lastPush": "2026-07-20T06:31:02Z",
@@ -946,7 +946,7 @@
     },
     "Plassembler": {
       "source": "github",
-      "stars": 88,
+      "stars": 89,
       "forks": 11,
       "openIssues": 8,
       "lastPush": "2026-07-07T13:02:48Z",
@@ -1123,7 +1123,7 @@
     "MetaPhlAn 4": {
       "source": "github",
       "stars": 418,
-      "forks": 93,
+      "forks": 94,
       "openIssues": 1,
       "lastPush": "2026-07-15T14:22:49Z",
       "archived": false,
