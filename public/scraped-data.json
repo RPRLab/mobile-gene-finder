@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-23T08:34:52.388Z",
+  "lastScraped": "2026-07-24T08:31:30.051Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 198,
+      "stars": 199,
       "forks": 40,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 295,
+      "stars": 296,
       "forks": 35,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -723,7 +723,7 @@
       "stars": 152,
       "forks": 21,
       "openIssues": 19,
-      "lastPush": "2026-07-20T14:53:20Z",
+      "lastPush": "2026-07-23T13:18:26Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 177,
+      "stars": 178,
       "forks": 25,
       "openIssues": 2,
       "lastPush": "2026-05-05T09:53:05Z",
@@ -1276,7 +1276,7 @@
     },
     "PlasMAAG": {
       "source": "github",
-      "stars": 30,
+      "stars": 31,
       "forks": 4,
       "openIssues": 0,
       "lastPush": "2026-06-22T20:17:24Z",
