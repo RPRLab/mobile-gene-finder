@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-24T08:31:30.051Z",
+  "lastScraped": "2026-07-25T08:10:03.688Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 953,
+      "stars": 954,
       "forks": 162,
       "openIssues": 299,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -133,8 +133,8 @@
       "source": "github",
       "stars": 335,
       "forks": 63,
-      "openIssues": 127,
-      "lastPush": "2026-06-03T17:06:26Z",
+      "openIssues": 126,
+      "lastPush": "2026-07-24T15:54:27Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 953,
+      "stars": 954,
       "forks": 162,
       "openIssues": 299,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -871,7 +871,7 @@
       "source": "github",
       "stars": 178,
       "forks": 25,
-      "openIssues": 2,
+      "openIssues": 1,
       "lastPush": "2026-05-05T09:53:05Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
@@ -1125,7 +1125,7 @@
       "stars": 418,
       "forks": 94,
       "openIssues": 1,
-      "lastPush": "2026-07-15T14:22:49Z",
+      "lastPush": "2026-07-24T13:10:06Z",
       "archived": false,
       "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
       "license": "MIT",
