@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-27T09:56:56.844Z",
+  "lastScraped": "2026-07-28T08:38:22.255Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -700,7 +700,7 @@
       "source": "github",
       "stars": 105,
       "forks": 12,
-      "openIssues": 22,
+      "openIssues": 21,
       "lastPush": "2026-07-14T01:43:36Z",
       "archived": false,
       "description": "A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes ",
@@ -836,7 +836,7 @@
     },
     "PIDE": {
       "source": "github",
-      "stars": 22,
+      "stars": 23,
       "forks": 2,
       "openIssues": 5,
       "lastPush": "2025-09-26T08:08:23Z",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 178,
+      "stars": 180,
       "forks": 25,
       "openIssues": 1,
       "lastPush": "2026-05-05T09:53:05Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 418,
+      "stars": 419,
       "forks": 94,
       "openIssues": 1,
       "lastPush": "2026-07-24T13:10:06Z",
