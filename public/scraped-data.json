@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-28T08:38:22.255Z",
+  "lastScraped": "2026-07-29T08:45:12.486Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -392,7 +392,7 @@
       "source": "github",
       "stars": 76,
       "forks": 11,
-      "openIssues": 1,
+      "openIssues": 0,
       "lastPush": "2025-12-01T19:33:32Z",
       "archived": false,
       "description": "Workflow to rapidly quantify taxa from all domains of life, directly from short-read human gut metagenomes",
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 200,
+      "stars": 201,
       "forks": 40,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -645,7 +645,7 @@
       "source": "github",
       "stars": 8,
       "forks": 1,
-      "openIssues": 0,
+      "openIssues": 1,
       "lastPush": "2025-06-12T11:03:24Z",
       "archived": false,
       "description": null,
@@ -723,7 +723,7 @@
       "stars": 152,
       "forks": 21,
       "openIssues": 19,
-      "lastPush": "2026-07-23T13:18:26Z",
+      "lastPush": "2026-07-28T15:07:39Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 114,
+      "stars": 115,
       "forks": 9,
       "openIssues": 30,
       "lastPush": "2026-05-13T07:10:20Z",
@@ -1123,9 +1123,9 @@
     "MetaPhlAn 4": {
       "source": "github",
       "stars": 419,
-      "forks": 94,
+      "forks": 95,
       "openIssues": 1,
-      "lastPush": "2026-07-24T13:10:06Z",
+      "lastPush": "2026-07-28T10:20:39Z",
       "archived": false,
       "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
       "license": "MIT",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 114,
+      "stars": 115,
       "forks": 9,
       "openIssues": 30,
       "lastPush": "2026-05-13T07:10:20Z",
