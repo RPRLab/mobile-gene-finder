@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-07-30T08:31:18.559Z",
+  "lastScraped": "2026-07-31T08:53:38.670Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -98,7 +98,7 @@
     },
     "DeepHost": {
       "source": "github",
-      "stars": 22,
+      "stars": 23,
       "forks": 0,
       "openIssues": 0,
       "lastPush": "2024-12-12T07:20:08Z",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 326,
+      "stars": 327,
       "forks": 29,
       "openIssues": 68,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -175,7 +175,7 @@
     },
     "hafeZ": {
       "source": "github",
-      "stars": 13,
+      "stars": 14,
       "forks": 4,
       "openIssues": 9,
       "lastPush": "2023-10-09T03:43:34Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 220,
+      "stars": 221,
       "forks": 28,
       "openIssues": 11,
       "lastPush": "2026-07-20T06:30:47Z",
@@ -668,7 +668,7 @@
       "stars": 49,
       "forks": 7,
       "openIssues": 2,
-      "lastPush": "2025-11-06T11:40:47Z",
+      "lastPush": "2026-07-30T15:07:23Z",
       "archived": false,
       "description": "code repo for mobileOG-db",
       "license": "GPL-3.0",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 115,
+      "stars": 117,
       "forks": 9,
       "openIssues": 30,
       "lastPush": "2026-05-13T07:10:20Z",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 168,
+      "stars": 169,
       "forks": 15,
       "openIssues": 9,
       "lastPush": "2026-07-20T06:31:02Z",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 180,
+      "stars": 183,
       "forks": 25,
       "openIssues": 1,
       "lastPush": "2026-05-05T09:53:05Z",
@@ -993,7 +993,7 @@
       "stars": 148,
       "forks": 46,
       "openIssues": 42,
-      "lastPush": "2026-07-15T13:32:55Z",
+      "lastPush": "2026-07-30T22:17:00Z",
       "archived": false,
       "description": "V-pipe is a pipeline designed for analysing NGS data of short viral genomes",
       "license": "Apache-2.0",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 419,
+      "stars": 420,
       "forks": 95,
       "openIssues": 1,
       "lastPush": "2026-07-28T10:20:39Z",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 115,
+      "stars": 117,
       "forks": 9,
       "openIssues": 30,
       "lastPush": "2026-05-13T07:10:20Z",
@@ -1232,7 +1232,7 @@
     },
     "ViralCC": {
       "source": "github",
-      "stars": 18,
+      "stars": 19,
       "forks": 5,
       "openIssues": 0,
       "lastPush": "2026-02-03T00:44:47Z",
@@ -1243,7 +1243,7 @@
     },
     "WIsH": {
       "source": "github",
-      "stars": 56,
+      "stars": 57,
       "forks": 10,
       "openIssues": 3,
       "lastPush": "2024-09-17T13:13:20Z",
