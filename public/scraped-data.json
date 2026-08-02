@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-01T08:24:54.730Z",
+  "lastScraped": "2026-08-02T08:27:50.698Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -55,8 +55,8 @@
     "coronaSPAdes": {
       "source": "github",
       "stars": 956,
-      "forks": 162,
-      "openIssues": 300,
+      "forks": 163,
+      "openIssues": 301,
       "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -292,8 +292,8 @@
     "metaviralSPAdes": {
       "source": "github",
       "stars": 956,
-      "forks": 162,
-      "openIssues": 300,
+      "forks": 163,
+      "openIssues": 301,
       "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 297,
+      "stars": 298,
       "forks": 35,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -1100,7 +1100,7 @@
     },
     "VirHostMatcher-Net": {
       "source": "github",
-      "stars": 19,
+      "stars": 20,
       "forks": 1,
       "openIssues": 5,
       "lastPush": "2026-03-08T07:50:13Z",
