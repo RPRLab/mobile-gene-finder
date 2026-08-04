@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-03T09:51:22.708Z",
+  "lastScraped": "2026-08-04T08:41:39.774Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -120,7 +120,7 @@
     },
     "DEPhT": {
       "source": "github",
-      "stars": 23,
+      "stars": 22,
       "forks": 4,
       "openIssues": 7,
       "lastPush": "2024-12-16T14:46:02Z",
@@ -423,7 +423,7 @@
     },
     "PhiSpy": {
       "source": "github",
-      "stars": 87,
+      "stars": 86,
       "forks": 23,
       "openIssues": 0,
       "lastPush": "2026-05-01T01:51:58Z",
@@ -613,7 +613,7 @@
       "stars": 107,
       "forks": 15,
       "openIssues": 22,
-      "lastPush": "2026-07-15T06:46:20Z",
+      "lastPush": "2026-08-03T12:27:34Z",
       "archived": false,
       "description": "WtP: Phage identification via nextflow and docker or singularity",
       "license": "GPL-3.0",
@@ -817,7 +817,7 @@
       "stars": 37,
       "forks": 1,
       "openIssues": 2,
-      "lastPush": "2026-07-22T10:20:24Z",
+      "lastPush": "2026-08-03T17:42:51Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -905,7 +905,7 @@
       "stars": 84,
       "forks": 7,
       "openIssues": 9,
-      "lastPush": "2025-12-04T23:31:36Z",
+      "lastPush": "2026-08-04T03:45:06Z",
       "archived": false,
       "description": "🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes",
       "license": "MIT",
@@ -990,7 +990,7 @@
     },
     "V-pipe": {
       "source": "github",
-      "stars": 148,
+      "stars": 149,
       "forks": 46,
       "openIssues": 41,
       "lastPush": "2026-08-02T15:13:22Z",
@@ -1125,7 +1125,7 @@
       "stars": 420,
       "forks": 95,
       "openIssues": 1,
-      "lastPush": "2026-07-28T10:20:39Z",
+      "lastPush": "2026-08-03T10:21:53Z",
       "archived": false,
       "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
       "license": "MIT",
