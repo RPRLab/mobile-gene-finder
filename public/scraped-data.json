@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-04T08:41:39.774Z",
+  "lastScraped": "2026-08-05T08:40:22.332Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -133,7 +133,7 @@
       "source": "github",
       "stars": 335,
       "forks": 63,
-      "openIssues": 126,
+      "openIssues": 128,
       "lastPush": "2026-07-24T15:54:27Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 152,
       "forks": 21,
-      "openIssues": 19,
-      "lastPush": "2026-07-28T15:07:39Z",
+      "openIssues": 21,
+      "lastPush": "2026-08-04T20:51:56Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -1013,7 +1013,7 @@
     "CZ ID": {
       "source": "github",
       "stars": 51,
-      "forks": 13,
+      "forks": 14,
       "openIssues": 20,
       "lastPush": "2026-04-23T00:47:40Z",
       "archived": false,
