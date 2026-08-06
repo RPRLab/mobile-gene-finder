@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-05T08:40:22.332Z",
+  "lastScraped": "2026-08-06T08:41:21.820Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -404,7 +404,7 @@
       "stars": 221,
       "forks": 28,
       "openIssues": 11,
-      "lastPush": "2026-08-02T12:29:27Z",
+      "lastPush": "2026-08-05T13:56:59Z",
       "archived": false,
       "description": "Pharokka is a rapid standardised annotation tool for bacteriophage genomes and metagenomes.",
       "license": "MIT",
@@ -613,7 +613,7 @@
       "stars": 107,
       "forks": 15,
       "openIssues": 22,
-      "lastPush": "2026-08-03T12:27:34Z",
+      "lastPush": "2026-08-05T13:41:27Z",
       "archived": false,
       "description": "WtP: Phage identification via nextflow and docker or singularity",
       "license": "GPL-3.0",
@@ -723,7 +723,7 @@
       "stars": 152,
       "forks": 21,
       "openIssues": 21,
-      "lastPush": "2026-08-04T20:51:56Z",
+      "lastPush": "2026-08-05T15:40:55Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 169,
+      "stars": 170,
       "forks": 15,
       "openIssues": 9,
       "lastPush": "2026-07-20T06:31:02Z",
@@ -1001,7 +1001,7 @@
     },
     "ShoRAH": {
       "source": "github",
-      "stars": 41,
+      "stars": 42,
       "forks": 14,
       "openIssues": 19,
       "lastPush": "2023-02-24T12:19:15Z",
@@ -1125,7 +1125,7 @@
       "stars": 420,
       "forks": 95,
       "openIssues": 1,
-      "lastPush": "2026-08-03T10:21:53Z",
+      "lastPush": "2026-08-05T12:28:07Z",
       "archived": false,
       "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
       "license": "MIT",
