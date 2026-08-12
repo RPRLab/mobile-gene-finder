@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-11T07:12:26.396Z",
+  "lastScraped": "2026-08-12T07:37:08.200Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -133,12 +133,12 @@
       "source": "github",
       "stars": 335,
       "forks": 63,
-      "openIssues": 130,
-      "lastPush": "2026-08-10T17:45:56Z",
+      "openIssues": 131,
+      "lastPush": "2026-08-11T19:10:42Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
-      "language": "Python"
+      "language": "Nextflow"
     },
     "FAVITES": {
       "source": "github",
@@ -403,8 +403,8 @@
       "source": "github",
       "stars": 222,
       "forks": 28,
-      "openIssues": 12,
-      "lastPush": "2026-08-10T02:35:06Z",
+      "openIssues": 10,
+      "lastPush": "2026-08-11T13:17:52Z",
       "archived": false,
       "description": "Pharokka is a rapid standardised annotation tool for bacteriophage genomes and metagenomes.",
       "license": "MIT",
@@ -613,7 +613,7 @@
       "stars": 107,
       "forks": 15,
       "openIssues": 22,
-      "lastPush": "2026-08-05T13:41:27Z",
+      "lastPush": "2026-08-11T08:12:33Z",
       "archived": false,
       "description": "WtP: Phage identification via nextflow and docker or singularity",
       "license": "GPL-3.0",
@@ -720,7 +720,7 @@
     },
     "VIRify": {
       "source": "github",
-      "stars": 152,
+      "stars": 153,
       "forks": 21,
       "openIssues": 18,
       "lastPush": "2026-08-10T19:17:32Z",
@@ -861,7 +861,7 @@
       "stars": 171,
       "forks": 16,
       "openIssues": 7,
-      "lastPush": "2026-08-10T12:38:23Z",
+      "lastPush": "2026-08-12T05:44:23Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -904,7 +904,7 @@
       "source": "github",
       "stars": 84,
       "forks": 7,
-      "openIssues": 9,
+      "openIssues": 10,
       "lastPush": "2026-08-04T03:45:06Z",
       "archived": false,
       "description": "🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes",
