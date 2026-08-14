@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-13T07:38:32.233Z",
+  "lastScraped": "2026-08-14T07:28:05.647Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -56,7 +56,7 @@
       "source": "github",
       "stars": 955,
       "forks": 164,
-      "openIssues": 304,
+      "openIssues": 303,
       "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -260,8 +260,8 @@
       "source": "github",
       "stars": 8,
       "forks": 1,
-      "openIssues": 2,
-      "lastPush": "2025-11-03T11:17:44Z",
+      "openIssues": 1,
+      "lastPush": "2026-08-13T13:09:45Z",
       "archived": false,
       "description": "Accessible Metagenomics/viromics for public health and clinical domains. Focuses on automation, accessibility and a clear audit trail.",
       "license": "AGPL-3.0",
@@ -293,7 +293,7 @@
       "source": "github",
       "stars": 955,
       "forks": 164,
-      "openIssues": 304,
+      "openIssues": 303,
       "lastPush": "2026-06-16T10:47:36Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -393,7 +393,7 @@
       "stars": 76,
       "forks": 11,
       "openIssues": 0,
-      "lastPush": "2025-12-01T19:33:32Z",
+      "lastPush": "2026-08-13T19:21:47Z",
       "archived": false,
       "description": "Workflow to rapidly quantify taxa from all domains of life, directly from short-read human gut metagenomes",
       "license": "MIT",
@@ -880,7 +880,7 @@
     },
     "PADLOC": {
       "source": "github",
-      "stars": 76,
+      "stars": 77,
       "forks": 13,
       "openIssues": 2,
       "lastPush": "2024-10-22T10:34:08Z",
@@ -947,7 +947,7 @@
     "Plassembler": {
       "source": "github",
       "stars": 89,
-      "forks": 11,
+      "forks": 12,
       "openIssues": 8,
       "lastPush": "2026-07-07T13:02:48Z",
       "archived": false,
@@ -1123,7 +1123,7 @@
     "MetaPhlAn 4": {
       "source": "github",
       "stars": 420,
-      "forks": 95,
+      "forks": 96,
       "openIssues": 1,
       "lastPush": "2026-08-05T12:28:07Z",
       "archived": false,
