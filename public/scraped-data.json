@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-16T06:43:21.917Z",
+  "lastScraped": "2026-08-17T07:00:20.121Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -133,8 +133,8 @@
       "source": "github",
       "stars": 336,
       "forks": 63,
-      "openIssues": 131,
-      "lastPush": "2026-08-11T19:10:42Z",
+      "openIssues": 130,
+      "lastPush": "2026-08-16T21:12:09Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -401,10 +401,10 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 222,
+      "stars": 223,
       "forks": 28,
       "openIssues": 10,
-      "lastPush": "2026-08-11T13:17:52Z",
+      "lastPush": "2026-08-16T14:05:56Z",
       "archived": false,
       "description": "Pharokka is a rapid standardised annotation tool for bacteriophage genomes and metagenomes.",
       "license": "MIT",
@@ -577,7 +577,7 @@
     },
     "VirSorter": {
       "source": "github",
-      "stars": 101,
+      "stars": 102,
       "forks": 31,
       "openIssues": 34,
       "lastPush": "2020-10-03T20:17:25Z",
@@ -1199,7 +1199,7 @@
     },
     "PhamClust": {
       "source": "github",
-      "stars": 7,
+      "stars": 8,
       "forks": 2,
       "openIssues": 0,
       "lastPush": "2024-12-16T14:44:03Z",
