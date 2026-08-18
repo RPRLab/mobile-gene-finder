@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-17T07:00:20.121Z",
+  "lastScraped": "2026-08-18T06:47:55.243Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -665,7 +665,7 @@
     },
     "mobileOG-db": {
       "source": "github",
-      "stars": 49,
+      "stars": 50,
       "forks": 7,
       "openIssues": 2,
       "lastPush": "2026-07-30T15:07:23Z",
@@ -948,8 +948,8 @@
       "source": "github",
       "stars": 89,
       "forks": 12,
-      "openIssues": 8,
-      "lastPush": "2026-07-07T13:02:48Z",
+      "openIssues": 9,
+      "lastPush": "2026-08-18T02:56:05Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
       "license": "MIT",
