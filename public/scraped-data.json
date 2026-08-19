@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-18T06:47:55.243Z",
+  "lastScraped": "2026-08-19T06:48:52.235Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -1278,7 +1278,7 @@
       "source": "github",
       "stars": 32,
       "forks": 4,
-      "openIssues": 1,
+      "openIssues": 2,
       "lastPush": "2026-06-22T20:17:24Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
