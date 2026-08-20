@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-19T06:48:52.235Z",
+  "lastScraped": "2026-08-20T06:50:52.811Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -17,7 +17,7 @@
       "source": "github",
       "stars": 42,
       "forks": 7,
-      "openIssues": 6,
+      "openIssues": 7,
       "lastPush": "2023-08-09T11:16:56Z",
       "archived": false,
       "description": "A python library for predicting phage lifestyle based on genome sequence",
@@ -456,7 +456,7 @@
     },
     "PlaScope": {
       "source": "github",
-      "stars": 26,
+      "stars": 27,
       "forks": 4,
       "openIssues": 4,
       "lastPush": "2022-03-02T16:54:00Z",
@@ -904,7 +904,7 @@
       "source": "github",
       "stars": 84,
       "forks": 7,
-      "openIssues": 9,
+      "openIssues": 7,
       "lastPush": "2026-08-13T01:16:09Z",
       "archived": false,
       "description": "🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes",
