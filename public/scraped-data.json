@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-20T06:50:52.811Z",
+  "lastScraped": "2026-08-21T06:52:05.324Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -566,7 +566,7 @@
     },
     "ViroProfiler": {
       "source": "github",
-      "stars": 39,
+      "stars": 40,
       "forks": 14,
       "openIssues": 21,
       "lastPush": "2026-04-09T12:50:17Z",
@@ -904,7 +904,7 @@
       "source": "github",
       "stars": 84,
       "forks": 7,
-      "openIssues": 7,
+      "openIssues": 8,
       "lastPush": "2026-08-13T01:16:09Z",
       "archived": false,
       "description": "🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes",
