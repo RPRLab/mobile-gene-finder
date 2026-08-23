@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-22T06:43:32.069Z",
+  "lastScraped": "2026-08-23T06:45:07.496Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -402,7 +402,7 @@
     "Pharokka": {
       "source": "github",
       "stars": 224,
-      "forks": 28,
+      "forks": 29,
       "openIssues": 10,
       "lastPush": "2026-08-16T14:05:56Z",
       "archived": false,
