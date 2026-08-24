@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-23T06:45:07.496Z",
+  "lastScraped": "2026-08-24T07:03:17.444Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 224,
+      "stars": 225,
       "forks": 29,
       "openIssues": 10,
       "lastPush": "2026-08-16T14:05:56Z",
@@ -904,8 +904,8 @@
       "source": "github",
       "stars": 84,
       "forks": 7,
-      "openIssues": 8,
-      "lastPush": "2026-08-13T01:16:09Z",
+      "openIssues": 7,
+      "lastPush": "2026-08-24T01:14:58Z",
       "archived": false,
       "description": "🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes",
       "license": "MIT",
@@ -949,7 +949,7 @@
       "stars": 89,
       "forks": 12,
       "openIssues": 9,
-      "lastPush": "2026-08-18T02:56:05Z",
+      "lastPush": "2026-08-24T03:39:05Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
       "license": "MIT",
@@ -1012,7 +1012,7 @@
     },
     "CZ ID": {
       "source": "github",
-      "stars": 51,
+      "stars": 52,
       "forks": 14,
       "openIssues": 20,
       "lastPush": "2026-04-23T00:47:40Z",
@@ -1212,7 +1212,7 @@
       "source": "github",
       "stars": 45,
       "forks": 6,
-      "openIssues": 14,
+      "openIssues": 15,
       "lastPush": "2026-04-16T10:41:07Z",
       "archived": false,
       "description": "The viral taxonomic assignment pipeline",
