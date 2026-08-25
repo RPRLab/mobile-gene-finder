@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-24T07:03:17.444Z",
+  "lastScraped": "2026-08-25T06:52:39.882Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 955,
+      "stars": 954,
       "forks": 164,
       "openIssues": 303,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -249,7 +249,7 @@
       "source": "github",
       "stars": 116,
       "forks": 17,
-      "openIssues": 7,
+      "openIssues": 8,
       "lastPush": "2025-12-05T22:07:25Z",
       "archived": false,
       "description": "A python pipeline to identify IS (Insertion Sequence) elements in genome and metagenome ",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 955,
+      "stars": 954,
       "forks": 164,
       "openIssues": 303,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 92,
+      "stars": 93,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -423,7 +423,7 @@
     },
     "PhiSpy": {
       "source": "github",
-      "stars": 87,
+      "stars": 88,
       "forks": 23,
       "openIssues": 0,
       "lastPush": "2026-05-01T01:51:58Z",
@@ -544,7 +544,7 @@
     },
     "ViraLM": {
       "source": "github",
-      "stars": 28,
+      "stars": 29,
       "forks": 3,
       "openIssues": 3,
       "lastPush": "2025-05-26T16:22:42Z",
@@ -711,7 +711,7 @@
       "source": "github",
       "stars": 38,
       "forks": 9,
-      "openIssues": 4,
+      "openIssues": 5,
       "lastPush": "2026-05-25T05:22:24Z",
       "archived": false,
       "description": "a command line tool for viral proteomic tree generation, part of the ViPTree project: http://www.genome.jp/viptree",
@@ -880,7 +880,7 @@
     },
     "PADLOC": {
       "source": "github",
-      "stars": 77,
+      "stars": 78,
       "forks": 13,
       "openIssues": 2,
       "lastPush": "2024-10-22T10:34:08Z",
@@ -902,7 +902,7 @@
     },
     "Phables": {
       "source": "github",
-      "stars": 84,
+      "stars": 86,
       "forks": 7,
       "openIssues": 7,
       "lastPush": "2026-08-24T01:14:58Z",
