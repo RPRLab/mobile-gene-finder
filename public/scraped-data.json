@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-25T06:52:39.882Z",
+  "lastScraped": "2026-08-26T06:53:54.562Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 954,
+      "stars": 955,
       "forks": 164,
       "openIssues": 303,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -131,8 +131,8 @@
     },
     "DRAMv": {
       "source": "github",
-      "stars": 336,
-      "forks": 63,
+      "stars": 337,
+      "forks": 64,
       "openIssues": 130,
       "lastPush": "2026-08-16T21:12:09Z",
       "archived": false,
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 954,
+      "stars": 955,
       "forks": 164,
       "openIssues": 303,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -817,7 +817,7 @@
       "stars": 38,
       "forks": 2,
       "openIssues": 3,
-      "lastPush": "2026-08-03T17:42:51Z",
+      "lastPush": "2026-08-25T15:42:32Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -1298,7 +1298,7 @@
     },
     "PLASMe": {
       "source": "github",
-      "stars": 37,
+      "stars": 38,
       "forks": 6,
       "openIssues": 18,
       "lastPush": "2024-04-15T08:21:01Z",
