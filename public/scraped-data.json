@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-08-30T11:31:28.099Z",
+  "lastScraped": "2026-08-31T13:04:16.654Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 328,
+      "stars": 329,
       "forks": 28,
       "openIssues": 68,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 202,
+      "stars": 203,
       "forks": 40,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -804,7 +804,7 @@
     "INSaFLU-TELEVIR": {
       "source": "github",
       "stars": 43,
-      "forks": 12,
+      "forks": 13,
       "openIssues": 6,
       "lastPush": "2026-08-28T12:12:46Z",
       "archived": false,
@@ -1213,7 +1213,7 @@
       "stars": 46,
       "forks": 6,
       "openIssues": 15,
-      "lastPush": "2026-04-16T10:41:07Z",
+      "lastPush": "2026-08-31T05:25:54Z",
       "archived": false,
       "description": "The viral taxonomic assignment pipeline",
       "license": "GPL-3.0",
@@ -1279,7 +1279,7 @@
       "stars": 32,
       "forks": 4,
       "openIssues": 2,
-      "lastPush": "2026-08-29T13:32:26Z",
+      "lastPush": "2026-08-31T08:48:43Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
