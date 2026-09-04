@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-03T10:53:46.185Z",
+  "lastScraped": "2026-09-04T10:53:18.228Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 957,
+      "stars": 958,
       "forks": 164,
       "openIssues": 304,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 957,
+      "stars": 958,
       "forks": 164,
       "openIssues": 304,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 153,
       "forks": 21,
-      "openIssues": 18,
-      "lastPush": "2026-09-03T10:46:46Z",
+      "openIssues": 19,
+      "lastPush": "2026-09-03T11:21:01Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -817,7 +817,7 @@
       "stars": 38,
       "forks": 1,
       "openIssues": 3,
-      "lastPush": "2026-08-25T15:42:32Z",
+      "lastPush": "2026-09-04T10:50:48Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -935,7 +935,7 @@
     },
     "PlasClass": {
       "source": "github",
-      "stars": 33,
+      "stars": 34,
       "forks": 7,
       "openIssues": 5,
       "lastPush": "2024-06-17T23:05:05Z",
@@ -948,8 +948,8 @@
       "source": "github",
       "stars": 89,
       "forks": 12,
-      "openIssues": 9,
-      "lastPush": "2026-08-24T03:39:05Z",
+      "openIssues": 8,
+      "lastPush": "2026-09-04T01:15:06Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
       "license": "MIT",
@@ -957,7 +957,7 @@
     },
     "ViralVerify": {
       "source": "github",
-      "stars": 76,
+      "stars": 77,
       "forks": 13,
       "openIssues": 5,
       "lastPush": "2026-02-19T06:54:50Z",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-09-02T12:23:25Z",
+      "lastPush": "2026-09-03T15:05:00Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
