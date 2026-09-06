@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-05T10:12:03.835Z",
+  "lastScraped": "2026-09-06T10:33:05.059Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -120,7 +120,7 @@
     },
     "DEPhT": {
       "source": "github",
-      "stars": 22,
+      "stars": 23,
       "forks": 4,
       "openIssues": 7,
       "lastPush": "2024-12-16T14:46:02Z",
