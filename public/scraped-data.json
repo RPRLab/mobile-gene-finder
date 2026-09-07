@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-06T10:33:05.059Z",
+  "lastScraped": "2026-09-07T11:56:50.130Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 958,
+      "stars": 959,
       "forks": 164,
       "openIssues": 304,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -134,7 +134,7 @@
       "stars": 339,
       "forks": 64,
       "openIssues": 130,
-      "lastPush": "2026-08-16T21:12:09Z",
+      "lastPush": "2026-09-07T00:51:21Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 958,
+      "stars": 959,
       "forks": 164,
       "openIssues": 304,
       "lastPush": "2026-06-16T10:47:36Z",
@@ -905,7 +905,7 @@
       "stars": 86,
       "forks": 7,
       "openIssues": 7,
-      "lastPush": "2026-08-24T01:14:58Z",
+      "lastPush": "2026-09-07T11:41:31Z",
       "archived": false,
       "description": "🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes",
       "license": "MIT",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-09-03T15:05:00Z",
+      "lastPush": "2026-09-07T11:19:08Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
