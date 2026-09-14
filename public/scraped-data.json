@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-13T11:19:56.642Z",
+  "lastScraped": "2026-09-14T12:11:49.700Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -110,7 +110,7 @@
     "DeepVirFinder": {
       "source": "github",
       "stars": 154,
-      "forks": 30,
+      "forks": 31,
       "openIssues": 39,
       "lastPush": "2026-05-05T02:02:59Z",
       "archived": false,
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 331,
+      "stars": 333,
       "forks": 28,
       "openIssues": 68,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -209,7 +209,7 @@
     "HostPhinder": {
       "source": "github",
       "stars": 9,
-      "forks": 5,
+      "forks": 4,
       "openIssues": 1,
       "lastPush": "2020-09-02T08:15:42Z",
       "archived": false,
@@ -435,7 +435,7 @@
     "PHIST": {
       "source": "github",
       "stars": 33,
-      "forks": 3,
+      "forks": 2,
       "openIssues": 6,
       "lastPush": "2026-09-10T13:05:42Z",
       "archived": false,
@@ -489,7 +489,7 @@
     },
     "Platon": {
       "source": "github",
-      "stars": 129,
+      "stars": 130,
       "forks": 16,
       "openIssues": 6,
       "lastPush": "2026-08-06T12:29:37Z",
@@ -545,7 +545,7 @@
     "ViraLM": {
       "source": "github",
       "stars": 29,
-      "forks": 3,
+      "forks": 4,
       "openIssues": 3,
       "lastPush": "2025-05-26T16:22:42Z",
       "archived": false,
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 173,
+      "stars": 174,
       "forks": 16,
       "openIssues": 11,
       "lastPush": "2026-08-30T00:53:39Z",
@@ -869,9 +869,9 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 185,
+      "stars": 186,
       "forks": 25,
-      "openIssues": 4,
+      "openIssues": 1,
       "lastPush": "2026-09-01T11:07:11Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
@@ -1156,7 +1156,7 @@
     "Virhunter": {
       "source": "github",
       "stars": 10,
-      "forks": 2,
+      "forks": 3,
       "openIssues": 1,
       "lastPush": "2025-03-19T14:01:15Z",
       "archived": false,
@@ -1244,7 +1244,7 @@
     "WIsH": {
       "source": "github",
       "stars": 57,
-      "forks": 10,
+      "forks": 9,
       "openIssues": 3,
       "lastPush": "2024-09-17T13:13:20Z",
       "archived": false,
