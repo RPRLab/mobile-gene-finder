@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-14T12:11:49.700Z",
+  "lastScraped": "2026-09-15T11:21:46.708Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 298,
+      "stars": 299,
       "forks": 35,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 118,
+      "stars": 119,
       "forks": 8,
       "openIssues": 30,
       "lastPush": "2026-05-13T07:10:20Z",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 118,
+      "stars": 119,
       "forks": 8,
       "openIssues": 30,
       "lastPush": "2026-05-13T07:10:20Z",
