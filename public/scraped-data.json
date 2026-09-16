@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-15T11:21:46.708Z",
+  "lastScraped": "2026-09-16T11:05:50.270Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 959,
+      "stars": 960,
       "forks": 164,
       "openIssues": 305,
       "lastPush": "2026-09-09T20:43:12Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 959,
+      "stars": 960,
       "forks": 164,
       "openIssues": 305,
       "lastPush": "2026-09-09T20:43:12Z",
@@ -404,7 +404,7 @@
       "stars": 229,
       "forks": 29,
       "openIssues": 10,
-      "lastPush": "2026-08-16T14:05:56Z",
+      "lastPush": "2026-09-16T08:29:17Z",
       "archived": false,
       "description": "Pharokka is a rapid standardised annotation tool for bacteriophage genomes and metagenomes.",
       "license": "MIT",
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 203,
+      "stars": 204,
       "forks": 40,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 119,
+      "stars": 120,
       "forks": 8,
       "openIssues": 30,
       "lastPush": "2026-05-13T07:10:20Z",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 119,
+      "stars": 120,
       "forks": 8,
       "openIssues": 30,
       "lastPush": "2026-05-13T07:10:20Z",
