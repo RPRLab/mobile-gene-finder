@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-17T11:15:16.970Z",
+  "lastScraped": "2026-09-18T10:48:17.063Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 960,
+      "stars": 959,
       "forks": 166,
       "openIssues": 305,
       "lastPush": "2026-09-09T20:43:12Z",
@@ -230,7 +230,7 @@
     },
     "IntegronFinder": {
       "source": "github",
-      "stars": 94,
+      "stars": 95,
       "forks": 27,
       "openIssues": 7,
       "lastPush": "2025-05-07T14:34:58Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 960,
+      "stars": 959,
       "forks": 166,
       "openIssues": 305,
       "lastPush": "2026-09-09T20:43:12Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 230,
+      "stars": 231,
       "forks": 29,
       "openIssues": 11,
       "lastPush": "2026-09-17T01:26:54Z",
@@ -665,7 +665,7 @@
     },
     "mobileOG-db": {
       "source": "github",
-      "stars": 50,
+      "stars": 51,
       "forks": 7,
       "openIssues": 3,
       "lastPush": "2026-07-30T15:07:23Z",
@@ -722,7 +722,7 @@
       "source": "github",
       "stars": 153,
       "forks": 21,
-      "openIssues": 19,
+      "openIssues": 20,
       "lastPush": "2026-09-08T20:58:36Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
