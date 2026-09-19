@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-18T10:48:17.063Z",
+  "lastScraped": "2026-09-19T10:32:18.174Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 959,
+      "stars": 960,
       "forks": 166,
       "openIssues": 305,
       "lastPush": "2026-09-09T20:43:12Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 959,
+      "stars": 960,
       "forks": 166,
       "openIssues": 305,
       "lastPush": "2026-09-09T20:43:12Z",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 299,
+      "stars": 300,
       "forks": 35,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -742,7 +742,7 @@
     },
     "ViralMSA": {
       "source": "github",
-      "stars": 73,
+      "stars": 72,
       "forks": 11,
       "openIssues": 1,
       "lastPush": "2026-05-30T17:12:22Z",
