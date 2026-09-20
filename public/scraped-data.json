@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-19T10:32:18.174Z",
+  "lastScraped": "2026-09-20T10:54:45.635Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -588,8 +588,8 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 300,
-      "forks": 35,
+      "stars": 301,
+      "forks": 36,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
       "archived": false,
