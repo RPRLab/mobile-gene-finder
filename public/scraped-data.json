@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-20T10:54:45.635Z",
+  "lastScraped": "2026-09-21T12:20:09.109Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -569,7 +569,7 @@
       "stars": 41,
       "forks": 14,
       "openIssues": 21,
-      "lastPush": "2026-04-09T12:50:17Z",
+      "lastPush": "2026-09-20T16:59:26Z",
       "archived": false,
       "description": "A containerized bioinformatics pipeline for viral metagenomic data analysis",
       "license": "MIT",
@@ -1210,7 +1210,7 @@
     },
     "VITAP": {
       "source": "github",
-      "stars": 46,
+      "stars": 47,
       "forks": 6,
       "openIssues": 15,
       "lastPush": "2026-08-31T05:25:54Z",
