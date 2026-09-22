@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-21T12:20:09.109Z",
+  "lastScraped": "2026-09-22T11:11:53.404Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -98,7 +98,7 @@
     },
     "DeepHost": {
       "source": "github",
-      "stars": 23,
+      "stars": 24,
       "forks": 0,
       "openIssues": 0,
       "lastPush": "2024-12-12T07:20:08Z",
@@ -567,7 +567,7 @@
     "ViroProfiler": {
       "source": "github",
       "stars": 41,
-      "forks": 14,
+      "forks": 13,
       "openIssues": 21,
       "lastPush": "2026-09-20T16:59:26Z",
       "archived": false,
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 422,
+      "stars": 423,
       "forks": 96,
       "openIssues": 1,
       "lastPush": "2026-09-10T13:01:54Z",
