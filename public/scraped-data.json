@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-22T11:11:53.404Z",
+  "lastScraped": "2026-09-23T11:03:01.122Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,8 +54,8 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 960,
-      "forks": 166,
+      "stars": 961,
+      "forks": 165,
       "openIssues": 305,
       "lastPush": "2026-09-09T20:43:12Z",
       "archived": false,
@@ -134,7 +134,7 @@
       "stars": 342,
       "forks": 64,
       "openIssues": 130,
-      "lastPush": "2026-09-16T20:07:41Z",
+      "lastPush": "2026-09-23T00:01:03Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -291,8 +291,8 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 960,
-      "forks": 166,
+      "stars": 961,
+      "forks": 165,
       "openIssues": 305,
       "lastPush": "2026-09-09T20:43:12Z",
       "archived": false,
@@ -613,7 +613,7 @@
       "stars": 107,
       "forks": 15,
       "openIssues": 22,
-      "lastPush": "2026-08-11T08:12:33Z",
+      "lastPush": "2026-09-22T13:04:01Z",
       "archived": false,
       "description": "WtP: Phage identification via nextflow and docker or singularity",
       "license": "GPL-3.0",
@@ -935,7 +935,7 @@
     },
     "PlasClass": {
       "source": "github",
-      "stars": 34,
+      "stars": 35,
       "forks": 7,
       "openIssues": 5,
       "lastPush": "2024-06-17T23:05:05Z",
@@ -946,7 +946,7 @@
     },
     "Plassembler": {
       "source": "github",
-      "stars": 90,
+      "stars": 91,
       "forks": 12,
       "openIssues": 8,
       "lastPush": "2026-09-09T00:02:59Z",
@@ -957,7 +957,7 @@
     },
     "ViralVerify": {
       "source": "github",
-      "stars": 77,
+      "stars": 78,
       "forks": 13,
       "openIssues": 5,
       "lastPush": "2026-02-19T06:54:50Z",
@@ -1013,7 +1013,7 @@
     "CZ ID": {
       "source": "github",
       "stars": 53,
-      "forks": 13,
+      "forks": 14,
       "openIssues": 20,
       "lastPush": "2026-04-23T00:47:40Z",
       "archived": false,
@@ -1078,7 +1078,7 @@
     },
     "ProkBERT PhaStyle": {
       "source": "github",
-      "stars": 23,
+      "stars": 24,
       "forks": 8,
       "openIssues": 1,
       "lastPush": "2026-04-29T11:17:49Z",
