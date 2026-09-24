@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-23T11:03:01.122Z",
+  "lastScraped": "2026-09-24T11:21:19.074Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -26,7 +26,7 @@
     },
     "Cenote-Taker2": {
       "source": "github",
-      "stars": 56,
+      "stars": 57,
       "forks": 7,
       "openIssues": 9,
       "lastPush": "2024-01-19T19:04:04Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 423,
+      "stars": 424,
       "forks": 96,
       "openIssues": 1,
       "lastPush": "2026-09-10T13:01:54Z",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-09-12T10:30:28Z",
+      "lastPush": "2026-09-24T10:56:51Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
