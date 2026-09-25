@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-24T11:21:19.074Z",
+  "lastScraped": "2026-09-25T11:26:42.706Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -456,9 +456,9 @@
     },
     "PlaScope": {
       "source": "github",
-      "stars": 27,
+      "stars": 28,
       "forks": 4,
-      "openIssues": 4,
+      "openIssues": 5,
       "lastPush": "2022-03-02T16:54:00Z",
       "archived": false,
       "description": ":microscope: :o: Plasmid exploration of bacterial genomes",
@@ -744,7 +744,7 @@
       "source": "github",
       "stars": 72,
       "forks": 11,
-      "openIssues": 1,
+      "openIssues": 2,
       "lastPush": "2026-05-30T17:12:22Z",
       "archived": false,
       "description": "Reference-guided multiple sequence alignment of viral genomes",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-09-24T10:56:51Z",
+      "lastPush": "2026-09-25T08:18:51Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
