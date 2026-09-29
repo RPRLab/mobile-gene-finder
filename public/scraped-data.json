@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-28T13:16:36.650Z",
+  "lastScraped": "2026-09-29T12:23:47.502Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -57,7 +57,7 @@
       "stars": 961,
       "forks": 165,
       "openIssues": 305,
-      "lastPush": "2026-09-09T20:43:12Z",
+      "lastPush": "2026-09-29T05:03:32Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 334,
+      "stars": 335,
       "forks": 28,
       "openIssues": 69,
       "lastPush": "2026-03-29T03:27:06Z",
@@ -294,7 +294,7 @@
       "stars": 961,
       "forks": 165,
       "openIssues": 305,
-      "lastPush": "2026-09-09T20:43:12Z",
+      "lastPush": "2026-09-29T05:03:32Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
       "license": "NOASSERTION",
@@ -613,7 +613,7 @@
       "stars": 107,
       "forks": 15,
       "openIssues": 22,
-      "lastPush": "2026-09-28T08:51:53Z",
+      "lastPush": "2026-09-29T10:31:38Z",
       "archived": false,
       "description": "WtP: Phage identification via nextflow and docker or singularity",
       "license": "GPL-3.0",
@@ -676,7 +676,7 @@
     },
     "MOB-suite": {
       "source": "github",
-      "stars": 184,
+      "stars": 186,
       "forks": 33,
       "openIssues": 30,
       "lastPush": "2025-04-16T21:11:00Z",
@@ -957,7 +957,7 @@
     },
     "ViralVerify": {
       "source": "github",
-      "stars": 78,
+      "stars": 79,
       "forks": 13,
       "openIssues": 5,
       "lastPush": "2026-02-19T06:54:50Z",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-09-26T16:13:12Z",
+      "lastPush": "2026-09-28T13:32:22Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
