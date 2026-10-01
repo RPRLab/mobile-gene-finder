@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-09-30T12:09:11.155Z",
+  "lastScraped": "2026-10-01T12:42:49.618Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 961,
+      "stars": 959,
       "forks": 165,
       "openIssues": 304,
       "lastPush": "2026-09-29T15:50:40Z",
@@ -131,7 +131,7 @@
     },
     "DRAMv": {
       "source": "github",
-      "stars": 343,
+      "stars": 342,
       "forks": 64,
       "openIssues": 130,
       "lastPush": "2026-09-23T00:01:03Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 961,
+      "stars": 959,
       "forks": 165,
       "openIssues": 304,
       "lastPush": "2026-09-29T15:50:40Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 232,
+      "stars": 231,
       "forks": 29,
       "openIssues": 11,
       "lastPush": "2026-09-17T01:26:54Z",
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 204,
+      "stars": 205,
       "forks": 40,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 300,
+      "stars": 299,
       "forks": 36,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -613,7 +613,7 @@
       "stars": 107,
       "forks": 15,
       "openIssues": 22,
-      "lastPush": "2026-09-30T10:54:11Z",
+      "lastPush": "2026-09-30T13:23:14Z",
       "archived": false,
       "description": "WtP: Phage identification via nextflow and docker or singularity",
       "license": "GPL-3.0",
@@ -806,7 +806,7 @@
       "stars": 44,
       "forks": 13,
       "openIssues": 7,
-      "lastPush": "2026-08-28T12:12:46Z",
+      "lastPush": "2026-10-01T08:55:48Z",
       "archived": false,
       "description": "INSaFLU-TELEVIR: an free web-based (but also locally installable) bioinformatics suite for virus metagenomic detection and routine genomic surveillance",
       "license": "GPL-3.0",
@@ -817,7 +817,7 @@
       "stars": 38,
       "forks": 1,
       "openIssues": 3,
-      "lastPush": "2026-09-04T11:31:22Z",
+      "lastPush": "2026-09-30T12:45:40Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -990,7 +990,7 @@
     },
     "V-pipe": {
       "source": "github",
-      "stars": 148,
+      "stars": 147,
       "forks": 46,
       "openIssues": 41,
       "lastPush": "2026-08-02T15:13:22Z",
@@ -1080,8 +1080,8 @@
       "source": "github",
       "stars": 24,
       "forks": 8,
-      "openIssues": 2,
-      "lastPush": "2026-09-30T10:28:35Z",
+      "openIssues": 3,
+      "lastPush": "2026-09-30T13:10:54Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 424,
+      "stars": 423,
       "forks": 96,
       "openIssues": 1,
       "lastPush": "2026-09-10T13:01:54Z",
