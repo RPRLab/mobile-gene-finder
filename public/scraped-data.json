@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-07T12:54:30.688Z",
+  "lastScraped": "2026-10-08T13:03:00.015Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -133,7 +133,7 @@
       "source": "github",
       "stars": 342,
       "forks": 64,
-      "openIssues": 130,
+      "openIssues": 132,
       "lastPush": "2026-10-03T06:12:19Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 233,
+      "stars": 234,
       "forks": 29,
       "openIssues": 11,
       "lastPush": "2026-09-17T01:26:54Z",
@@ -677,8 +677,8 @@
     "MOB-suite": {
       "source": "github",
       "stars": 187,
-      "forks": 33,
-      "openIssues": 30,
+      "forks": 34,
+      "openIssues": 32,
       "lastPush": "2025-04-16T21:11:00Z",
       "archived": false,
       "description": "MOB-suite: Software tools for clustering, reconstruction and typing of plasmids from draft assemblies",
@@ -698,7 +698,7 @@
     },
     "VEBA": {
       "source": "github",
-      "stars": 106,
+      "stars": 107,
       "forks": 12,
       "openIssues": 21,
       "lastPush": "2026-07-14T01:43:36Z",
@@ -806,7 +806,7 @@
       "stars": 44,
       "forks": 13,
       "openIssues": 7,
-      "lastPush": "2026-10-01T08:55:48Z",
+      "lastPush": "2026-10-07T16:30:13Z",
       "archived": false,
       "description": "INSaFLU-TELEVIR: an free web-based (but also locally installable) bioinformatics suite for virus metagenomic detection and routine genomic surveillance",
       "license": "GPL-3.0",
@@ -816,7 +816,7 @@
       "source": "github",
       "stars": 38,
       "forks": 1,
-      "openIssues": 3,
+      "openIssues": 4,
       "lastPush": "2026-09-30T12:45:40Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
@@ -1080,8 +1080,8 @@
       "source": "github",
       "stars": 24,
       "forks": 8,
-      "openIssues": 2,
-      "lastPush": "2026-10-07T12:03:49Z",
+      "openIssues": 3,
+      "lastPush": "2026-10-08T11:43:39Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 424,
+      "stars": 425,
       "forks": 96,
       "openIssues": 1,
       "lastPush": "2026-09-10T13:01:54Z",
