@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-08T13:03:00.015Z",
+  "lastScraped": "2026-10-09T12:49:28.451Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -134,7 +134,7 @@
       "stars": 342,
       "forks": 64,
       "openIssues": 132,
-      "lastPush": "2026-10-03T06:12:19Z",
+      "lastPush": "2026-10-08T23:22:07Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -610,7 +610,7 @@
     },
     "What the Phage": {
       "source": "github",
-      "stars": 107,
+      "stars": 108,
       "forks": 15,
       "openIssues": 9,
       "lastPush": "2026-10-06T11:40:18Z",
