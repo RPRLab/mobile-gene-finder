@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-13T13:49:20.478Z",
+  "lastScraped": "2026-10-14T11:26:37.639Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -133,8 +133,8 @@
       "source": "github",
       "stars": 342,
       "forks": 64,
-      "openIssues": 132,
-      "lastPush": "2026-10-08T23:22:07Z",
+      "openIssues": 133,
+      "lastPush": "2026-10-13T23:31:26Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -166,8 +166,8 @@
       "source": "github",
       "stars": 337,
       "forks": 28,
-      "openIssues": 70,
-      "lastPush": "2026-03-29T03:27:06Z",
+      "openIssues": 69,
+      "lastPush": "2026-10-14T04:18:01Z",
       "archived": false,
       "description": "geNomad: Identification of mobile genetic elements",
       "license": "NOASSERTION",
@@ -676,7 +676,7 @@
     },
     "MOB-suite": {
       "source": "github",
-      "stars": 187,
+      "stars": 188,
       "forks": 34,
       "openIssues": 32,
       "lastPush": "2025-04-16T21:11:00Z",
@@ -817,7 +817,7 @@
       "stars": 38,
       "forks": 1,
       "openIssues": 4,
-      "lastPush": "2026-09-30T12:45:40Z",
+      "lastPush": "2026-10-14T10:47:56Z",
       "archived": false,
       "description": "Jaeger is a quick and precise tool for detecting phages in sequence assemblies.",
       "license": "MIT",
@@ -1276,7 +1276,7 @@
     },
     "PlasMAAG": {
       "source": "github",
-      "stars": 32,
+      "stars": 33,
       "forks": 5,
       "openIssues": 1,
       "lastPush": "2026-09-01T17:37:38Z",
@@ -1288,7 +1288,7 @@
     "COPLA": {
       "source": "github",
       "stars": 31,
-      "forks": 9,
+      "forks": 10,
       "openIssues": 18,
       "lastPush": "2021-07-07T12:19:34Z",
       "archived": false,
