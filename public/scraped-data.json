@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-15T11:03:11.064Z",
+  "lastScraped": "2026-10-16T10:59:10.686Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 234,
+      "stars": 235,
       "forks": 29,
       "openIssues": 11,
       "lastPush": "2026-09-17T01:26:54Z",
@@ -1014,7 +1014,7 @@
       "source": "github",
       "stars": 53,
       "forks": 14,
-      "openIssues": 20,
+      "openIssues": 19,
       "lastPush": "2026-04-23T00:47:40Z",
       "archived": false,
       "description": "Portable WDL workflows for CZ ID production pipelines",
@@ -1080,8 +1080,8 @@
       "source": "github",
       "stars": 24,
       "forks": 8,
-      "openIssues": 2,
-      "lastPush": "2026-10-15T10:48:30Z",
+      "openIssues": 1,
+      "lastPush": "2026-10-15T11:51:04Z",
       "archived": false,
       "description": null,
       "license": "MIT",
