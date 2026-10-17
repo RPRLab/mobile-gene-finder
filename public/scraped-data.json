@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-16T10:59:10.686Z",
+  "lastScraped": "2026-10-17T10:20:22.934Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -55,7 +55,7 @@
     "coronaSPAdes": {
       "source": "github",
       "stars": 966,
-      "forks": 166,
+      "forks": 165,
       "openIssues": 303,
       "lastPush": "2026-10-05T06:24:51Z",
       "archived": false,
@@ -166,7 +166,7 @@
       "source": "github",
       "stars": 337,
       "forks": 28,
-      "openIssues": 69,
+      "openIssues": 70,
       "lastPush": "2026-10-14T04:18:01Z",
       "archived": false,
       "description": "geNomad: Identification of mobile genetic elements",
@@ -292,7 +292,7 @@
     "metaviralSPAdes": {
       "source": "github",
       "stars": 966,
-      "forks": 166,
+      "forks": 165,
       "openIssues": 303,
       "lastPush": "2026-10-05T06:24:51Z",
       "archived": false,
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 93,
+      "stars": 94,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -401,9 +401,9 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 235,
+      "stars": 236,
       "forks": 29,
-      "openIssues": 11,
+      "openIssues": 12,
       "lastPush": "2026-09-17T01:26:54Z",
       "archived": false,
       "description": "Pharokka is a rapid standardised annotation tool for bacteriophage genomes and metagenomes.",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 175,
+      "stars": 176,
       "forks": 16,
       "openIssues": 14,
       "lastPush": "2026-10-13T01:09:00Z",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 187,
+      "stars": 188,
       "forks": 25,
       "openIssues": 1,
       "lastPush": "2026-09-01T11:07:11Z",
@@ -1081,7 +1081,7 @@
       "stars": 24,
       "forks": 8,
       "openIssues": 1,
-      "lastPush": "2026-10-15T11:51:04Z",
+      "lastPush": "2026-10-16T15:42:58Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-10-15T08:44:20Z",
+      "lastPush": "2026-10-16T13:15:29Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
