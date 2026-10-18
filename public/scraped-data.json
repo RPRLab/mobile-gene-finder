@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-17T10:20:22.934Z",
+  "lastScraped": "2026-10-18T10:36:34.597Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 966,
+      "stars": 967,
       "forks": 165,
       "openIssues": 303,
       "lastPush": "2026-10-05T06:24:51Z",
@@ -166,7 +166,7 @@
       "source": "github",
       "stars": 337,
       "forks": 28,
-      "openIssues": 70,
+      "openIssues": 71,
       "lastPush": "2026-10-14T04:18:01Z",
       "archived": false,
       "description": "geNomad: Identification of mobile genetic elements",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 966,
+      "stars": 967,
       "forks": 165,
       "openIssues": 303,
       "lastPush": "2026-10-05T06:24:51Z",
@@ -423,7 +423,7 @@
     },
     "PhiSpy": {
       "source": "github",
-      "stars": 88,
+      "stars": 87,
       "forks": 23,
       "openIssues": 0,
       "lastPush": "2026-05-01T01:51:58Z",
@@ -467,7 +467,7 @@
     },
     "PlasFlow": {
       "source": "github",
-      "stars": 111,
+      "stars": 110,
       "forks": 27,
       "openIssues": 17,
       "lastPush": "2021-06-28T17:00:50Z",
@@ -500,7 +500,7 @@
     },
     "PPR-Meta": {
       "source": "github",
-      "stars": 44,
+      "stars": 43,
       "forks": 10,
       "openIssues": 18,
       "lastPush": "2021-04-13T12:02:35Z",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 120,
+      "stars": 119,
       "forks": 8,
       "openIssues": 30,
       "lastPush": "2026-10-13T11:52:55Z",
@@ -968,7 +968,7 @@
     },
     "PhaMer": {
       "source": "github",
-      "stars": 22,
+      "stars": 21,
       "forks": 2,
       "openIssues": 2,
       "lastPush": "2024-11-06T10:17:29Z",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 120,
+      "stars": 119,
       "forks": 8,
       "openIssues": 30,
       "lastPush": "2026-10-13T11:52:55Z",
@@ -1331,7 +1331,7 @@
     },
     "PlasX": {
       "source": "github",
-      "stars": 43,
+      "stars": 42,
       "forks": 1,
       "openIssues": 10,
       "lastPush": "2022-02-09T05:40:26Z",
