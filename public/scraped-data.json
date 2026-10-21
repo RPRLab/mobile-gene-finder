@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-20T11:07:49.416Z",
+  "lastScraped": "2026-10-21T11:23:53.897Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -15,7 +15,7 @@
     },
     "BACPHLIP": {
       "source": "github",
-      "stars": 42,
+      "stars": 43,
       "forks": 8,
       "openIssues": 7,
       "lastPush": "2023-08-09T11:16:56Z",
@@ -401,10 +401,10 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 236,
+      "stars": 237,
       "forks": 29,
-      "openIssues": 12,
-      "lastPush": "2026-09-17T01:26:54Z",
+      "openIssues": 14,
+      "lastPush": "2026-10-21T10:49:25Z",
       "archived": false,
       "description": "Pharokka is a rapid standardised annotation tool for bacteriophage genomes and metagenomes.",
       "license": "MIT",
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 205,
+      "stars": 206,
       "forks": 40,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -1081,7 +1081,7 @@
       "stars": 24,
       "forks": 8,
       "openIssues": 1,
-      "lastPush": "2026-10-19T15:25:31Z",
+      "lastPush": "2026-10-20T12:59:45Z",
       "archived": false,
       "description": null,
       "license": "MIT",
