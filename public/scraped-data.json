@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-23T11:13:58.440Z",
+  "lastScraped": "2026-10-24T10:32:57.723Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -676,7 +676,7 @@
     },
     "MOB-suite": {
       "source": "github",
-      "stars": 188,
+      "stars": 189,
       "forks": 34,
       "openIssues": 32,
       "lastPush": "2025-04-16T21:11:00Z",
@@ -991,7 +991,7 @@
     "V-pipe": {
       "source": "github",
       "stars": 147,
-      "forks": 46,
+      "forks": 47,
       "openIssues": 41,
       "lastPush": "2026-08-02T15:13:22Z",
       "archived": false,
