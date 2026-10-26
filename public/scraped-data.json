@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-25T10:58:32.596Z",
+  "lastScraped": "2026-10-26T12:30:05.454Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -15,7 +15,7 @@
     },
     "BACPHLIP": {
       "source": "github",
-      "stars": 43,
+      "stars": 44,
       "forks": 8,
       "openIssues": 7,
       "lastPush": "2023-08-09T11:16:56Z",
@@ -109,7 +109,7 @@
     },
     "DeepVirFinder": {
       "source": "github",
-      "stars": 154,
+      "stars": 155,
       "forks": 31,
       "openIssues": 39,
       "lastPush": "2026-05-05T02:02:59Z",
@@ -120,7 +120,7 @@
     },
     "DEPhT": {
       "source": "github",
-      "stars": 23,
+      "stars": 24,
       "forks": 4,
       "openIssues": 7,
       "lastPush": "2024-12-16T14:46:02Z",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 337,
+      "stars": 338,
       "forks": 28,
       "openIssues": 71,
       "lastPush": "2026-10-14T04:18:01Z",
@@ -467,7 +467,7 @@
     },
     "PlasFlow": {
       "source": "github",
-      "stars": 110,
+      "stars": 111,
       "forks": 27,
       "openIssues": 17,
       "lastPush": "2021-06-28T17:00:50Z",
@@ -490,7 +490,7 @@
     "Platon": {
       "source": "github",
       "stars": 130,
-      "forks": 16,
+      "forks": 17,
       "openIssues": 4,
       "lastPush": "2026-10-22T09:08:33Z",
       "archived": false,
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 208,
+      "stars": 209,
       "forks": 40,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 300,
+      "stars": 301,
       "forks": 36,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -665,7 +665,7 @@
     },
     "mobileOG-db": {
       "source": "github",
-      "stars": 51,
+      "stars": 52,
       "forks": 7,
       "openIssues": 3,
       "lastPush": "2026-07-30T15:07:23Z",
@@ -744,8 +744,8 @@
       "source": "github",
       "stars": 72,
       "forks": 11,
-      "openIssues": 2,
-      "lastPush": "2026-10-03T02:36:45Z",
+      "openIssues": 3,
+      "lastPush": "2026-10-26T02:36:50Z",
       "archived": false,
       "description": "Reference-guided multiple sequence alignment of viral genomes",
       "license": "GPL-3.0",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 119,
+      "stars": 120,
       "forks": 8,
       "openIssues": 30,
       "lastPush": "2026-10-13T11:52:55Z",
@@ -836,7 +836,7 @@
     },
     "PIDE": {
       "source": "github",
-      "stars": 24,
+      "stars": 25,
       "forks": 2,
       "openIssues": 5,
       "lastPush": "2025-09-26T08:08:23Z",
@@ -949,7 +949,7 @@
       "stars": 91,
       "forks": 11,
       "openIssues": 8,
-      "lastPush": "2026-10-22T22:39:51Z",
+      "lastPush": "2026-10-26T05:41:07Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
       "license": "MIT",
@@ -979,7 +979,7 @@
     },
     "PhaTYP": {
       "source": "github",
-      "stars": 19,
+      "stars": 20,
       "forks": 6,
       "openIssues": 3,
       "lastPush": "2024-11-06T10:18:00Z",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 119,
+      "stars": 120,
       "forks": 8,
       "openIssues": 30,
       "lastPush": "2026-10-13T11:52:55Z",
@@ -1298,7 +1298,7 @@
     },
     "PLASMe": {
       "source": "github",
-      "stars": 38,
+      "stars": 39,
       "forks": 6,
       "openIssues": 18,
       "lastPush": "2024-04-15T08:21:01Z",
