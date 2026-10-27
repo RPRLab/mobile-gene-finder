@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-26T12:30:05.454Z",
+  "lastScraped": "2026-10-27T11:48:25.391Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -133,8 +133,8 @@
       "source": "github",
       "stars": 343,
       "forks": 64,
-      "openIssues": 133,
-      "lastPush": "2026-10-21T19:27:45Z",
+      "openIssues": 132,
+      "lastPush": "2026-10-27T07:54:33Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 338,
+      "stars": 340,
       "forks": 28,
       "openIssues": 71,
       "lastPush": "2026-10-14T04:18:01Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 237,
+      "stars": 238,
       "forks": 29,
       "openIssues": 14,
       "lastPush": "2026-10-21T10:49:25Z",
@@ -742,10 +742,10 @@
     },
     "ViralMSA": {
       "source": "github",
-      "stars": 72,
+      "stars": 73,
       "forks": 11,
-      "openIssues": 3,
-      "lastPush": "2026-10-26T02:36:50Z",
+      "openIssues": 2,
+      "lastPush": "2026-10-27T00:28:26Z",
       "archived": false,
       "description": "Reference-guided multiple sequence alignment of viral genomes",
       "license": "GPL-3.0",
@@ -946,10 +946,10 @@
     },
     "Plassembler": {
       "source": "github",
-      "stars": 91,
+      "stars": 92,
       "forks": 11,
       "openIssues": 8,
-      "lastPush": "2026-10-26T05:41:07Z",
+      "lastPush": "2026-10-27T06:35:47Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
       "license": "MIT",
@@ -1081,7 +1081,7 @@
       "stars": 24,
       "forks": 8,
       "openIssues": 1,
-      "lastPush": "2026-10-21T13:57:12Z",
+      "lastPush": "2026-10-27T09:58:01Z",
       "archived": false,
       "description": null,
       "license": "MIT",
