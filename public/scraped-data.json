@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-27T11:48:25.391Z",
+  "lastScraped": "2026-10-28T12:22:23.573Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -166,7 +166,7 @@
       "source": "github",
       "stars": 340,
       "forks": 28,
-      "openIssues": 71,
+      "openIssues": 70,
       "lastPush": "2026-10-14T04:18:01Z",
       "archived": false,
       "description": "geNomad: Identification of mobile genetic elements",
@@ -534,7 +534,7 @@
     "VIBRANT": {
       "source": "github",
       "stars": 209,
-      "forks": 40,
+      "forks": 41,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
       "archived": false,
@@ -600,7 +600,7 @@
     "vRhyme": {
       "source": "github",
       "stars": 78,
-      "forks": 14,
+      "forks": 15,
       "openIssues": 33,
       "lastPush": "2022-07-13T00:13:53Z",
       "archived": false,
@@ -745,7 +745,7 @@
       "stars": 73,
       "forks": 11,
       "openIssues": 2,
-      "lastPush": "2026-10-27T00:28:26Z",
+      "lastPush": "2026-10-27T13:29:59Z",
       "archived": false,
       "description": "Reference-guided multiple sequence alignment of viral genomes",
       "license": "GPL-3.0",
@@ -814,7 +814,7 @@
     },
     "Jaeger": {
       "source": "github",
-      "stars": 38,
+      "stars": 39,
       "forks": 1,
       "openIssues": 4,
       "lastPush": "2026-10-14T10:47:56Z",
@@ -858,7 +858,7 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 178,
+      "stars": 179,
       "forks": 16,
       "openIssues": 14,
       "lastPush": "2026-10-13T01:09:00Z",
@@ -1081,7 +1081,7 @@
       "stars": 24,
       "forks": 8,
       "openIssues": 1,
-      "lastPush": "2026-10-27T09:58:01Z",
+      "lastPush": "2026-10-27T13:25:46Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1279,7 +1279,7 @@
       "stars": 33,
       "forks": 5,
       "openIssues": 1,
-      "lastPush": "2026-09-01T17:37:38Z",
+      "lastPush": "2026-10-28T11:30:16Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
@@ -1287,7 +1287,7 @@
     },
     "COPLA": {
       "source": "github",
-      "stars": 31,
+      "stars": 32,
       "forks": 10,
       "openIssues": 18,
       "lastPush": "2021-07-07T12:19:34Z",
