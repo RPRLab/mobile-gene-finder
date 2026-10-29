@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-28T12:22:23.573Z",
+  "lastScraped": "2026-10-29T12:31:43.018Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -134,7 +134,7 @@
       "stars": 343,
       "forks": 64,
       "openIssues": 132,
-      "lastPush": "2026-10-27T07:54:33Z",
+      "lastPush": "2026-10-28T22:52:59Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -489,7 +489,7 @@
     },
     "Platon": {
       "source": "github",
-      "stars": 130,
+      "stars": 129,
       "forks": 17,
       "openIssues": 4,
       "lastPush": "2026-10-22T09:08:33Z",
@@ -621,7 +621,7 @@
     },
     "Cenote-Taker 3": {
       "source": "github",
-      "stars": 64,
+      "stars": 65,
       "forks": 3,
       "openIssues": 6,
       "lastPush": "2026-06-10T17:38:21Z",
@@ -825,7 +825,7 @@
     },
     "PhaBox": {
       "source": "github",
-      "stars": 120,
+      "stars": 122,
       "forks": 8,
       "openIssues": 30,
       "lastPush": "2026-10-13T11:52:55Z",
@@ -1081,7 +1081,7 @@
       "stars": 24,
       "forks": 8,
       "openIssues": 1,
-      "lastPush": "2026-10-27T13:25:46Z",
+      "lastPush": "2026-10-28T13:02:35Z",
       "archived": false,
       "description": null,
       "license": "MIT",
@@ -1133,7 +1133,7 @@
     },
     "PhaBOX2": {
       "source": "github",
-      "stars": 120,
+      "stars": 122,
       "forks": 8,
       "openIssues": 30,
       "lastPush": "2026-10-13T11:52:55Z",
@@ -1276,10 +1276,10 @@
     },
     "PlasMAAG": {
       "source": "github",
-      "stars": 33,
+      "stars": 34,
       "forks": 5,
       "openIssues": 1,
-      "lastPush": "2026-10-28T11:30:16Z",
+      "lastPush": "2026-10-29T10:27:44Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
