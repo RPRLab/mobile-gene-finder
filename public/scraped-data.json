@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-29T12:31:43.018Z",
+  "lastScraped": "2026-10-30T12:23:21.596Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -134,7 +134,7 @@
       "stars": 343,
       "forks": 64,
       "openIssues": 132,
-      "lastPush": "2026-10-28T22:52:59Z",
+      "lastPush": "2026-10-29T21:16:42Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -379,7 +379,7 @@
     },
     "PHANOTATE": {
       "source": "github",
-      "stars": 94,
+      "stars": 95,
       "forks": 13,
       "openIssues": 13,
       "lastPush": "2024-12-02T18:24:08Z",
@@ -401,7 +401,7 @@
     },
     "Pharokka": {
       "source": "github",
-      "stars": 238,
+      "stars": 239,
       "forks": 29,
       "openIssues": 14,
       "lastPush": "2026-10-21T10:49:25Z",
@@ -698,7 +698,7 @@
     },
     "VEBA": {
       "source": "github",
-      "stars": 107,
+      "stars": 108,
       "forks": 12,
       "openIssues": 21,
       "lastPush": "2026-10-19T20:39:50Z",
@@ -742,7 +742,7 @@
     },
     "ViralMSA": {
       "source": "github",
-      "stars": 73,
+      "stars": 75,
       "forks": 11,
       "openIssues": 2,
       "lastPush": "2026-10-27T13:29:59Z",
@@ -924,7 +924,7 @@
     },
     "Phynteny": {
       "source": "github",
-      "stars": 61,
+      "stars": 62,
       "forks": 4,
       "openIssues": 5,
       "lastPush": "2025-06-04T06:56:07Z",
@@ -1279,7 +1279,7 @@
       "stars": 34,
       "forks": 5,
       "openIssues": 1,
-      "lastPush": "2026-10-29T10:27:44Z",
+      "lastPush": "2026-10-30T10:37:47Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
@@ -1332,7 +1332,7 @@
     "PlasX": {
       "source": "github",
       "stars": 42,
-      "forks": 1,
+      "forks": 2,
       "openIssues": 10,
       "lastPush": "2022-02-09T05:40:26Z",
       "archived": false,
