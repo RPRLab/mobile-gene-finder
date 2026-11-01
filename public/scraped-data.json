@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-10-31T11:53:42.666Z",
+  "lastScraped": "2026-11-01T12:52:56.133Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 968,
+      "stars": 970,
       "forks": 166,
       "openIssues": 303,
       "lastPush": "2026-10-22T22:42:40Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 968,
+      "stars": 970,
       "forks": 166,
       "openIssues": 303,
       "lastPush": "2026-10-22T22:42:40Z",
