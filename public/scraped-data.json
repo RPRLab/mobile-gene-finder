@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-02T15:04:49.013Z",
+  "lastScraped": "2026-11-03T13:50:27.711Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -403,7 +403,7 @@
       "source": "github",
       "stars": 239,
       "forks": 29,
-      "openIssues": 14,
+      "openIssues": 15,
       "lastPush": "2026-10-21T10:49:25Z",
       "archived": false,
       "description": "Pharokka is a rapid standardised annotation tool for bacteriophage genomes and metagenomes.",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 302,
+      "stars": 303,
       "forks": 36,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -676,7 +676,7 @@
     },
     "MOB-suite": {
       "source": "github",
-      "stars": 189,
+      "stars": 190,
       "forks": 34,
       "openIssues": 32,
       "lastPush": "2025-04-16T21:11:00Z",
@@ -858,10 +858,10 @@
     },
     "Phold": {
       "source": "github",
-      "stars": 179,
+      "stars": 180,
       "forks": 16,
       "openIssues": 14,
-      "lastPush": "2026-10-13T01:09:00Z",
+      "lastPush": "2026-11-03T10:33:06Z",
       "archived": false,
       "description": "Phage Annotation using Protein Structures",
       "license": "MIT",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-10-30T14:11:54Z",
+      "lastPush": "2026-11-03T11:29:48Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
