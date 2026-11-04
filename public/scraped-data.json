@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-03T13:50:27.711Z",
+  "lastScraped": "2026-11-04T13:58:12.670Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 971,
+      "stars": 972,
       "forks": 167,
       "openIssues": 303,
       "lastPush": "2026-10-22T22:42:40Z",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 341,
+      "stars": 342,
       "forks": 28,
       "openIssues": 70,
       "lastPush": "2026-10-14T04:18:01Z",
@@ -188,7 +188,7 @@
       "source": "github",
       "stars": 61,
       "forks": 14,
-      "openIssues": 33,
+      "openIssues": 32,
       "lastPush": "2025-09-23T07:10:26Z",
       "archived": false,
       "description": "hecatomb is a virome analysis pipeline for analysis of Illumina sequence data",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 971,
+      "stars": 972,
       "forks": 167,
       "openIssues": 303,
       "lastPush": "2026-10-22T22:42:40Z",
@@ -489,7 +489,7 @@
     },
     "Platon": {
       "source": "github",
-      "stars": 129,
+      "stars": 130,
       "forks": 17,
       "openIssues": 4,
       "lastPush": "2026-10-22T09:08:33Z",
@@ -1125,7 +1125,7 @@
       "stars": 429,
       "forks": 96,
       "openIssues": 1,
-      "lastPush": "2026-10-13T08:01:32Z",
+      "lastPush": "2026-11-03T15:50:14Z",
       "archived": false,
       "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
       "license": "MIT",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-11-03T11:29:48Z",
+      "lastPush": "2026-11-04T11:29:33Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
