@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-04T13:58:12.670Z",
+  "lastScraped": "2026-11-05T14:17:47.811Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -55,8 +55,8 @@
     "coronaSPAdes": {
       "source": "github",
       "stars": 972,
-      "forks": 167,
-      "openIssues": 303,
+      "forks": 168,
+      "openIssues": 304,
       "lastPush": "2026-10-22T22:42:40Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -131,7 +131,7 @@
     },
     "DRAMv": {
       "source": "github",
-      "stars": 343,
+      "stars": 344,
       "forks": 64,
       "openIssues": 132,
       "lastPush": "2026-10-29T21:16:42Z",
@@ -230,7 +230,7 @@
     },
     "IntegronFinder": {
       "source": "github",
-      "stars": 95,
+      "stars": 96,
       "forks": 27,
       "openIssues": 7,
       "lastPush": "2025-05-07T14:34:58Z",
@@ -292,8 +292,8 @@
     "metaviralSPAdes": {
       "source": "github",
       "stars": 972,
-      "forks": 167,
-      "openIssues": 303,
+      "forks": 168,
+      "openIssues": 304,
       "lastPush": "2026-10-22T22:42:40Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-11-04T11:29:33Z",
+      "lastPush": "2026-11-05T13:31:45Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
