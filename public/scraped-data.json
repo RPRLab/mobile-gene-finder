@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-06T13:56:18.092Z",
+  "lastScraped": "2026-11-07T12:40:30.129Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -699,7 +699,7 @@
     "VEBA": {
       "source": "github",
       "stars": 108,
-      "forks": 12,
+      "forks": 13,
       "openIssues": 21,
       "lastPush": "2026-10-19T20:39:50Z",
       "archived": false,
@@ -991,9 +991,9 @@
     "V-pipe": {
       "source": "github",
       "stars": 147,
-      "forks": 47,
+      "forks": 46,
       "openIssues": 42,
-      "lastPush": "2026-08-02T15:13:22Z",
+      "lastPush": "2026-11-06T17:05:59Z",
       "archived": false,
       "description": "V-pipe is a pipeline designed for analysing NGS data of short viral genomes",
       "license": "Apache-2.0",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-11-06T13:51:16Z",
+      "lastPush": "2026-11-06T15:38:18Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
