@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-07T12:40:30.129Z",
+  "lastScraped": "2026-11-08T12:57:47.260Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -871,7 +871,7 @@
       "source": "github",
       "stars": 188,
       "forks": 25,
-      "openIssues": 1,
+      "openIssues": 0,
       "lastPush": "2026-09-01T11:07:11Z",
       "archived": false,
       "description": "Systematic search of all known anti-phage systems.",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 429,
+      "stars": 430,
       "forks": 96,
       "openIssues": 1,
       "lastPush": "2026-11-03T15:50:14Z",
