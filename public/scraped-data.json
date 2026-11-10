@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-09T15:36:02.606Z",
+  "lastScraped": "2026-11-10T14:32:20.392Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -134,7 +134,7 @@
       "stars": 344,
       "forks": 63,
       "openIssues": 132,
-      "lastPush": "2026-11-09T00:06:08Z",
+      "lastPush": "2026-11-09T21:56:26Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 303,
+      "stars": 304,
       "forks": 36,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -665,7 +665,7 @@
     },
     "mobileOG-db": {
       "source": "github",
-      "stars": 52,
+      "stars": 53,
       "forks": 7,
       "openIssues": 3,
       "lastPush": "2026-07-30T15:07:23Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 430,
+      "stars": 431,
       "forks": 96,
       "openIssues": 1,
       "lastPush": "2026-11-03T15:50:14Z",
