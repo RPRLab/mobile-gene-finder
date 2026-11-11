@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-10T14:32:20.392Z",
+  "lastScraped": "2026-11-11T13:47:28.595Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -56,7 +56,7 @@
       "source": "github",
       "stars": 972,
       "forks": 168,
-      "openIssues": 304,
+      "openIssues": 305,
       "lastPush": "2026-10-22T22:42:40Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 342,
+      "stars": 343,
       "forks": 28,
       "openIssues": 70,
       "lastPush": "2026-10-14T04:18:01Z",
@@ -293,7 +293,7 @@
       "source": "github",
       "stars": 972,
       "forks": 168,
-      "openIssues": 304,
+      "openIssues": 305,
       "lastPush": "2026-10-22T22:42:40Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -601,7 +601,7 @@
       "source": "github",
       "stars": 78,
       "forks": 15,
-      "openIssues": 33,
+      "openIssues": 34,
       "lastPush": "2022-07-13T00:13:53Z",
       "archived": false,
       "description": "Binning Virus Genomes from Metagenomes",
@@ -1125,7 +1125,7 @@
       "stars": 431,
       "forks": 96,
       "openIssues": 1,
-      "lastPush": "2026-11-03T15:50:14Z",
+      "lastPush": "2026-11-11T12:33:03Z",
       "archived": false,
       "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
       "license": "MIT",
