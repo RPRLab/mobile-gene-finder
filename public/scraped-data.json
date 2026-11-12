@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-11T13:47:28.595Z",
+  "lastScraped": "2026-11-12T14:50:53.504Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 343,
+      "stars": 344,
       "forks": 28,
       "openIssues": 70,
       "lastPush": "2026-10-14T04:18:01Z",
@@ -547,7 +547,7 @@
       "stars": 30,
       "forks": 4,
       "openIssues": 3,
-      "lastPush": "2025-05-26T16:22:42Z",
+      "lastPush": "2026-11-12T07:33:54Z",
       "archived": false,
       "description": "Virus Identification",
       "license": "GPL-3.0",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 431,
+      "stars": 432,
       "forks": 96,
       "openIssues": 1,
       "lastPush": "2026-11-11T12:33:03Z",
@@ -1146,8 +1146,8 @@
       "source": "github",
       "stars": 10,
       "forks": 2,
-      "openIssues": 2,
-      "lastPush": "2026-11-09T14:57:54Z",
+      "openIssues": 3,
+      "lastPush": "2026-11-12T13:07:40Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
