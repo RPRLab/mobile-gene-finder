@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-13T14:11:46.938Z",
+  "lastScraped": "2026-11-14T13:11:36.971Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -166,7 +166,7 @@
       "source": "github",
       "stars": 344,
       "forks": 28,
-      "openIssues": 70,
+      "openIssues": 71,
       "lastPush": "2026-10-14T04:18:01Z",
       "archived": false,
       "description": "geNomad: Identification of mobile genetic elements",
@@ -948,7 +948,7 @@
       "source": "github",
       "stars": 92,
       "forks": 11,
-      "openIssues": 8,
+      "openIssues": 9,
       "lastPush": "2026-10-27T06:35:47Z",
       "archived": false,
       "description": "Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates",
