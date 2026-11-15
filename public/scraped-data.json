@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-14T13:11:36.971Z",
+  "lastScraped": "2026-11-15T13:39:52.173Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 344,
+      "stars": 345,
       "forks": 28,
       "openIssues": 71,
       "lastPush": "2026-10-14T04:18:01Z",
