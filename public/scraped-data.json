@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-15T13:39:52.173Z",
+  "lastScraped": "2026-11-16T15:12:00.244Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -676,8 +676,8 @@
     },
     "MOB-suite": {
       "source": "github",
-      "stars": 191,
-      "forks": 34,
+      "stars": 192,
+      "forks": 35,
       "openIssues": 32,
       "lastPush": "2025-04-16T21:11:00Z",
       "archived": false,
@@ -1122,10 +1122,10 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 433,
-      "forks": 96,
+      "stars": 435,
+      "forks": 97,
       "openIssues": 1,
-      "lastPush": "2026-11-11T12:33:03Z",
+      "lastPush": "2026-11-16T12:13:03Z",
       "archived": false,
       "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
       "license": "MIT",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-11-13T10:03:51Z",
+      "lastPush": "2026-11-16T13:59:04Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
@@ -1279,7 +1279,7 @@
       "stars": 34,
       "forks": 5,
       "openIssues": 1,
-      "lastPush": "2026-11-02T10:04:24Z",
+      "lastPush": "2026-11-16T10:27:46Z",
       "archived": false,
       "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples",
       "license": "MIT",
