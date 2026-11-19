@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-17T15:41:09.353Z",
+  "lastScraped": "2026-11-19T15:26:57.242Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -54,7 +54,7 @@
     },
     "coronaSPAdes": {
       "source": "github",
-      "stars": 973,
+      "stars": 974,
       "forks": 168,
       "openIssues": 305,
       "lastPush": "2026-10-22T22:42:40Z",
@@ -109,8 +109,8 @@
     },
     "DeepVirFinder": {
       "source": "github",
-      "stars": 156,
-      "forks": 31,
+      "stars": 158,
+      "forks": 32,
       "openIssues": 39,
       "lastPush": "2026-05-05T02:02:59Z",
       "archived": false,
@@ -131,14 +131,14 @@
     },
     "DRAMv": {
       "source": "github",
-      "stars": 345,
+      "stars": 346,
       "forks": 64,
       "openIssues": 133,
-      "lastPush": "2026-11-17T02:05:52Z",
+      "lastPush": "2026-11-19T08:13:48Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
-      "language": "Nextflow"
+      "language": "Python"
     },
     "FAVITES": {
       "source": "github",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 345,
+      "stars": 347,
       "forks": 28,
       "openIssues": 71,
       "lastPush": "2026-10-14T04:18:01Z",
@@ -291,7 +291,7 @@
     },
     "metaviralSPAdes": {
       "source": "github",
-      "stars": 973,
+      "stars": 974,
       "forks": 168,
       "openIssues": 305,
       "lastPush": "2026-10-22T22:42:40Z",
@@ -500,7 +500,7 @@
     },
     "PPR-Meta": {
       "source": "github",
-      "stars": 43,
+      "stars": 44,
       "forks": 10,
       "openIssues": 18,
       "lastPush": "2021-04-13T12:02:35Z",
@@ -533,7 +533,7 @@
     },
     "VIBRANT": {
       "source": "github",
-      "stars": 209,
+      "stars": 211,
       "forks": 41,
       "openIssues": 55,
       "lastPush": "2024-04-15T16:30:04Z",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 304,
+      "stars": 305,
       "forks": 36,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -599,7 +599,7 @@
     },
     "vRhyme": {
       "source": "github",
-      "stars": 78,
+      "stars": 79,
       "forks": 15,
       "openIssues": 34,
       "lastPush": "2022-07-13T00:13:53Z",
@@ -869,7 +869,7 @@
     },
     "DefenseFinder": {
       "source": "github",
-      "stars": 188,
+      "stars": 189,
       "forks": 25,
       "openIssues": 0,
       "lastPush": "2026-09-01T11:07:11Z",
@@ -913,7 +913,7 @@
     },
     "RdRp-scan": {
       "source": "github",
-      "stars": 41,
+      "stars": 42,
       "forks": 7,
       "openIssues": 6,
       "lastPush": "2022-03-25T03:27:38Z",
@@ -957,7 +957,7 @@
     },
     "ViralVerify": {
       "source": "github",
-      "stars": 79,
+      "stars": 80,
       "forks": 12,
       "openIssues": 5,
       "lastPush": "2026-02-19T06:54:50Z",
@@ -1013,7 +1013,7 @@
     "CZ ID": {
       "source": "github",
       "stars": 53,
-      "forks": 14,
+      "forks": 15,
       "openIssues": 19,
       "lastPush": "2026-04-23T00:47:40Z",
       "archived": false,
@@ -1067,7 +1067,7 @@
     },
     "VirHostMatcher": {
       "source": "github",
-      "stars": 32,
+      "stars": 33,
       "forks": 4,
       "openIssues": 9,
       "lastPush": "2018-07-28T05:59:42Z",
@@ -1100,7 +1100,7 @@
     },
     "VirHostMatcher-Net": {
       "source": "github",
-      "stars": 21,
+      "stars": 22,
       "forks": 1,
       "openIssues": 5,
       "lastPush": "2026-03-08T07:50:13Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 435,
+      "stars": 436,
       "forks": 97,
       "openIssues": 1,
       "lastPush": "2026-11-16T12:13:03Z",
