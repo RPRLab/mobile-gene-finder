@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-19T15:26:57.242Z",
+  "lastScraped": "2026-11-20T15:03:45.724Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -133,8 +133,8 @@
       "source": "github",
       "stars": 346,
       "forks": 64,
-      "openIssues": 133,
-      "lastPush": "2026-11-19T08:13:48Z",
+      "openIssues": 132,
+      "lastPush": "2026-11-20T01:03:59Z",
       "archived": false,
       "description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
       "license": "GPL-3.0",
@@ -164,7 +164,7 @@
     },
     "geNomad": {
       "source": "github",
-      "stars": 347,
+      "stars": 346,
       "forks": 28,
       "openIssues": 71,
       "lastPush": "2026-10-14T04:18:01Z",
@@ -324,7 +324,7 @@
     },
     "PhageBoost": {
       "source": "github",
-      "stars": 39,
+      "stars": 40,
       "forks": 8,
       "openIssues": 25,
       "lastPush": "2024-12-20T17:40:44Z",
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 305,
+      "stars": 304,
       "forks": 36,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -610,7 +610,7 @@
     },
     "What the Phage": {
       "source": "github",
-      "stars": 108,
+      "stars": 109,
       "forks": 15,
       "openIssues": 9,
       "lastPush": "2026-10-06T11:40:18Z",
@@ -1056,7 +1056,7 @@
     },
     "INPHARED": {
       "source": "github",
-      "stars": 83,
+      "stars": 84,
       "forks": 10,
       "openIssues": 5,
       "lastPush": "2025-04-16T10:25:16Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 436,
+      "stars": 435,
       "forks": 97,
       "openIssues": 1,
       "lastPush": "2026-11-16T12:13:03Z",
