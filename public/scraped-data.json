@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-23T17:40:15.167Z",
+  "lastScraped": "2026-11-24T17:11:34.992Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -56,7 +56,7 @@
       "source": "github",
       "stars": 974,
       "forks": 168,
-      "openIssues": 305,
+      "openIssues": 306,
       "lastPush": "2026-10-22T22:42:40Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -293,7 +293,7 @@
       "source": "github",
       "stars": 974,
       "forks": 168,
-      "openIssues": 305,
+      "openIssues": 306,
       "lastPush": "2026-10-22T22:42:40Z",
       "archived": false,
       "description": "SPAdes Genome Assembler",
@@ -403,8 +403,8 @@
       "source": "github",
       "stars": 239,
       "forks": 29,
-      "openIssues": 18,
-      "lastPush": "2026-11-23T11:04:50Z",
+      "openIssues": 16,
+      "lastPush": "2026-11-23T22:22:40Z",
       "archived": false,
       "description": "Pharokka is a rapid standardised annotation tool for bacteriophage genomes and metagenomes.",
       "license": "MIT",
@@ -467,7 +467,7 @@
     },
     "PlasFlow": {
       "source": "github",
-      "stars": 111,
+      "stars": 112,
       "forks": 27,
       "openIssues": 17,
       "lastPush": "2021-06-28T17:00:50Z",
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 154,
       "forks": 21,
-      "openIssues": 21,
-      "lastPush": "2026-11-22T21:26:57Z",
+      "openIssues": 20,
+      "lastPush": "2026-11-24T14:40:10Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -847,7 +847,7 @@
     },
     "taxMyPhage": {
       "source": "github",
-      "stars": 42,
+      "stars": 43,
       "forks": 4,
       "openIssues": 5,
       "lastPush": "2026-04-20T20:37:12Z",
@@ -1122,7 +1122,7 @@
     },
     "MetaPhlAn 4": {
       "source": "github",
-      "stars": 435,
+      "stars": 436,
       "forks": 97,
       "openIssues": 1,
       "lastPush": "2026-11-16T12:13:03Z",
