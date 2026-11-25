@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-11-24T17:11:34.992Z",
+  "lastScraped": "2026-11-25T16:57:16.561Z",
   "toolCount": 123,
   "data": {
     "Bacant": {
@@ -588,7 +588,7 @@
     },
     "VirSorter2": {
       "source": "github",
-      "stars": 304,
+      "stars": 305,
       "forks": 36,
       "openIssues": 118,
       "lastPush": "2024-11-28T08:00:09Z",
@@ -722,8 +722,8 @@
       "source": "github",
       "stars": 154,
       "forks": 21,
-      "openIssues": 20,
-      "lastPush": "2026-11-24T14:40:10Z",
+      "openIssues": 22,
+      "lastPush": "2026-11-24T23:38:39Z",
       "archived": false,
       "description": "VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies",
       "license": "Apache-2.0",
@@ -1147,7 +1147,7 @@
       "stars": 10,
       "forks": 2,
       "openIssues": 2,
-      "lastPush": "2026-11-23T12:39:57Z",
+      "lastPush": "2026-11-25T10:45:21Z",
       "archived": false,
       "description": "VirMake is a Snakemake based pipeline that offers viral metagenic data analysis on paired-end data. It offers taxonomic and functional annotation, supports offline running and support for HPC cluster execution. It is made for Linux based systems and has been tested on SLURM cluster execution.",
       "license": "GPL-3.0",
